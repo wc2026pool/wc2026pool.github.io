@@ -1,0 +1,200 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bracket Points</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js" defer></script>
+    <style>
+        body { font-family: Verdana, Geneva, sans-serif; background-color: #f8f9fa; margin: 0; padding: 0; }
+        .container { max-width: 680px; margin: auto; padding: 20px; }
+        .card {
+            background: white; border: 1px solid #ccc; margin-bottom: 16px;
+            padding: 12px 16px; border-radius: 8px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+        }
+        h1 { text-align: center; color: #2c3e50; white-space: nowrap; }
+        h2 { text-align: center; color: #2c3e50; margin-top: 0; margin-bottom: 0; }
+        h3 { text-align: center; color: #555; margin-top: 0; font-size: 0.85em; }
+
+        /* Total Points Box */
+        .total-box {
+            display: flex; flex-direction: column; align-items: center; justify-content: center;
+            background-color: #000; color: #fff; font-weight: bold;
+            border-radius: 16px; width: 120px; height: 120px;
+            margin: 16px auto 8px auto;
+        }
+        .total-box .total-val { font-size: 3em; line-height: 1.1; }
+
+        /* BRACKET GRID */
+        /* 3 columns: Predicted | Pts | Actual */
+        .bracket-grid {
+            display: grid;
+            grid-template-columns: 1fr 70px 1fr;
+            gap: 0;
+            align-items: stretch;
+        }
+        .bracket-header {
+            font-weight: bold; background: #e9ecef;
+            padding: 6px 8px; border-radius: 4px;
+            text-align: center; font-size: 0.85em;
+        }
+        /* Each game block: two rows (home + away) */
+        .game-block {
+            display: contents; /* lets children participate in parent grid */
+        }
+        .game-cell {
+            padding: 4px 8px;
+            border-bottom: 1px solid #eee;
+            font-size: 0.82em;
+        }
+        .game-cell.predicted { text-align: left; }
+        .game-cell.actual    { text-align: left; color: #1a6bbf; font-weight: bold; }
+
+        /* Pts cell spans 2 rows (home + away) */
+        .pts-span {
+            display: flex; align-items: center; justify-content: center;
+            font-size: 1.6em; font-weight: bold;
+            border-bottom: 2px solid #ddd;
+            border-radius: 3px;
+        }
+        .pts-zero  { background-color: #FFC7CE; color: #EA002D; }
+        .pts-pos   { background-color: #C6EFCE; color: #006100; }
+
+        /* Separator between games */
+        .game-divider {
+            grid-column: 1 / -1;
+            border: none;
+            border-top: 2px solid #dee2e6;
+            margin: 0;
+        }
+
+        /* Override navbar sticky since parent handles it */
+        .navbar { position: relative !important; }
+
+        /* STICKY HEADER */
+        .sticky-header {
+            position: sticky;
+            top: 0;
+            z-index: 999;
+            background-color: #f8f9fa;
+        }
+        .sticky-divider {
+            border: none;
+            border-top: 2px solid #dee2e6;
+            margin: 0;
+        }
+
+        /* MOBILE */
+        @media (max-width: 700px) {
+            .container { max-width: 100%; padding: 10px; }
+            h1 { font-size: 1.2em; }
+            h2 { font-size: 1em; }
+            h3 { font-size: 0.75em; }
+            .total-box { width: 90px; height: 90px; }
+            .total-box .total-val { font-size: 2.2em; }
+            .bracket-grid { grid-template-columns: 1fr 55px 1fr; }
+            .game-cell { font-size: 0.75em; padding: 3px 5px; }
+            .pts-span { font-size: 1.3em; }
+            .bracket-header { font-size: 0.75em; }
+        }
+    </style>
+</head>
+<body>
+
+<div class="sticky-header">
+    <div id="navbar"></div>
+    <div class="container">
+        <h1 id="participantTitle">Loading...</h1>
+        <div id="totalBox"></div>
+    </div>
+    <hr class="sticky-divider">
+</div>
+
+<div class="container">
+    <div id="content"></div>
+</div>
+
+<script>
+    fetch('../navbar.html')
+        .then(response => response.text())
+        .then(html => {
+            const navEl = document.getElementById('navbar');
+            navEl.innerHTML = html.replace(/<script[\s\S]*?<\/script>/gi, '');
+            const scriptMatch = html.match(/<script>([\s\S]*?)<\/script>/i);
+            if (scriptMatch) {
+                const s = document.createElement('script');
+                s.textContent = scriptMatch[1];
+                document.body.appendChild(s);
+            }
+        });
+
+    const params = new URLSearchParams(window.location.search);
+    const rawName = params.get('name') || "Participant";
+    const displayName = rawName.split('_bracket_pts')[0];
+    document.getElementById('participantTitle').innerText = `${displayName}'s BRACKET Points`;
+
+    // Builds the HTML for one round card
+    function buildRoundCard(title, games) {
+        let html = `<div class="card">
+            <h3>${title}</h3>
+            <div class="bracket-grid">
+                <div class="bracket-header">Predicted</div>
+                <div class="bracket-header">Pts</div>
+                <div class="bracket-header">Actual</div>`;
+
+        games.forEach((g, i) => {
+            const ptsClass = g.pts_awarded === 0 ? 'pts-zero' : 'pts-pos';
+
+            // Home row
+            html += `
+                <div class="game-cell predicted">${g.pred_home_name} <strong>${g.pred_home_score}</strong></div>
+                <div class="pts-span ${ptsClass}" style="grid-row: span 2">${g.pts_awarded}</div>
+                <div class="game-cell actual">${g.act_home_name} <strong>${g.act_home_score}</strong></div>`;
+
+            // Away row
+            html += `
+                <div class="game-cell predicted">${g.pred_away_name} <strong>${g.pred_away_score}</strong></div>
+                <div class="game-cell actual">${g.act_away_name} <strong>${g.act_away_score}</strong></div>`;
+
+            // Divider between games (not after last)
+            if (i < games.length - 1) {
+                html += `<hr class="game-divider">`;
+            }
+        });
+
+        html += `</div></div>`;
+        return html;
+    }
+
+    fetch('./bracket_pts.json')
+        .then(response => response.json())
+        .then(data => {
+            const pData = data[rawName];
+            if (!pData) return;
+
+            document.getElementById('totalBox').innerHTML = `
+                <div class="total-box">
+                    <div class="total-val">${pData.total_points ?? '—'}</div>
+                </div>`;
+
+            const rounds = [
+                { key: 'round_of_32',    title: 'Round of 32'   },
+                { key: 'round_of_16',    title: 'Round of 16'   },
+                { key: 'quarterfinals',  title: 'Quarter-Finals' },
+                { key: 'semifinals',     title: 'Semi-Finals'   },
+                { key: 'finals',         title: 'Finals'        }
+            ];
+
+            let html = '';
+            rounds.forEach(r => {
+                if (pData[r.key] && pData[r.key].length > 0) {
+                    html += buildRoundCard(r.title, pData[r.key]);
+                }
+            });
+
+            document.getElementById('content').innerHTML = html;
+        });
+</script>
+</body>
+</html>
