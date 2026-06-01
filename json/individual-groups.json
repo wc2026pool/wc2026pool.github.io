@@ -2,51 +2,543 @@
   "groups": [
     {
       "title": "Group A",
-      "rows": []
+      "rows": [
+        {
+          "col1": "Fernando",
+          "col2": "4"
+        },
+        {
+          "col1": "Shawn2",
+          "col2": "4"
+        },
+        {
+          "col1": "Ali",
+          "col2": "3"
+        },
+        {
+          "col1": "Coco",
+          "col2": "3"
+        },
+        {
+          "col1": "Darryll",
+          "col2": "3"
+        },
+        {
+          "col1": "Diane",
+          "col2": "3"
+        },
+        {
+          "col1": "Dora",
+          "col2": "3"
+        },
+        {
+          "col1": "FrankI",
+          "col2": "3"
+        },
+        {
+          "col1": "Frankie",
+          "col2": "3"
+        },
+        {
+          "col1": "Gary",
+          "col2": "3"
+        }
+      ]
     },
     {
       "title": "Group B",
-      "rows": []
+      "rows": [
+        {
+          "col1": "Ash",
+          "col2": "3"
+        },
+        {
+          "col1": "Brendan",
+          "col2": "3"
+        },
+        {
+          "col1": "Carmen",
+          "col2": "3"
+        },
+        {
+          "col1": "EdwardT",
+          "col2": "3"
+        },
+        {
+          "col1": "Jerry",
+          "col2": "3"
+        },
+        {
+          "col1": "RobSi",
+          "col2": "3"
+        },
+        {
+          "col1": "Bindu",
+          "col2": "2"
+        },
+        {
+          "col1": "Chrissy",
+          "col2": "2"
+        },
+        {
+          "col1": "Coco",
+          "col2": "2"
+        },
+        {
+          "col1": "Dora",
+          "col2": "2"
+        }
+      ]
     },
     {
       "title": "Group C",
-      "rows": []
+      "rows": [
+        {
+          "col1": "Major",
+          "col2": "3"
+        },
+        {
+          "col1": "Nuno1",
+          "col2": "3"
+        },
+        {
+          "col1": "Adam",
+          "col2": "2"
+        },
+        {
+          "col1": "Albeiro",
+          "col2": "2"
+        },
+        {
+          "col1": "Andres",
+          "col2": "2"
+        },
+        {
+          "col1": "AnthonyA",
+          "col2": "2"
+        },
+        {
+          "col1": "Cameron",
+          "col2": "2"
+        },
+        {
+          "col1": "CarlosSal",
+          "col2": "2"
+        },
+        {
+          "col1": "ChrisP",
+          "col2": "2"
+        },
+        {
+          "col1": "CMD88",
+          "col2": "2"
+        }
+      ]
     },
     {
       "title": "Group D",
-      "rows": []
+      "rows": [
+        {
+          "col1": "Darren",
+          "col2": "3"
+        },
+        {
+          "col1": "Darryll",
+          "col2": "3"
+        },
+        {
+          "col1": "Hernani",
+          "col2": "3"
+        },
+        {
+          "col1": "Ida",
+          "col2": "3"
+        },
+        {
+          "col1": "Jess",
+          "col2": "3"
+        },
+        {
+          "col1": "Nuno2",
+          "col2": "3"
+        },
+        {
+          "col1": "RichardMo",
+          "col2": "3"
+        },
+        {
+          "col1": "Adam",
+          "col2": "2"
+        },
+        {
+          "col1": "AI",
+          "col2": "2"
+        },
+        {
+          "col1": "Alex",
+          "col2": "2"
+        }
+      ]
     },
     {
       "title": "Group E",
-      "rows": []
+      "rows": [
+        {
+          "col1": "Jess",
+          "col2": "3"
+        },
+        {
+          "col1": "Maria",
+          "col2": "3"
+        },
+        {
+          "col1": "Rousse",
+          "col2": "3"
+        },
+        {
+          "col1": "Adam",
+          "col2": "2"
+        },
+        {
+          "col1": "Albeiro",
+          "col2": "2"
+        },
+        {
+          "col1": "Alnashir",
+          "col2": "2"
+        },
+        {
+          "col1": "Ana",
+          "col2": "2"
+        },
+        {
+          "col1": "Arturo",
+          "col2": "2"
+        },
+        {
+          "col1": "Bert",
+          "col2": "2"
+        },
+        {
+          "col1": "Frankie",
+          "col2": "2"
+        }
+      ]
     },
     {
       "title": "Group F",
-      "rows": []
+      "rows": [
+        {
+          "col1": "Sean",
+          "col2": "4"
+        },
+        {
+          "col1": "BrianS",
+          "col2": "3"
+        },
+        {
+          "col1": "CMD88",
+          "col2": "3"
+        },
+        {
+          "col1": "EricK",
+          "col2": "3"
+        },
+        {
+          "col1": "GustavoL",
+          "col2": "3"
+        },
+        {
+          "col1": "Shawn1",
+          "col2": "3"
+        },
+        {
+          "col1": "Vishal",
+          "col2": "3"
+        },
+        {
+          "col1": "Albeiro",
+          "col2": "2"
+        },
+        {
+          "col1": "Alex",
+          "col2": "2"
+        },
+        {
+          "col1": "Alnashir",
+          "col2": "2"
+        }
+      ]
     },
     {
       "title": "Group G",
-      "rows": []
+      "rows": [
+        {
+          "col1": "Edsel",
+          "col2": "3"
+        },
+        {
+          "col1": "JoeD",
+          "col2": "3"
+        },
+        {
+          "col1": "Adam",
+          "col2": "2"
+        },
+        {
+          "col1": "Alex",
+          "col2": "2"
+        },
+        {
+          "col1": "Ali",
+          "col2": "2"
+        },
+        {
+          "col1": "Arturo",
+          "col2": "2"
+        },
+        {
+          "col1": "Bert",
+          "col2": "2"
+        },
+        {
+          "col1": "CarlosD",
+          "col2": "2"
+        },
+        {
+          "col1": "DanielR",
+          "col2": "2"
+        },
+        {
+          "col1": "Dashiel",
+          "col2": "2"
+        }
+      ]
     },
     {
       "title": "Group H",
-      "rows": []
+      "rows": [
+        {
+          "col1": "CarlosD",
+          "col2": "3"
+        },
+        {
+          "col1": "Jerry",
+          "col2": "3"
+        },
+        {
+          "col1": "Mauricio",
+          "col2": "3"
+        },
+        {
+          "col1": "Melissa",
+          "col2": "3"
+        },
+        {
+          "col1": "Andres",
+          "col2": "2"
+        },
+        {
+          "col1": "Augie",
+          "col2": "2"
+        },
+        {
+          "col1": "Bert",
+          "col2": "2"
+        },
+        {
+          "col1": "Cameron",
+          "col2": "2"
+        },
+        {
+          "col1": "ChristianL",
+          "col2": "2"
+        },
+        {
+          "col1": "DanielR",
+          "col2": "2"
+        }
+      ]
     },
     {
       "title": "Group I",
-      "rows": []
+      "rows": [
+        {
+          "col1": "FrankI",
+          "col2": "3"
+        },
+        {
+          "col1": "Igor",
+          "col2": "3"
+        },
+        {
+          "col1": "TomI",
+          "col2": "3"
+        },
+        {
+          "col1": "AI",
+          "col2": "2"
+        },
+        {
+          "col1": "Augie",
+          "col2": "2"
+        },
+        {
+          "col1": "Carmen",
+          "col2": "2"
+        },
+        {
+          "col1": "Chi",
+          "col2": "2"
+        },
+        {
+          "col1": "Coco",
+          "col2": "2"
+        },
+        {
+          "col1": "DannyL",
+          "col2": "2"
+        },
+        {
+          "col1": "Dora",
+          "col2": "2"
+        }
+      ]
     },
     {
       "title": "Group J",
-      "rows": []
+      "rows": [
+        {
+          "col1": "Mugwe",
+          "col2": "4"
+        },
+        {
+          "col1": "AI",
+          "col2": "3"
+        },
+        {
+          "col1": "FrankD",
+          "col2": "3"
+        },
+        {
+          "col1": "Lindsey",
+          "col2": "3"
+        },
+        {
+          "col1": "PaulA",
+          "col2": "3"
+        },
+        {
+          "col1": "CarlosD",
+          "col2": "2"
+        },
+        {
+          "col1": "ChrisK",
+          "col2": "2"
+        },
+        {
+          "col1": "ChrisN",
+          "col2": "2"
+        },
+        {
+          "col1": "DannyRa",
+          "col2": "2"
+        },
+        {
+          "col1": "DarrylMFC",
+          "col2": "2"
+        }
+      ]
     },
     {
       "title": "Group K",
-      "rows": []
+      "rows": [
+        {
+          "col1": "Chi",
+          "col2": "3"
+        },
+        {
+          "col1": "DanielR",
+          "col2": "3"
+        },
+        {
+          "col1": "AI",
+          "col2": "2"
+        },
+        {
+          "col1": "Alice",
+          "col2": "2"
+        },
+        {
+          "col1": "Cameron",
+          "col2": "2"
+        },
+        {
+          "col1": "Deylin",
+          "col2": "2"
+        },
+        {
+          "col1": "Ethan",
+          "col2": "2"
+        },
+        {
+          "col1": "Fernanda",
+          "col2": "2"
+        },
+        {
+          "col1": "Flavio",
+          "col2": "2"
+        },
+        {
+          "col1": "HelderA",
+          "col2": "2"
+        }
+      ]
     },
     {
       "title": "Group L",
-      "rows": []
+      "rows": [
+        {
+          "col1": "Darryll",
+          "col2": "3"
+        },
+        {
+          "col1": "Hernani",
+          "col2": "3"
+        },
+        {
+          "col1": "JamesP",
+          "col2": "3"
+        },
+        {
+          "col1": "Max",
+          "col2": "3"
+        },
+        {
+          "col1": "MikeD",
+          "col2": "3"
+        },
+        {
+          "col1": "TonyV",
+          "col2": "3"
+        },
+        {
+          "col1": "Alex",
+          "col2": "2"
+        },
+        {
+          "col1": "Alnashir",
+          "col2": "2"
+        },
+        {
+          "col1": "Arturo",
+          "col2": "2"
+        },
+        {
+          "col1": "DannyRa",
+          "col2": "2"
+        }
+      ]
     }
   ]
 }
