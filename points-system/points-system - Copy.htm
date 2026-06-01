@@ -461,7 +461,34 @@
 </head>
 <body>
 
-<div id="navbar-placeholder"></div>
+<nav class="navbar navbar-expand-lg navbar-dark">
+    <div class="container-fluid">
+        <a class="navbar-brand" href="standings-a.htm">2026 WORLD CUP POOL</a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+            <div class="navbar-nav">
+                <a class="nav-link" href="/index.htm">Standings</a>
+                <a class="nav-link" href="/prizes/prizes.htm">Prizes</a>
+                <div class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" href="#" id="statsDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                        Stats
+                    </a>
+                    <ul class="dropdown-menu" aria-labelledby="statsDropdown">
+                        <li><a class="dropdown-item" href="/stats/group-matches-accuracy.htm">Group Stage Accuracy</a></li>
+                        <li><a class="dropdown-item" href="/stats/individual-groups.htm">Individual Groups</a></li>
+                        <li><a class="dropdown-item" href="/stats/bracket-matchups.htm">Top Bracket Matchups</a></li>
+                        <li><a class="dropdown-item" href="/stats/bracket-accuracy.htm">Bracket Accuracy</a></li>
+                        <li><a class="dropdown-item" href="/stats/top-bonus-answers.htm">Top "Side Game" Answers</a></li>
+                    </ul>
+                </div>
+                <a class="nav-link" href="/tallies/tallies.htm">Tallies</a>
+                <a class="nav-link active" href="/points-system/points-system.htm">Points System</a>
+            </div>
+        </div>
+    </div>
+</nav>
 
 <div class="content-wrapper">
     
@@ -770,30 +797,6 @@ function toggleExp(id, btn) {
         btn.classList.add('open');
     }
 }
-
-fetch('/navbar.html')
-    .then(r => r.text())
-    .then(html => {
-        // Extract style blocks if present in the fetched navbar
-        const styleMatch = html.match(/<style>([\s\S]*?)<\/style>/i);
-        if (styleMatch) {
-            const style = document.createElement('style');
-            style.textContent = styleMatch[1];
-            document.head.appendChild(style);
-        }
-        // Inject the clean HTML structure
-        document.getElementById('navbar-placeholder').innerHTML = html
-            .replace(/<style>[\s\S]*?<\/style>/i, '')
-            .replace(/<script[\s\S]*?<\/script>/gi, '');
-        
-        // Execute scripts inside the fetched navbar if applicable
-        const scriptMatch = html.match(/<script>([\s\S]*?)<\/script>/i);
-        if (scriptMatch) {
-            const s = document.createElement('script');
-            s.textContent = scriptMatch[1];
-            document.body.appendChild(s);
-        }
-    });
 </script>
 </body>
 </html>
