@@ -61,7 +61,7 @@
             border-bottom: 1px solid #eee;
         }
         .match-home { flex: 1; text-align: right; padding-right: 6px; }
-        .match-score { white-space: nowrap; font-weight: bold; text-align: center; min-width: 40px; }
+        .match-score { white-space: nowrap; font-weight: bold; color: #305CDE; text-align: center; min-width: 40px; }
         .match-away { flex: 1; text-align: left; padding-left: 6px; }
 
         /* ── GROUP RANK: 2 rows × 6 cards, 33% narrower ── */
@@ -73,7 +73,7 @@
             margin: 0 auto;
         }
         .rank-col { text-align: center; }
-        .rank-item { padding: 3px 2px; font-size: 0.85em; background: white; border-bottom: 1px solid #eee; }
+        .rank-item { padding: 3px 2px; font-size: 0.85em; background: white; color: #305CDE; border-bottom: 1px solid #eee; }
 
         /* ── KNOCKOUT STAGE: 3-column layout, 70% narrower ── */
         .knockout-outer {
@@ -205,7 +205,7 @@
 
     // Fetch all JSONs in parallel
     Promise.all([
-        fetch('/json/possible_pts.json').then(r => r.json()),
+        fetch('/json/group_pts.json').then(r => r.json()),
         fetch('/json/knockout_pts.json').then(r => r.json()),
         fetch('/json/bonus_pts.json').then(r => r.json())
     ]).then(([possData, koData, bonusData]) => {
