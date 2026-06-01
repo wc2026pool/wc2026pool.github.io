@@ -337,7 +337,7 @@
         `;
 
         // Helper to clear out empty zeros for clean viewing
-        const fmtNum = (val) => (val === 0 || val === "0" ? "" : val);
+		const fmtNum = (val) => (val === null || val === undefined || val === "" ? "" : val);
 
         // 2. Build Match Data Rows Dynamically
         const matches = data.matches || [];
