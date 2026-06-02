@@ -58123,10 +58123,10 @@
     "Nuno2": {
         "round_of_32": [
             {
-                "pred_home_name": "",
-                "pred_home_score": 0,
-                "pred_away_name": "",
-                "pred_away_score": 0,
+                "pred_home_name": "Mexico",
+                "pred_home_score": 2,
+                "pred_away_name": "Spain",
+                "pred_away_score": 2,
                 "act_home_name": "Mexico",
                 "act_home_score": 0,
                 "act_away_name": "Spain",
@@ -58134,10 +58134,10 @@
                 "pts_awarded": 0
             },
             {
-                "pred_home_name": "",
-                "pred_home_score": 0,
-                "pred_away_name": "",
-                "pred_away_score": 0,
+                "pred_home_name": "Ivory Coast",
+                "pred_home_score": 4,
+                "pred_away_name": "Portugal",
+                "pred_away_score": 1,
                 "act_home_name": "Ivory Coast",
                 "act_home_score": 0,
                 "act_away_name": "Portugal",
@@ -58145,9 +58145,9 @@
                 "pts_awarded": 0
             },
             {
-                "pred_home_name": "",
-                "pred_home_score": 0,
-                "pred_away_name": "",
+                "pred_home_name": "France",
+                "pred_home_score": 2,
+                "pred_away_name": "Haiti",
                 "pred_away_score": 0,
                 "act_home_name": "France",
                 "act_home_score": 0,
@@ -58156,10 +58156,10 @@
                 "pts_awarded": 0
             },
             {
-                "pred_home_name": "",
+                "pred_home_name": "Croatia",
                 "pred_home_score": 0,
-                "pred_away_name": "",
-                "pred_away_score": 0,
+                "pred_away_name": "Senegal",
+                "pred_away_score": 4,
                 "act_home_name": "Croatia",
                 "act_home_score": 0,
                 "act_away_name": "Senegal",
@@ -58167,10 +58167,10 @@
                 "pts_awarded": 0
             },
             {
-                "pred_home_name": "",
-                "pred_home_score": 0,
-                "pred_away_name": "",
-                "pred_away_score": 0,
+                "pred_home_name": "England",
+                "pred_home_score": 4,
+                "pred_away_name": "Argentina",
+                "pred_away_score": 1,
                 "act_home_name": "England",
                 "act_home_score": 0,
                 "act_away_name": "Argentina",
@@ -58178,10 +58178,10 @@
                 "pts_awarded": 0
             },
             {
-                "pred_home_name": "",
-                "pred_home_score": 0,
-                "pred_away_name": "",
-                "pred_away_score": 0,
+                "pred_home_name": "Ecuador",
+                "pred_home_score": 3,
+                "pred_away_name": "South Africa",
+                "pred_away_score": 3,
                 "act_home_name": "Ecuador",
                 "act_home_score": 0,
                 "act_away_name": "South Africa",
@@ -58189,10 +58189,10 @@
                 "pts_awarded": 0
             },
             {
-                "pred_home_name": "",
+                "pred_home_name": "Germany",
                 "pred_home_score": 0,
-                "pred_away_name": "",
-                "pred_away_score": 0,
+                "pred_away_name": "Canada",
+                "pred_away_score": 1,
                 "act_home_name": "Germany",
                 "act_home_score": 0,
                 "act_away_name": "Canada",
@@ -58200,9 +58200,9 @@
                 "pts_awarded": 0
             },
             {
-                "pred_home_name": "",
+                "pred_home_name": "South Korea",
                 "pred_home_score": 0,
-                "pred_away_name": "",
+                "pred_away_name": "USA",
                 "pred_away_score": 0,
                 "act_home_name": "South Korea",
                 "act_home_score": 0,
@@ -58211,10 +58211,10 @@
                 "pts_awarded": 0
             },
             {
-                "pred_home_name": "",
-                "pred_home_score": 0,
-                "pred_away_name": "",
-                "pred_away_score": 0,
+                "pred_home_name": "Norway",
+                "pred_home_score": 2,
+                "pred_away_name": "Morocco",
+                "pred_away_score": 3,
                 "act_home_name": "Norway",
                 "act_home_score": 0,
                 "act_away_name": "Morocco",
@@ -58222,10 +58222,10 @@
                 "pts_awarded": 0
             },
             {
-                "pred_home_name": "",
-                "pred_home_score": 0,
-                "pred_away_name": "",
-                "pred_away_score": 0,
+                "pred_home_name": "Algeria",
+                "pred_home_score": 2,
+                "pred_away_name": "Colombia",
+                "pred_away_score": 1,
                 "act_home_name": "Algeria",
                 "act_home_score": 0,
                 "act_away_name": "Colombia",
@@ -58233,10 +58233,10 @@
                 "pts_awarded": 0
             },
             {
-                "pred_home_name": "",
-                "pred_home_score": 0,
-                "pred_away_name": "",
-                "pred_away_score": 0,
+                "pred_home_name": "Jordan",
+                "pred_home_score": 1,
+                "pred_away_name": "Switzerland",
+                "pred_away_score": 4,
                 "act_home_name": "Jordan",
                 "act_home_score": 0,
                 "act_away_name": "Switzerland",
@@ -58244,10 +58244,10 @@
                 "pts_awarded": 0
             },
             {
-                "pred_home_name": "",
-                "pred_home_score": 0,
-                "pred_away_name": "",
-                "pred_away_score": 0,
+                "pred_home_name": "Brazil",
+                "pred_home_score": 4,
+                "pred_away_name": "Scotland",
+                "pred_away_score": 1,
                 "act_home_name": "Brazil",
                 "act_home_score": 0,
                 "act_away_name": "Scotland",
@@ -58255,10 +58255,10 @@
                 "pts_awarded": 0
             },
             {
-                "pred_home_name": "",
-                "pred_home_score": 0,
-                "pred_away_name": "",
-                "pred_away_score": 0,
+                "pred_home_name": "Ghana",
+                "pred_home_score": 3,
+                "pred_away_name": "Paraguay",
+                "pred_away_score": 3,
                 "act_home_name": "Ghana",
                 "act_home_score": 0,
                 "act_away_name": "Paraguay",
@@ -58266,9 +58266,9 @@
                 "pts_awarded": 0
             },
             {
-                "pred_home_name": "",
-                "pred_home_score": 0,
-                "pred_away_name": "",
+                "pred_home_name": "Netherlands",
+                "pred_home_score": 4,
+                "pred_away_name": "Iran",
                 "pred_away_score": 0,
                 "act_home_name": "Netherlands",
                 "act_home_score": 0,
@@ -58277,10 +58277,10 @@
                 "pts_awarded": 0
             },
             {
-                "pred_home_name": "",
-                "pred_home_score": 0,
-                "pred_away_name": "",
-                "pred_away_score": 0,
+                "pred_home_name": "Uruguay",
+                "pred_home_score": 1,
+                "pred_away_name": "Japan",
+                "pred_away_score": 2,
                 "act_home_name": "Uruguay",
                 "act_home_score": 0,
                 "act_away_name": "Japan",
@@ -58288,10 +58288,10 @@
                 "pts_awarded": 0
             },
             {
-                "pred_home_name": "",
-                "pred_home_score": 0,
-                "pred_away_name": "",
-                "pred_away_score": 0,
+                "pred_home_name": "Australia",
+                "pred_home_score": 3,
+                "pred_away_name": "Belgium",
+                "pred_away_score": 4,
                 "act_home_name": "Australia",
                 "act_home_score": 0,
                 "act_away_name": "Belgium",
@@ -58301,9 +58301,31 @@
         ],
         "round_of_16": [
             {
-                "pred_home_name": "",
+                "pred_home_name": "Mexico",
+                "pred_home_score": 1,
+                "pred_away_name": "Ivory Coast",
+                "pred_away_score": 2,
+                "act_home_name": "",
+                "act_home_score": 0,
+                "act_away_name": "",
+                "act_away_score": 0,
+                "pts_awarded": 0
+            },
+            {
+                "pred_home_name": "France",
+                "pred_home_score": 1,
+                "pred_away_name": "Senegal",
+                "pred_away_score": 2,
+                "act_home_name": "",
+                "act_home_score": 0,
+                "act_away_name": "",
+                "act_away_score": 0,
+                "pts_awarded": 0
+            },
+            {
+                "pred_home_name": "England",
                 "pred_home_score": 0,
-                "pred_away_name": "",
+                "pred_away_name": "Ecuador",
                 "pred_away_score": 0,
                 "act_home_name": "",
                 "act_home_score": 0,
@@ -58312,9 +58334,20 @@
                 "pts_awarded": 0
             },
             {
-                "pred_home_name": "",
+                "pred_home_name": "Canada",
+                "pred_home_score": 4,
+                "pred_away_name": "South Korea",
+                "pred_away_score": 3,
+                "act_home_name": "",
+                "act_home_score": 0,
+                "act_away_name": "",
+                "act_away_score": 0,
+                "pts_awarded": 0
+            },
+            {
+                "pred_home_name": "Morocco",
                 "pred_home_score": 0,
-                "pred_away_name": "",
+                "pred_away_name": "Algeria",
                 "pred_away_score": 0,
                 "act_home_name": "",
                 "act_home_score": 0,
@@ -58323,9 +58356,20 @@
                 "pts_awarded": 0
             },
             {
-                "pred_home_name": "",
-                "pred_home_score": 0,
-                "pred_away_name": "",
+                "pred_home_name": "Switzerland",
+                "pred_home_score": 1,
+                "pred_away_name": "Brazil",
+                "pred_away_score": 3,
+                "act_home_name": "",
+                "act_home_score": 0,
+                "act_away_name": "",
+                "act_away_score": 0,
+                "pts_awarded": 0
+            },
+            {
+                "pred_home_name": "Paraguay",
+                "pred_home_score": 3,
+                "pred_away_name": "Netherlands",
                 "pred_away_score": 0,
                 "act_home_name": "",
                 "act_home_score": 0,
@@ -58334,54 +58378,10 @@
                 "pts_awarded": 0
             },
             {
-                "pred_home_name": "",
-                "pred_home_score": 0,
-                "pred_away_name": "",
-                "pred_away_score": 0,
-                "act_home_name": "",
-                "act_home_score": 0,
-                "act_away_name": "",
-                "act_away_score": 0,
-                "pts_awarded": 0
-            },
-            {
-                "pred_home_name": "",
-                "pred_home_score": 0,
-                "pred_away_name": "",
-                "pred_away_score": 0,
-                "act_home_name": "",
-                "act_home_score": 0,
-                "act_away_name": "",
-                "act_away_score": 0,
-                "pts_awarded": 0
-            },
-            {
-                "pred_home_name": "",
-                "pred_home_score": 0,
-                "pred_away_name": "",
-                "pred_away_score": 0,
-                "act_home_name": "",
-                "act_home_score": 0,
-                "act_away_name": "",
-                "act_away_score": 0,
-                "pts_awarded": 0
-            },
-            {
-                "pred_home_name": "",
-                "pred_home_score": 0,
-                "pred_away_name": "",
-                "pred_away_score": 0,
-                "act_home_name": "",
-                "act_home_score": 0,
-                "act_away_name": "",
-                "act_away_score": 0,
-                "pts_awarded": 0
-            },
-            {
-                "pred_home_name": "",
-                "pred_home_score": 0,
-                "pred_away_name": "",
-                "pred_away_score": 0,
+                "pred_home_name": "Japan",
+                "pred_home_score": 2,
+                "pred_away_name": "Belgium",
+                "pred_away_score": 4,
                 "act_home_name": "",
                 "act_home_score": 0,
                 "act_away_name": "",
@@ -58391,9 +58391,9 @@
         ],
         "quarterfinals": [
             {
-                "pred_home_name": "",
+                "pred_home_name": "Ivory Coast",
                 "pred_home_score": 0,
-                "pred_away_name": "",
+                "pred_away_name": "Senegal",
                 "pred_away_score": 0,
                 "act_home_name": "",
                 "act_home_score": 0,
@@ -58402,10 +58402,10 @@
                 "pts_awarded": 0
             },
             {
-                "pred_home_name": "",
-                "pred_home_score": 0,
-                "pred_away_name": "",
-                "pred_away_score": 0,
+                "pred_home_name": "England",
+                "pred_home_score": 4,
+                "pred_away_name": "Canada",
+                "pred_away_score": 1,
                 "act_home_name": "",
                 "act_home_score": 0,
                 "act_away_name": "",
@@ -58413,10 +58413,10 @@
                 "pts_awarded": 0
             },
             {
-                "pred_home_name": "",
-                "pred_home_score": 0,
-                "pred_away_name": "",
-                "pred_away_score": 0,
+                "pred_home_name": "Algeria",
+                "pred_home_score": 4,
+                "pred_away_name": "Brazil",
+                "pred_away_score": 3,
                 "act_home_name": "",
                 "act_home_score": 0,
                 "act_away_name": "",
@@ -58424,10 +58424,10 @@
                 "pts_awarded": 0
             },
             {
-                "pred_home_name": "",
+                "pred_home_name": "Paraguay",
                 "pred_home_score": 0,
-                "pred_away_name": "",
-                "pred_away_score": 0,
+                "pred_away_name": "Belgium",
+                "pred_away_score": 2,
                 "act_home_name": "",
                 "act_home_score": 0,
                 "act_away_name": "",
@@ -58437,10 +58437,10 @@
         ],
         "semifinals": [
             {
-                "pred_home_name": "",
+                "pred_home_name": "Senegal",
                 "pred_home_score": 0,
-                "pred_away_name": "",
-                "pred_away_score": 0,
+                "pred_away_name": "England",
+                "pred_away_score": 3,
                 "act_home_name": "",
                 "act_home_score": 0,
                 "act_away_name": "",
@@ -58448,10 +58448,10 @@
                 "pts_awarded": 0
             },
             {
-                "pred_home_name": "",
-                "pred_home_score": 0,
-                "pred_away_name": "",
-                "pred_away_score": 0,
+                "pred_home_name": "Algeria",
+                "pred_home_score": 2,
+                "pred_away_name": "Belgium",
+                "pred_away_score": 2,
                 "act_home_name": "",
                 "act_home_score": 0,
                 "act_away_name": "",
@@ -58461,10 +58461,10 @@
         ],
         "finals": [
             {
-                "pred_home_name": "",
-                "pred_home_score": 0,
-                "pred_away_name": "",
-                "pred_away_score": 0,
+                "pred_home_name": "ENGLAND",
+                "pred_home_score": 2,
+                "pred_away_name": "ALGERIA",
+                "pred_away_score": 4,
                 "act_home_name": "",
                 "act_home_score": 0,
                 "act_away_name": "",
@@ -58474,7 +58474,7 @@
         ],
         "champions": [
             {
-                "pred_home_name": "",
+                "pred_home_name": "ALGERIA",
                 "act_home_name": "",
                 "pts_awarded": 0
             }
@@ -76895,10 +76895,10 @@
     "Nuno1": {
         "round_of_32": [
             {
-                "pred_home_name": "",
-                "pred_home_score": 0,
-                "pred_away_name": "",
-                "pred_away_score": 0,
+                "pred_home_name": "Mexico",
+                "pred_home_score": 1,
+                "pred_away_name": "Spain",
+                "pred_away_score": 1,
                 "act_home_name": "Mexico",
                 "act_home_score": 0,
                 "act_away_name": "Spain",
@@ -76906,10 +76906,10 @@
                 "pts_awarded": 0
             },
             {
-                "pred_home_name": "",
-                "pred_home_score": 0,
-                "pred_away_name": "",
-                "pred_away_score": 0,
+                "pred_home_name": "Ivory Coast",
+                "pred_home_score": 4,
+                "pred_away_name": "Portugal",
+                "pred_away_score": 1,
                 "act_home_name": "Ivory Coast",
                 "act_home_score": 0,
                 "act_away_name": "Portugal",
@@ -76917,10 +76917,10 @@
                 "pts_awarded": 0
             },
             {
-                "pred_home_name": "",
-                "pred_home_score": 0,
-                "pred_away_name": "",
-                "pred_away_score": 0,
+                "pred_home_name": "France",
+                "pred_home_score": 3,
+                "pred_away_name": "Haiti",
+                "pred_away_score": 4,
                 "act_home_name": "France",
                 "act_home_score": 0,
                 "act_away_name": "Haiti",
@@ -76928,10 +76928,10 @@
                 "pts_awarded": 0
             },
             {
-                "pred_home_name": "",
+                "pred_home_name": "Croatia",
                 "pred_home_score": 0,
-                "pred_away_name": "",
-                "pred_away_score": 0,
+                "pred_away_name": "Senegal",
+                "pred_away_score": 2,
                 "act_home_name": "Croatia",
                 "act_home_score": 0,
                 "act_away_name": "Senegal",
@@ -76939,10 +76939,10 @@
                 "pts_awarded": 0
             },
             {
-                "pred_home_name": "",
+                "pred_home_name": "England",
                 "pred_home_score": 0,
-                "pred_away_name": "",
-                "pred_away_score": 0,
+                "pred_away_name": "Argentina",
+                "pred_away_score": 1,
                 "act_home_name": "England",
                 "act_home_score": 0,
                 "act_away_name": "Argentina",
@@ -76950,9 +76950,9 @@
                 "pts_awarded": 0
             },
             {
-                "pred_home_name": "",
-                "pred_home_score": 0,
-                "pred_away_name": "",
+                "pred_home_name": "Ecuador",
+                "pred_home_score": 4,
+                "pred_away_name": "South Africa",
                 "pred_away_score": 0,
                 "act_home_name": "Ecuador",
                 "act_home_score": 0,
@@ -76961,10 +76961,10 @@
                 "pts_awarded": 0
             },
             {
-                "pred_home_name": "",
-                "pred_home_score": 0,
-                "pred_away_name": "",
-                "pred_away_score": 0,
+                "pred_home_name": "Germany",
+                "pred_home_score": 2,
+                "pred_away_name": "Canada",
+                "pred_away_score": 1,
                 "act_home_name": "Germany",
                 "act_home_score": 0,
                 "act_away_name": "Canada",
@@ -76972,10 +76972,10 @@
                 "pts_awarded": 0
             },
             {
-                "pred_home_name": "",
-                "pred_home_score": 0,
-                "pred_away_name": "",
-                "pred_away_score": 0,
+                "pred_home_name": "South Korea",
+                "pred_home_score": 2,
+                "pred_away_name": "USA",
+                "pred_away_score": 2,
                 "act_home_name": "South Korea",
                 "act_home_score": 0,
                 "act_away_name": "USA",
@@ -76983,10 +76983,10 @@
                 "pts_awarded": 0
             },
             {
-                "pred_home_name": "",
-                "pred_home_score": 0,
-                "pred_away_name": "",
-                "pred_away_score": 0,
+                "pred_home_name": "Norway",
+                "pred_home_score": 3,
+                "pred_away_name": "Morocco",
+                "pred_away_score": 2,
                 "act_home_name": "Norway",
                 "act_home_score": 0,
                 "act_away_name": "Morocco",
@@ -76994,10 +76994,10 @@
                 "pts_awarded": 0
             },
             {
-                "pred_home_name": "",
-                "pred_home_score": 0,
-                "pred_away_name": "",
-                "pred_away_score": 0,
+                "pred_home_name": "Algeria",
+                "pred_home_score": 1,
+                "pred_away_name": "Colombia",
+                "pred_away_score": 4,
                 "act_home_name": "Algeria",
                 "act_home_score": 0,
                 "act_away_name": "Colombia",
@@ -77005,9 +77005,9 @@
                 "pts_awarded": 0
             },
             {
-                "pred_home_name": "",
-                "pred_home_score": 0,
-                "pred_away_name": "",
+                "pred_home_name": "Jordan",
+                "pred_home_score": 3,
+                "pred_away_name": "Switzerland",
                 "pred_away_score": 0,
                 "act_home_name": "Jordan",
                 "act_home_score": 0,
@@ -77016,10 +77016,10 @@
                 "pts_awarded": 0
             },
             {
-                "pred_home_name": "",
-                "pred_home_score": 0,
-                "pred_away_name": "",
-                "pred_away_score": 0,
+                "pred_home_name": "Brazil",
+                "pred_home_score": 3,
+                "pred_away_name": "Scotland",
+                "pred_away_score": 3,
                 "act_home_name": "Brazil",
                 "act_home_score": 0,
                 "act_away_name": "Scotland",
@@ -77027,10 +77027,10 @@
                 "pts_awarded": 0
             },
             {
-                "pred_home_name": "",
+                "pred_home_name": "Ghana",
                 "pred_home_score": 0,
-                "pred_away_name": "",
-                "pred_away_score": 0,
+                "pred_away_name": "Paraguay",
+                "pred_away_score": 4,
                 "act_home_name": "Ghana",
                 "act_home_score": 0,
                 "act_away_name": "Paraguay",
@@ -77038,10 +77038,10 @@
                 "pts_awarded": 0
             },
             {
-                "pred_home_name": "",
-                "pred_home_score": 0,
-                "pred_away_name": "",
-                "pred_away_score": 0,
+                "pred_home_name": "Netherlands",
+                "pred_home_score": 3,
+                "pred_away_name": "Iran",
+                "pred_away_score": 4,
                 "act_home_name": "Netherlands",
                 "act_home_score": 0,
                 "act_away_name": "Iran",
@@ -77049,10 +77049,10 @@
                 "pts_awarded": 0
             },
             {
-                "pred_home_name": "",
-                "pred_home_score": 0,
-                "pred_away_name": "",
-                "pred_away_score": 0,
+                "pred_home_name": "Uruguay",
+                "pred_home_score": 2,
+                "pred_away_name": "Japan",
+                "pred_away_score": 2,
                 "act_home_name": "Uruguay",
                 "act_home_score": 0,
                 "act_away_name": "Japan",
@@ -77060,10 +77060,10 @@
                 "pts_awarded": 0
             },
             {
-                "pred_home_name": "",
-                "pred_home_score": 0,
-                "pred_away_name": "",
-                "pred_away_score": 0,
+                "pred_home_name": "Australia",
+                "pred_home_score": 4,
+                "pred_away_name": "Belgium",
+                "pred_away_score": 4,
                 "act_home_name": "Australia",
                 "act_home_score": 0,
                 "act_away_name": "Belgium",
@@ -77073,9 +77073,20 @@
         ],
         "round_of_16": [
             {
-                "pred_home_name": "",
-                "pred_home_score": 0,
-                "pred_away_name": "",
+                "pred_home_name": "Spain",
+                "pred_home_score": 1,
+                "pred_away_name": "Ivory Coast",
+                "pred_away_score": 2,
+                "act_home_name": "",
+                "act_home_score": 0,
+                "act_away_name": "",
+                "act_away_score": 0,
+                "pts_awarded": 0
+            },
+            {
+                "pred_home_name": "Haiti",
+                "pred_home_score": 2,
+                "pred_away_name": "Senegal",
                 "pred_away_score": 0,
                 "act_home_name": "",
                 "act_home_score": 0,
@@ -77084,9 +77095,9 @@
                 "pts_awarded": 0
             },
             {
-                "pred_home_name": "",
-                "pred_home_score": 0,
-                "pred_away_name": "",
+                "pred_home_name": "Argentina",
+                "pred_home_score": 4,
+                "pred_away_name": "Ecuador",
                 "pred_away_score": 0,
                 "act_home_name": "",
                 "act_home_score": 0,
@@ -77095,9 +77106,31 @@
                 "pts_awarded": 0
             },
             {
-                "pred_home_name": "",
+                "pred_home_name": "Germany",
                 "pred_home_score": 0,
-                "pred_away_name": "",
+                "pred_away_name": "South Korea",
+                "pred_away_score": 3,
+                "act_home_name": "",
+                "act_home_score": 0,
+                "act_away_name": "",
+                "act_away_score": 0,
+                "pts_awarded": 0
+            },
+            {
+                "pred_home_name": "Norway",
+                "pred_home_score": 0,
+                "pred_away_name": "Colombia",
+                "pred_away_score": 2,
+                "act_home_name": "",
+                "act_home_score": 0,
+                "act_away_name": "",
+                "act_away_score": 0,
+                "pts_awarded": 0
+            },
+            {
+                "pred_home_name": "Jordan",
+                "pred_home_score": 1,
+                "pred_away_name": "Scotland",
                 "pred_away_score": 0,
                 "act_home_name": "",
                 "act_home_score": 0,
@@ -77106,10 +77139,10 @@
                 "pts_awarded": 0
             },
             {
-                "pred_home_name": "",
-                "pred_home_score": 0,
-                "pred_away_name": "",
-                "pred_away_score": 0,
+                "pred_home_name": "Paraguay",
+                "pred_home_score": 2,
+                "pred_away_name": "Iran",
+                "pred_away_score": 3,
                 "act_home_name": "",
                 "act_home_score": 0,
                 "act_away_name": "",
@@ -77117,43 +77150,10 @@
                 "pts_awarded": 0
             },
             {
-                "pred_home_name": "",
-                "pred_home_score": 0,
-                "pred_away_name": "",
-                "pred_away_score": 0,
-                "act_home_name": "",
-                "act_home_score": 0,
-                "act_away_name": "",
-                "act_away_score": 0,
-                "pts_awarded": 0
-            },
-            {
-                "pred_home_name": "",
-                "pred_home_score": 0,
-                "pred_away_name": "",
-                "pred_away_score": 0,
-                "act_home_name": "",
-                "act_home_score": 0,
-                "act_away_name": "",
-                "act_away_score": 0,
-                "pts_awarded": 0
-            },
-            {
-                "pred_home_name": "",
-                "pred_home_score": 0,
-                "pred_away_name": "",
-                "pred_away_score": 0,
-                "act_home_name": "",
-                "act_home_score": 0,
-                "act_away_name": "",
-                "act_away_score": 0,
-                "pts_awarded": 0
-            },
-            {
-                "pred_home_name": "",
-                "pred_home_score": 0,
-                "pred_away_name": "",
-                "pred_away_score": 0,
+                "pred_home_name": "Japan",
+                "pred_home_score": 3,
+                "pred_away_name": "Belgium",
+                "pred_away_score": 1,
                 "act_home_name": "",
                 "act_home_score": 0,
                 "act_away_name": "",
@@ -77163,9 +77163,31 @@
         ],
         "quarterfinals": [
             {
-                "pred_home_name": "",
-                "pred_home_score": 0,
-                "pred_away_name": "",
+                "pred_home_name": "Ivory Coast",
+                "pred_home_score": 3,
+                "pred_away_name": "Haiti",
+                "pred_away_score": 4,
+                "act_home_name": "",
+                "act_home_score": 0,
+                "act_away_name": "",
+                "act_away_score": 0,
+                "pts_awarded": 0
+            },
+            {
+                "pred_home_name": "Argentina",
+                "pred_home_score": 3,
+                "pred_away_name": "South Korea",
+                "pred_away_score": 3,
+                "act_home_name": "",
+                "act_home_score": 0,
+                "act_away_name": "",
+                "act_away_score": 0,
+                "pts_awarded": 0
+            },
+            {
+                "pred_home_name": "Colombia",
+                "pred_home_score": 2,
+                "pred_away_name": "Jordan",
                 "pred_away_score": 0,
                 "act_home_name": "",
                 "act_home_score": 0,
@@ -77174,32 +77196,10 @@
                 "pts_awarded": 0
             },
             {
-                "pred_home_name": "",
+                "pred_home_name": "Iran",
                 "pred_home_score": 0,
-                "pred_away_name": "",
-                "pred_away_score": 0,
-                "act_home_name": "",
-                "act_home_score": 0,
-                "act_away_name": "",
-                "act_away_score": 0,
-                "pts_awarded": 0
-            },
-            {
-                "pred_home_name": "",
-                "pred_home_score": 0,
-                "pred_away_name": "",
-                "pred_away_score": 0,
-                "act_home_name": "",
-                "act_home_score": 0,
-                "act_away_name": "",
-                "act_away_score": 0,
-                "pts_awarded": 0
-            },
-            {
-                "pred_home_name": "",
-                "pred_home_score": 0,
-                "pred_away_name": "",
-                "pred_away_score": 0,
+                "pred_away_name": "Japan",
+                "pred_away_score": 3,
                 "act_home_name": "",
                 "act_home_score": 0,
                 "act_away_name": "",
@@ -77209,10 +77209,10 @@
         ],
         "semifinals": [
             {
-                "pred_home_name": "",
-                "pred_home_score": 0,
-                "pred_away_name": "",
-                "pred_away_score": 0,
+                "pred_home_name": "Haiti",
+                "pred_home_score": 3,
+                "pred_away_name": "Argentina",
+                "pred_away_score": 3,
                 "act_home_name": "",
                 "act_home_score": 0,
                 "act_away_name": "",
@@ -77220,9 +77220,9 @@
                 "pts_awarded": 0
             },
             {
-                "pred_home_name": "",
-                "pred_home_score": 0,
-                "pred_away_name": "",
+                "pred_home_name": "Colombia",
+                "pred_home_score": 4,
+                "pred_away_name": "Japan",
                 "pred_away_score": 0,
                 "act_home_name": "",
                 "act_home_score": 0,
@@ -77233,10 +77233,10 @@
         ],
         "finals": [
             {
-                "pred_home_name": "",
-                "pred_home_score": 0,
-                "pred_away_name": "",
-                "pred_away_score": 0,
+                "pred_home_name": "ARGENTINA",
+                "pred_home_score": 4,
+                "pred_away_name": "COLOMBIA",
+                "pred_away_score": 4,
                 "act_home_name": "",
                 "act_home_score": 0,
                 "act_away_name": "",
@@ -77246,7 +77246,7 @@
         ],
         "champions": [
             {
-                "pred_home_name": "",
+                "pred_home_name": "ARGENTINA",
                 "act_home_name": "",
                 "pts_awarded": 0
             }

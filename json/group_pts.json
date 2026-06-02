@@ -208481,10 +208481,10 @@
             "GroupA": [
                 {
                     "home_name": "Mexico",
-                    "home_score": null,
-                    "away_score": null,
+                    "home_score": 3,
+                    "away_score": 4,
                     "away_name": "South Africa",
-                    "pts_awarded": null,
+                    "pts_awarded": 0,
                     "act_home_name": "Mexico",
                     "act_home_score": 2,
                     "act_away_score": 1,
@@ -208492,10 +208492,10 @@
                 },
                 {
                     "home_name": "South Korea",
-                    "home_score": null,
-                    "away_score": null,
+                    "home_score": 0,
+                    "away_score": 1,
                     "away_name": "Czechia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1,
                     "act_home_name": "South Korea",
                     "act_home_score": 1,
                     "act_away_score": 2,
@@ -208503,10 +208503,10 @@
                 },
                 {
                     "home_name": "Czechia",
-                    "home_score": null,
-                    "away_score": null,
+                    "home_score": 0,
+                    "away_score": 0,
                     "away_name": "South Africa",
-                    "pts_awarded": null,
+                    "pts_awarded": 1,
                     "act_home_name": "Czechia",
                     "act_home_score": 2,
                     "act_away_score": 2,
@@ -208514,10 +208514,10 @@
                 },
                 {
                     "home_name": "Mexico",
-                    "home_score": null,
-                    "away_score": null,
+                    "home_score": 1,
+                    "away_score": 2,
                     "away_name": "South Korea",
-                    "pts_awarded": null,
+                    "pts_awarded": 0,
                     "act_home_name": "Mexico",
                     "act_home_score": 1,
                     "act_away_score": 1,
@@ -208525,10 +208525,10 @@
                 },
                 {
                     "home_name": "Czechia",
-                    "home_score": null,
-                    "away_score": null,
+                    "home_score": 4,
+                    "away_score": 1,
                     "away_name": "Mexico",
-                    "pts_awarded": null,
+                    "pts_awarded": 0,
                     "act_home_name": "Czechia",
                     "act_home_score": 0,
                     "act_away_score": 2,
@@ -208536,10 +208536,10 @@
                 },
                 {
                     "home_name": "South Africa",
-                    "home_score": null,
-                    "away_score": null,
+                    "home_score": 0,
+                    "away_score": 1,
                     "away_name": "South Korea",
-                    "pts_awarded": null,
+                    "pts_awarded": 0,
                     "act_home_name": "South Africa",
                     "act_home_score": 0,
                     "act_away_score": 0,
@@ -208549,10 +208549,10 @@
             "GroupB": [
                 {
                     "home_name": "Canada",
-                    "home_score": null,
-                    "away_score": null,
+                    "home_score": 0,
+                    "away_score": 4,
                     "away_name": "Bosnia",
-                    "pts_awarded": null,
+                    "pts_awarded": 0,
                     "act_home_name": "Canada",
                     "act_home_score": 3,
                     "act_away_score": 2,
@@ -208560,10 +208560,10 @@
                 },
                 {
                     "home_name": "Qatar",
-                    "home_score": null,
-                    "away_score": null,
+                    "home_score": 3,
+                    "away_score": 0,
                     "away_name": "Switzerland",
-                    "pts_awarded": null,
+                    "pts_awarded": 0,
                     "act_home_name": "Qatar",
                     "act_home_score": 1,
                     "act_away_score": 1,
@@ -208571,10 +208571,10 @@
                 },
                 {
                     "home_name": "Switzerland",
-                    "home_score": null,
-                    "away_score": null,
+                    "home_score": 0,
+                    "away_score": 3,
                     "away_name": "Bosnia",
-                    "pts_awarded": null,
+                    "pts_awarded": 0,
                     "act_home_name": "Switzerland",
                     "act_home_score": 1,
                     "act_away_score": 0,
@@ -208582,10 +208582,10 @@
                 },
                 {
                     "home_name": "Canada",
-                    "home_score": null,
-                    "away_score": null,
+                    "home_score": 3,
+                    "away_score": 0,
                     "away_name": "Qatar",
-                    "pts_awarded": null,
+                    "pts_awarded": 1,
                     "act_home_name": "Canada",
                     "act_home_score": 2,
                     "act_away_score": 1,
@@ -208593,10 +208593,10 @@
                 },
                 {
                     "home_name": "Switzerland",
-                    "home_score": null,
-                    "away_score": null,
+                    "home_score": 4,
+                    "away_score": 2,
                     "away_name": "Canada",
-                    "pts_awarded": null,
+                    "pts_awarded": 0,
                     "act_home_name": "Switzerland",
                     "act_home_score": 0,
                     "act_away_score": 2,
@@ -208604,10 +208604,10 @@
                 },
                 {
                     "home_name": "Bosnia",
-                    "home_score": null,
-                    "away_score": null,
+                    "home_score": 4,
+                    "away_score": 0,
                     "away_name": "Qatar",
-                    "pts_awarded": null,
+                    "pts_awarded": 1,
                     "act_home_name": "Bosnia",
                     "act_home_score": 2,
                     "act_away_score": 1,
@@ -208617,10 +208617,10 @@
             "GroupC": [
                 {
                     "home_name": "Haiti",
-                    "home_score": null,
-                    "away_score": null,
+                    "home_score": 4,
+                    "away_score": 4,
                     "away_name": "Scotland",
-                    "pts_awarded": null,
+                    "pts_awarded": 1,
                     "act_home_name": "Haiti",
                     "act_home_score": 1,
                     "act_away_score": 1,
@@ -208628,10 +208628,10 @@
                 },
                 {
                     "home_name": "Brazil",
-                    "home_score": null,
-                    "away_score": null,
+                    "home_score": 2,
+                    "away_score": 1,
                     "away_name": "Morocco",
-                    "pts_awarded": null,
+                    "pts_awarded": 0,
                     "act_home_name": "Brazil",
                     "act_home_score": 1,
                     "act_away_score": 1,
@@ -208639,10 +208639,10 @@
                 },
                 {
                     "home_name": "Brazil",
-                    "home_score": null,
-                    "away_score": null,
+                    "home_score": 2,
+                    "away_score": 2,
                     "away_name": "Haiti",
-                    "pts_awarded": null,
+                    "pts_awarded": 0,
                     "act_home_name": "Brazil",
                     "act_home_score": 5,
                     "act_away_score": 2,
@@ -208650,10 +208650,10 @@
                 },
                 {
                     "home_name": "Scotland",
-                    "home_score": null,
-                    "away_score": null,
+                    "home_score": 3,
+                    "away_score": 2,
                     "away_name": "Morocco",
-                    "pts_awarded": null,
+                    "pts_awarded": 0,
                     "act_home_name": "Scotland",
                     "act_home_score": 0,
                     "act_away_score": 1,
@@ -208661,10 +208661,10 @@
                 },
                 {
                     "home_name": "Scotland",
-                    "home_score": null,
-                    "away_score": null,
+                    "home_score": 3,
+                    "away_score": 2,
                     "away_name": "Brazil",
-                    "pts_awarded": null,
+                    "pts_awarded": 1,
                     "act_home_name": "Scotland",
                     "act_home_score": 1,
                     "act_away_score": 0,
@@ -208672,10 +208672,10 @@
                 },
                 {
                     "home_name": "Morocco",
-                    "home_score": null,
-                    "away_score": null,
+                    "home_score": 2,
+                    "away_score": 1,
                     "away_name": "Haiti",
-                    "pts_awarded": null,
+                    "pts_awarded": 1,
                     "act_home_name": "Morocco",
                     "act_home_score": 2,
                     "act_away_score": 0,
@@ -208685,10 +208685,10 @@
             "GroupD": [
                 {
                     "home_name": "USA",
-                    "home_score": null,
-                    "away_score": null,
+                    "home_score": 1,
+                    "away_score": 4,
                     "away_name": "Paraguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 1,
                     "act_home_name": "USA",
                     "act_home_score": 1,
                     "act_away_score": 2,
@@ -208696,10 +208696,10 @@
                 },
                 {
                     "home_name": "Australia",
-                    "home_score": null,
-                    "away_score": null,
+                    "home_score": 1,
+                    "away_score": 1,
                     "away_name": "Turkey",
-                    "pts_awarded": null,
+                    "pts_awarded": 0,
                     "act_home_name": "Australia",
                     "act_home_score": 1,
                     "act_away_score": 2,
@@ -208707,10 +208707,10 @@
                 },
                 {
                     "home_name": "Turkey",
-                    "home_score": null,
-                    "away_score": null,
+                    "home_score": 0,
+                    "away_score": 1,
                     "away_name": "Paraguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0,
                     "act_home_name": "Turkey",
                     "act_home_score": 2,
                     "act_away_score": 0,
@@ -208718,10 +208718,10 @@
                 },
                 {
                     "home_name": "USA",
-                    "home_score": null,
-                    "away_score": null,
+                    "home_score": 3,
+                    "away_score": 0,
                     "away_name": "Australia",
-                    "pts_awarded": null,
+                    "pts_awarded": 0,
                     "act_home_name": "USA",
                     "act_home_score": 1,
                     "act_away_score": 2,
@@ -208729,10 +208729,10 @@
                 },
                 {
                     "home_name": "Turkey",
-                    "home_score": null,
-                    "away_score": null,
+                    "home_score": 2,
+                    "away_score": 4,
                     "away_name": "USA",
-                    "pts_awarded": null,
+                    "pts_awarded": 1,
                     "act_home_name": "Turkey",
                     "act_home_score": 0,
                     "act_away_score": 1,
@@ -208740,10 +208740,10 @@
                 },
                 {
                     "home_name": "Paraguay",
-                    "home_score": null,
-                    "away_score": null,
+                    "home_score": 4,
+                    "away_score": 1,
                     "away_name": "Australia",
-                    "pts_awarded": null,
+                    "pts_awarded": 0,
                     "act_home_name": "Paraguay",
                     "act_home_score": 2,
                     "act_away_score": 2,
@@ -208753,10 +208753,10 @@
             "GroupE": [
                 {
                     "home_name": "Ivory Coast",
-                    "home_score": null,
-                    "away_score": null,
+                    "home_score": 3,
+                    "away_score": 3,
                     "away_name": "Ecuador",
-                    "pts_awarded": null,
+                    "pts_awarded": 1,
                     "act_home_name": "Ivory Coast",
                     "act_home_score": 2,
                     "act_away_score": 2,
@@ -208764,10 +208764,10 @@
                 },
                 {
                     "home_name": "Germany",
-                    "home_score": null,
-                    "away_score": null,
+                    "home_score": 4,
+                    "away_score": 2,
                     "away_name": "Curacao",
-                    "pts_awarded": null,
+                    "pts_awarded": 0,
                     "act_home_name": "Germany",
                     "act_home_score": 1,
                     "act_away_score": 2,
@@ -208775,10 +208775,10 @@
                 },
                 {
                     "home_name": "Germany",
-                    "home_score": null,
-                    "away_score": null,
+                    "home_score": 3,
+                    "away_score": 4,
                     "away_name": "Ivory Coast",
-                    "pts_awarded": null,
+                    "pts_awarded": 1,
                     "act_home_name": "Germany",
                     "act_home_score": 1,
                     "act_away_score": 2,
@@ -208786,10 +208786,10 @@
                 },
                 {
                     "home_name": "Ecuador",
-                    "home_score": null,
-                    "away_score": null,
+                    "home_score": 2,
+                    "away_score": 3,
                     "away_name": "Curacao",
-                    "pts_awarded": null,
+                    "pts_awarded": 0,
                     "act_home_name": "Ecuador",
                     "act_home_score": 5,
                     "act_away_score": 1,
@@ -208797,10 +208797,10 @@
                 },
                 {
                     "home_name": "Curacao",
-                    "home_score": null,
-                    "away_score": null,
+                    "home_score": 0,
+                    "away_score": 0,
                     "away_name": "Ivory Coast",
-                    "pts_awarded": null,
+                    "pts_awarded": 0,
                     "act_home_name": "Curacao",
                     "act_home_score": 4,
                     "act_away_score": 0,
@@ -208808,10 +208808,10 @@
                 },
                 {
                     "home_name": "Ecuador",
-                    "home_score": null,
-                    "away_score": null,
+                    "home_score": 3,
+                    "away_score": 1,
                     "away_name": "Germany",
-                    "pts_awarded": null,
+                    "pts_awarded": 1,
                     "act_home_name": "Ecuador",
                     "act_home_score": 2,
                     "act_away_score": 0,
@@ -208821,10 +208821,10 @@
             "GroupF": [
                 {
                     "home_name": "Netherlands",
-                    "home_score": null,
-                    "away_score": null,
+                    "home_score": 1,
+                    "away_score": 2,
                     "away_name": "Japan",
-                    "pts_awarded": null,
+                    "pts_awarded": 0,
                     "act_home_name": "Netherlands",
                     "act_home_score": 2,
                     "act_away_score": 1,
@@ -208832,10 +208832,10 @@
                 },
                 {
                     "home_name": "Sweden",
-                    "home_score": null,
-                    "away_score": null,
+                    "home_score": 1,
+                    "away_score": 3,
                     "away_name": "Tunisia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1,
                     "act_home_name": "Sweden",
                     "act_home_score": 1,
                     "act_away_score": 2,
@@ -208843,10 +208843,10 @@
                 },
                 {
                     "home_name": "Netherlands",
-                    "home_score": null,
-                    "away_score": null,
+                    "home_score": 1,
+                    "away_score": 2,
                     "away_name": "Sweden",
-                    "pts_awarded": null,
+                    "pts_awarded": 0,
                     "act_home_name": "Netherlands",
                     "act_home_score": 2,
                     "act_away_score": 1,
@@ -208854,10 +208854,10 @@
                 },
                 {
                     "home_name": "Tunisia",
-                    "home_score": null,
-                    "away_score": null,
+                    "home_score": 2,
+                    "away_score": 2,
                     "away_name": "Japan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1,
                     "act_home_name": "Tunisia",
                     "act_home_score": 1,
                     "act_away_score": 1,
@@ -208865,10 +208865,10 @@
                 },
                 {
                     "home_name": "Japan",
-                    "home_score": null,
-                    "away_score": null,
+                    "home_score": 1,
+                    "away_score": 3,
                     "away_name": "Sweden",
-                    "pts_awarded": null,
+                    "pts_awarded": 0,
                     "act_home_name": "Japan",
                     "act_home_score": 2,
                     "act_away_score": 2,
@@ -208876,10 +208876,10 @@
                 },
                 {
                     "home_name": "Tunisia",
-                    "home_score": null,
-                    "away_score": null,
+                    "home_score": 2,
+                    "away_score": 2,
                     "away_name": "Netherlands",
-                    "pts_awarded": null,
+                    "pts_awarded": 0,
                     "act_home_name": "Tunisia",
                     "act_home_score": 1,
                     "act_away_score": 2,
@@ -208889,10 +208889,10 @@
             "GroupG": [
                 {
                     "home_name": "Iran",
-                    "home_score": null,
-                    "away_score": null,
+                    "home_score": 0,
+                    "away_score": 2,
                     "away_name": "New Zealand",
-                    "pts_awarded": null,
+                    "pts_awarded": 0,
                     "act_home_name": "Iran",
                     "act_home_score": 0,
                     "act_away_score": 0,
@@ -208900,10 +208900,10 @@
                 },
                 {
                     "home_name": "Belgium",
-                    "home_score": null,
-                    "away_score": null,
+                    "home_score": 0,
+                    "away_score": 2,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 1,
                     "act_home_name": "Belgium",
                     "act_home_score": 1,
                     "act_away_score": 2,
@@ -208911,10 +208911,10 @@
                 },
                 {
                     "home_name": "Belgium",
-                    "home_score": null,
-                    "away_score": null,
+                    "home_score": 2,
+                    "away_score": 4,
                     "away_name": "Iran",
-                    "pts_awarded": null,
+                    "pts_awarded": 1,
                     "act_home_name": "Belgium",
                     "act_home_score": 1,
                     "act_away_score": 2,
@@ -208922,10 +208922,10 @@
                 },
                 {
                     "home_name": "New Zealand",
-                    "home_score": null,
-                    "away_score": null,
+                    "home_score": 4,
+                    "away_score": 2,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0,
                     "act_home_name": "New Zealand",
                     "act_home_score": 1,
                     "act_away_score": 1,
@@ -208933,10 +208933,10 @@
                 },
                 {
                     "home_name": "Egypt",
-                    "home_score": null,
-                    "away_score": null,
+                    "home_score": 2,
+                    "away_score": 2,
                     "away_name": "Iran",
-                    "pts_awarded": null,
+                    "pts_awarded": 0,
                     "act_home_name": "Egypt",
                     "act_home_score": 2,
                     "act_away_score": 1,
@@ -208944,10 +208944,10 @@
                 },
                 {
                     "home_name": "New Zealand",
-                    "home_score": null,
-                    "away_score": null,
+                    "home_score": 0,
+                    "away_score": 0,
                     "away_name": "Belgium",
-                    "pts_awarded": null,
+                    "pts_awarded": 2,
                     "act_home_name": "New Zealand",
                     "act_home_score": 0,
                     "act_away_score": 0,
@@ -208957,10 +208957,10 @@
             "GroupH": [
                 {
                     "home_name": "Saudi Arabia",
-                    "home_score": null,
-                    "away_score": null,
+                    "home_score": 1,
+                    "away_score": 2,
                     "away_name": "Uruguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0,
                     "act_home_name": "Saudi Arabia",
                     "act_home_score": 0,
                     "act_away_score": 0,
@@ -208968,10 +208968,10 @@
                 },
                 {
                     "home_name": "Spain",
-                    "home_score": null,
-                    "away_score": null,
+                    "home_score": 3,
+                    "away_score": 1,
                     "away_name": "Cabo Verde",
-                    "pts_awarded": null,
+                    "pts_awarded": 1,
                     "act_home_name": "Spain",
                     "act_home_score": 2,
                     "act_away_score": 1,
@@ -208979,10 +208979,10 @@
                 },
                 {
                     "home_name": "Uruguay",
-                    "home_score": null,
-                    "away_score": null,
+                    "home_score": 4,
+                    "away_score": 3,
                     "away_name": "Cabo Verde",
-                    "pts_awarded": null,
+                    "pts_awarded": 0,
                     "act_home_name": "Uruguay",
                     "act_home_score": 1,
                     "act_away_score": 2,
@@ -208990,10 +208990,10 @@
                 },
                 {
                     "home_name": "Spain",
-                    "home_score": null,
-                    "away_score": null,
+                    "home_score": 3,
+                    "away_score": 1,
                     "away_name": "Saudi Arabia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1,
                     "act_home_name": "Spain",
                     "act_home_score": 1,
                     "act_away_score": 0,
@@ -209001,10 +209001,10 @@
                 },
                 {
                     "home_name": "Cabo Verde",
-                    "home_score": null,
-                    "away_score": null,
+                    "home_score": 1,
+                    "away_score": 3,
                     "away_name": "Saudi Arabia",
-                    "pts_awarded": null,
+                    "pts_awarded": 0,
                     "act_home_name": "Cabo Verde",
                     "act_home_score": 1,
                     "act_away_score": 1,
@@ -209012,10 +209012,10 @@
                 },
                 {
                     "home_name": "Uruguay",
-                    "home_score": null,
-                    "away_score": null,
+                    "home_score": 2,
+                    "away_score": 3,
                     "away_name": "Spain",
-                    "pts_awarded": null,
+                    "pts_awarded": 0,
                     "act_home_name": "Uruguay",
                     "act_home_score": 2,
                     "act_away_score": 0,
@@ -209025,10 +209025,10 @@
             "GroupI": [
                 {
                     "home_name": "France",
-                    "home_score": null,
-                    "away_score": null,
+                    "home_score": 1,
+                    "away_score": 2,
                     "away_name": "Senegal",
-                    "pts_awarded": null,
+                    "pts_awarded": 0,
                     "act_home_name": "France",
                     "act_home_score": 2,
                     "act_away_score": 1,
@@ -209036,10 +209036,10 @@
                 },
                 {
                     "home_name": "Iraq",
-                    "home_score": null,
-                    "away_score": null,
+                    "home_score": 4,
+                    "away_score": 3,
                     "away_name": "Norway",
-                    "pts_awarded": null,
+                    "pts_awarded": 0,
                     "act_home_name": "Iraq",
                     "act_home_score": 1,
                     "act_away_score": 2,
@@ -209047,10 +209047,10 @@
                 },
                 {
                     "home_name": "Norway",
-                    "home_score": null,
-                    "away_score": null,
+                    "home_score": 2,
+                    "away_score": 4,
                     "away_name": "Senegal",
-                    "pts_awarded": null,
+                    "pts_awarded": 0,
                     "act_home_name": "Norway",
                     "act_home_score": 2,
                     "act_away_score": 1,
@@ -209058,10 +209058,10 @@
                 },
                 {
                     "home_name": "France",
-                    "home_score": null,
-                    "away_score": null,
+                    "home_score": 3,
+                    "away_score": 2,
                     "away_name": "Iraq",
-                    "pts_awarded": null,
+                    "pts_awarded": 0,
                     "act_home_name": "France",
                     "act_home_score": 1,
                     "act_away_score": 1,
@@ -209069,10 +209069,10 @@
                 },
                 {
                     "home_name": "Norway",
-                    "home_score": null,
-                    "away_score": null,
+                    "home_score": 4,
+                    "away_score": 0,
                     "away_name": "France",
-                    "pts_awarded": null,
+                    "pts_awarded": 0,
                     "act_home_name": "Norway",
                     "act_home_score": 0,
                     "act_away_score": 2,
@@ -209080,10 +209080,10 @@
                 },
                 {
                     "home_name": "Senegal",
-                    "home_score": null,
-                    "away_score": null,
+                    "home_score": 1,
+                    "away_score": 2,
                     "away_name": "Iraq",
-                    "pts_awarded": null,
+                    "pts_awarded": 0,
                     "act_home_name": "Senegal",
                     "act_home_score": 0,
                     "act_away_score": 0,
@@ -209093,10 +209093,10 @@
             "GroupJ": [
                 {
                     "home_name": "Argentina",
-                    "home_score": null,
-                    "away_score": null,
+                    "home_score": 4,
+                    "away_score": 1,
                     "away_name": "Algeria",
-                    "pts_awarded": null,
+                    "pts_awarded": 0,
                     "act_home_name": "Argentina",
                     "act_home_score": 1,
                     "act_away_score": 1,
@@ -209104,10 +209104,10 @@
                 },
                 {
                     "home_name": "Austria",
-                    "home_score": null,
-                    "away_score": null,
+                    "home_score": 0,
+                    "away_score": 2,
                     "away_name": "Jordan",
-                    "pts_awarded": null,
+                    "pts_awarded": 0,
                     "act_home_name": "Austria",
                     "act_home_score": 1,
                     "act_away_score": 0,
@@ -209115,10 +209115,10 @@
                 },
                 {
                     "home_name": "Argentina",
-                    "home_score": null,
-                    "away_score": null,
+                    "home_score": 3,
+                    "away_score": 1,
                     "away_name": "Austria",
-                    "pts_awarded": null,
+                    "pts_awarded": 0,
                     "act_home_name": "Argentina",
                     "act_home_score": 1,
                     "act_away_score": 1,
@@ -209126,10 +209126,10 @@
                 },
                 {
                     "home_name": "Jordan",
-                    "home_score": null,
-                    "away_score": null,
+                    "home_score": 3,
+                    "away_score": 0,
                     "away_name": "Algeria",
-                    "pts_awarded": null,
+                    "pts_awarded": 0,
                     "act_home_name": "Jordan",
                     "act_home_score": 0,
                     "act_away_score": 1,
@@ -209137,10 +209137,10 @@
                 },
                 {
                     "home_name": "Algeria",
-                    "home_score": null,
-                    "away_score": null,
+                    "home_score": 4,
+                    "away_score": 1,
                     "away_name": "Austria",
-                    "pts_awarded": null,
+                    "pts_awarded": 1,
                     "act_home_name": "Algeria",
                     "act_home_score": 2,
                     "act_away_score": 1,
@@ -209148,10 +209148,10 @@
                 },
                 {
                     "home_name": "Jordan",
-                    "home_score": null,
-                    "away_score": null,
+                    "home_score": 4,
+                    "away_score": 4,
                     "away_name": "Argentina",
-                    "pts_awarded": null,
+                    "pts_awarded": 1,
                     "act_home_name": "Jordan",
                     "act_home_score": 2,
                     "act_away_score": 2,
@@ -209161,10 +209161,10 @@
             "GroupK": [
                 {
                     "home_name": "Portugal",
-                    "home_score": null,
-                    "away_score": null,
+                    "home_score": 2,
+                    "away_score": 3,
                     "away_name": "Congo",
-                    "pts_awarded": null,
+                    "pts_awarded": 0,
                     "act_home_name": "Portugal",
                     "act_home_score": 0,
                     "act_away_score": 0,
@@ -209172,10 +209172,10 @@
                 },
                 {
                     "home_name": "Uzbekistan",
-                    "home_score": null,
-                    "away_score": null,
+                    "home_score": 1,
+                    "away_score": 3,
                     "away_name": "Colombia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1,
                     "act_home_name": "Uzbekistan",
                     "act_home_score": 1,
                     "act_away_score": 2,
@@ -209183,10 +209183,10 @@
                 },
                 {
                     "home_name": "Portugal",
-                    "home_score": null,
-                    "away_score": null,
+                    "home_score": 3,
+                    "away_score": 2,
                     "away_name": "Uzbekistan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1,
                     "act_home_name": "Portugal",
                     "act_home_score": 2,
                     "act_away_score": 1,
@@ -209194,10 +209194,10 @@
                 },
                 {
                     "home_name": "Colombia",
-                    "home_score": null,
-                    "away_score": null,
+                    "home_score": 4,
+                    "away_score": 2,
                     "away_name": "Congo",
-                    "pts_awarded": null,
+                    "pts_awarded": 0,
                     "act_home_name": "Colombia",
                     "act_home_score": 1,
                     "act_away_score": 2,
@@ -209205,10 +209205,10 @@
                 },
                 {
                     "home_name": "Colombia",
-                    "home_score": null,
-                    "away_score": null,
+                    "home_score": 1,
+                    "away_score": 1,
                     "away_name": "Portugal",
-                    "pts_awarded": null,
+                    "pts_awarded": 2,
                     "act_home_name": "Colombia",
                     "act_home_score": 1,
                     "act_away_score": 1,
@@ -209216,10 +209216,10 @@
                 },
                 {
                     "home_name": "Congo",
-                    "home_score": null,
-                    "away_score": null,
+                    "home_score": 3,
+                    "away_score": 4,
                     "away_name": "Uzbekistan",
-                    "pts_awarded": null,
+                    "pts_awarded": 0,
                     "act_home_name": "Congo",
                     "act_home_score": 0,
                     "act_away_score": 0,
@@ -209229,10 +209229,10 @@
             "GroupL": [
                 {
                     "home_name": "Ghana",
-                    "home_score": null,
-                    "away_score": null,
+                    "home_score": 3,
+                    "away_score": 4,
                     "away_name": "Panama",
-                    "pts_awarded": null,
+                    "pts_awarded": 1,
                     "act_home_name": "Ghana",
                     "act_home_score": 1,
                     "act_away_score": 2,
@@ -209240,10 +209240,10 @@
                 },
                 {
                     "home_name": "England",
-                    "home_score": null,
-                    "away_score": null,
+                    "home_score": 0,
+                    "away_score": 4,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1,
                     "act_home_name": "England",
                     "act_home_score": 1,
                     "act_away_score": 2,
@@ -209251,10 +209251,10 @@
                 },
                 {
                     "home_name": "England",
-                    "home_score": null,
-                    "away_score": null,
+                    "home_score": 1,
+                    "away_score": 2,
                     "away_name": "Ghana",
-                    "pts_awarded": null,
+                    "pts_awarded": 0,
                     "act_home_name": "England",
                     "act_home_score": 2,
                     "act_away_score": 1,
@@ -209262,10 +209262,10 @@
                 },
                 {
                     "home_name": "Panama",
-                    "home_score": null,
-                    "away_score": null,
+                    "home_score": 4,
+                    "away_score": 0,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1,
                     "act_home_name": "Panama",
                     "act_home_score": 1,
                     "act_away_score": 0,
@@ -209273,10 +209273,10 @@
                 },
                 {
                     "home_name": "Panama",
-                    "home_score": null,
-                    "away_score": null,
+                    "home_score": 1,
+                    "away_score": 4,
                     "away_name": "England",
-                    "pts_awarded": null,
+                    "pts_awarded": 1,
                     "act_home_name": "Panama",
                     "act_home_score": 1,
                     "act_away_score": 2,
@@ -209284,10 +209284,10 @@
                 },
                 {
                     "home_name": "Croatia",
-                    "home_score": null,
-                    "away_score": null,
+                    "home_score": 2,
+                    "away_score": 4,
                     "away_name": "Ghana",
-                    "pts_awarded": null,
+                    "pts_awarded": 1,
                     "act_home_name": "Croatia",
                     "act_home_score": 1,
                     "act_away_score": 2,
@@ -209299,81 +209299,85 @@
             "GroupA": {
                 "player_ranking": [
                     {
-                        "rank_name": "Mexico",
-                        "pts_awarded": 0
-                    },
-                    {
-                        "rank_name": "South Africa",
-                        "pts_awarded": 0
+                        "rank_name": "Czechia",
+                        "pts_awarded": 5
                     },
                     {
                         "rank_name": "South Korea",
-                        "pts_awarded": 0
+                        "pts_awarded": 5
                     },
                     {
-                        "rank_name": "Czechia",
-                        "pts_awarded": 0
+                        "rank_name": "South Africa",
+                        "pts_awarded": 5
+                    },
+                    {
+                        "rank_name": "Mexico",
+                        "pts_awarded": 5
                     }
                 ],
                 "actual_ranking": [
                     {
                         "rank_name": "Czechia",
-                        "pts_awarded": 0
+                        "pts_awarded": 5
                     },
                     {
                         "rank_name": "South Korea",
-                        "pts_awarded": 0
+                        "pts_awarded": 5
                     },
                     {
                         "rank_name": "Mexico",
-                        "pts_awarded": 0
+                        "pts_awarded": 5
                     },
                     {
                         "rank_name": "South Africa",
-                        "pts_awarded": 0
+                        "pts_awarded": 5
                     }
                 ]
             },
             "GroupB": {
                 "player_ranking": [
                     {
-                        "rank_name": "Canada",
-                        "pts_awarded": 0
-                    },
-                    {
                         "rank_name": "Bosnia",
-                        "pts_awarded": 0
+                        "pts_awarded": 9
                     },
                     {
-                        "rank_name": "Qatar",
-                        "pts_awarded": 0
+                        "rank_name": "Canada",
+                        "pts_awarded": 9
                     },
                     {
                         "rank_name": "Switzerland",
-                        "pts_awarded": 0
+                        "pts_awarded": 9
+                    },
+                    {
+                        "rank_name": "Qatar",
+                        "pts_awarded": 9
                     }
                 ],
                 "actual_ranking": [
                     {
                         "rank_name": "Bosnia",
-                        "pts_awarded": 0
+                        "pts_awarded": 9
                     },
                     {
                         "rank_name": "Canada",
-                        "pts_awarded": 0
+                        "pts_awarded": 9
                     },
                     {
                         "rank_name": "Switzerland",
-                        "pts_awarded": 0
+                        "pts_awarded": 9
                     },
                     {
                         "rank_name": "Qatar",
-                        "pts_awarded": 0
+                        "pts_awarded": 9
                     }
                 ]
             },
             "GroupC": {
                 "player_ranking": [
+                    {
+                        "rank_name": "Scotland",
+                        "pts_awarded": 0
+                    },
                     {
                         "rank_name": "Brazil",
                         "pts_awarded": 0
@@ -209384,10 +209388,6 @@
                     },
                     {
                         "rank_name": "Haiti",
-                        "pts_awarded": 0
-                    },
-                    {
-                        "rank_name": "Scotland",
                         "pts_awarded": 0
                     }
                 ],
@@ -209413,152 +209413,152 @@
             "GroupD": {
                 "player_ranking": [
                     {
-                        "rank_name": "USA",
-                        "pts_awarded": 0
-                    },
-                    {
                         "rank_name": "Paraguay",
-                        "pts_awarded": 0
+                        "pts_awarded": 4
                     },
                     {
-                        "rank_name": "Australia",
-                        "pts_awarded": 0
+                        "rank_name": "USA",
+                        "pts_awarded": 4
                     },
                     {
                         "rank_name": "Turkey",
-                        "pts_awarded": 0
+                        "pts_awarded": 4
+                    },
+                    {
+                        "rank_name": "Australia",
+                        "pts_awarded": 4
                     }
                 ],
                 "actual_ranking": [
                     {
                         "rank_name": "Paraguay",
-                        "pts_awarded": 0
+                        "pts_awarded": 4
                     },
                     {
                         "rank_name": "Australia",
-                        "pts_awarded": 0
+                        "pts_awarded": 4
                     },
                     {
                         "rank_name": "USA",
-                        "pts_awarded": 0
+                        "pts_awarded": 4
                     },
                     {
                         "rank_name": "Turkey",
-                        "pts_awarded": 0
+                        "pts_awarded": 4
                     }
                 ]
             },
             "GroupE": {
                 "player_ranking": [
                     {
-                        "rank_name": "Germany",
-                        "pts_awarded": 9
-                    },
-                    {
-                        "rank_name": "Curacao",
-                        "pts_awarded": 9
-                    },
-                    {
                         "rank_name": "Ivory Coast",
-                        "pts_awarded": 9
+                        "pts_awarded": 0
                     },
                     {
                         "rank_name": "Ecuador",
-                        "pts_awarded": 9
+                        "pts_awarded": 0
+                    },
+                    {
+                        "rank_name": "Curacao",
+                        "pts_awarded": 0
+                    },
+                    {
+                        "rank_name": "Germany",
+                        "pts_awarded": 0
                     }
                 ],
                 "actual_ranking": [
                     {
                         "rank_name": "Germany",
-                        "pts_awarded": 9
+                        "pts_awarded": 0
                     },
                     {
                         "rank_name": "Curacao",
-                        "pts_awarded": 9
+                        "pts_awarded": 0
                     },
                     {
                         "rank_name": "Ivory Coast",
-                        "pts_awarded": 9
+                        "pts_awarded": 0
                     },
                     {
                         "rank_name": "Ecuador",
-                        "pts_awarded": 9
+                        "pts_awarded": 0
                     }
                 ]
             },
             "GroupF": {
                 "player_ranking": [
                     {
-                        "rank_name": "Netherlands",
-                        "pts_awarded": 5
-                    },
-                    {
-                        "rank_name": "Japan",
-                        "pts_awarded": 5
-                    },
-                    {
                         "rank_name": "Sweden",
-                        "pts_awarded": 5
+                        "pts_awarded": 0
                     },
                     {
                         "rank_name": "Tunisia",
-                        "pts_awarded": 5
+                        "pts_awarded": 0
+                    },
+                    {
+                        "rank_name": "Japan",
+                        "pts_awarded": 0
+                    },
+                    {
+                        "rank_name": "Netherlands",
+                        "pts_awarded": 0
                     }
                 ],
                 "actual_ranking": [
                     {
                         "rank_name": "Netherlands",
-                        "pts_awarded": 5
+                        "pts_awarded": 0
                     },
                     {
                         "rank_name": "Sweden",
-                        "pts_awarded": 5
+                        "pts_awarded": 0
                     },
                     {
                         "rank_name": "Japan",
-                        "pts_awarded": 5
+                        "pts_awarded": 0
                     },
                     {
                         "rank_name": "Tunisia",
-                        "pts_awarded": 5
+                        "pts_awarded": 0
                     }
                 ]
             },
             "GroupG": {
                 "player_ranking": [
                     {
-                        "rank_name": "Belgium",
-                        "pts_awarded": 9
+                        "rank_name": "New Zealand",
+                        "pts_awarded": 0
                     },
                     {
                         "rank_name": "Egypt",
-                        "pts_awarded": 9
+                        "pts_awarded": 0
                     },
                     {
                         "rank_name": "Iran",
-                        "pts_awarded": 9
+                        "pts_awarded": 0
                     },
                     {
-                        "rank_name": "New Zealand",
-                        "pts_awarded": 9
+                        "rank_name": "Belgium",
+                        "pts_awarded": 0
                     }
                 ],
                 "actual_ranking": [
                     {
                         "rank_name": "Belgium",
-                        "pts_awarded": 9
+                        "pts_awarded": 0
                     },
                     {
                         "rank_name": "Egypt",
-                        "pts_awarded": 9
+                        "pts_awarded": 0
                     },
                     {
                         "rank_name": "Iran",
-                        "pts_awarded": 9
+                        "pts_awarded": 0
                     },
                     {
                         "rank_name": "New Zealand",
-                        "pts_awarded": 9
+                        "pts_awarded": 0
                     }
                 ]
             },
@@ -209566,75 +209566,75 @@
                 "player_ranking": [
                     {
                         "rank_name": "Spain",
-                        "pts_awarded": 5
-                    },
-                    {
-                        "rank_name": "Cabo Verde",
-                        "pts_awarded": 5
-                    },
-                    {
-                        "rank_name": "Saudi Arabia",
-                        "pts_awarded": 5
+                        "pts_awarded": 9
                     },
                     {
                         "rank_name": "Uruguay",
-                        "pts_awarded": 5
+                        "pts_awarded": 9
+                    },
+                    {
+                        "rank_name": "Saudi Arabia",
+                        "pts_awarded": 9
+                    },
+                    {
+                        "rank_name": "Cabo Verde",
+                        "pts_awarded": 9
                     }
                 ],
                 "actual_ranking": [
                     {
                         "rank_name": "Spain",
-                        "pts_awarded": 5
+                        "pts_awarded": 9
                     },
                     {
                         "rank_name": "Uruguay",
-                        "pts_awarded": 5
+                        "pts_awarded": 9
                     },
                     {
                         "rank_name": "Saudi Arabia",
-                        "pts_awarded": 5
+                        "pts_awarded": 9
                     },
                     {
                         "rank_name": "Cabo Verde",
-                        "pts_awarded": 5
+                        "pts_awarded": 9
                     }
                 ]
             },
             "GroupI": {
                 "player_ranking": [
                     {
-                        "rank_name": "France",
-                        "pts_awarded": 5
-                    },
-                    {
                         "rank_name": "Senegal",
-                        "pts_awarded": 5
+                        "pts_awarded": 0
                     },
                     {
                         "rank_name": "Iraq",
-                        "pts_awarded": 5
+                        "pts_awarded": 0
                     },
                     {
                         "rank_name": "Norway",
-                        "pts_awarded": 5
+                        "pts_awarded": 0
+                    },
+                    {
+                        "rank_name": "France",
+                        "pts_awarded": 0
                     }
                 ],
                 "actual_ranking": [
                     {
                         "rank_name": "France",
-                        "pts_awarded": 5
+                        "pts_awarded": 0
                     },
                     {
                         "rank_name": "Iraq",
-                        "pts_awarded": 5
+                        "pts_awarded": 0
                     },
                     {
                         "rank_name": "Senegal",
-                        "pts_awarded": 5
+                        "pts_awarded": 0
                     },
                     {
                         "rank_name": "Norway",
-                        "pts_awarded": 5
+                        "pts_awarded": 0
                     }
                 ]
             },
@@ -209645,15 +209645,15 @@
                         "pts_awarded": 0
                     },
                     {
+                        "rank_name": "Jordan",
+                        "pts_awarded": 0
+                    },
+                    {
                         "rank_name": "Algeria",
                         "pts_awarded": 0
                     },
                     {
                         "rank_name": "Austria",
-                        "pts_awarded": 0
-                    },
-                    {
-                        "rank_name": "Jordan",
                         "pts_awarded": 0
                     }
                 ],
@@ -209679,45 +209679,49 @@
             "GroupK": {
                 "player_ranking": [
                     {
+                        "rank_name": "Colombia",
+                        "pts_awarded": 9
+                    },
+                    {
                         "rank_name": "Portugal",
-                        "pts_awarded": 0
+                        "pts_awarded": 9
                     },
                     {
                         "rank_name": "Congo",
-                        "pts_awarded": 0
+                        "pts_awarded": 9
                     },
                     {
                         "rank_name": "Uzbekistan",
-                        "pts_awarded": 0
-                    },
-                    {
-                        "rank_name": "Colombia",
-                        "pts_awarded": 0
+                        "pts_awarded": 9
                     }
                 ],
                 "actual_ranking": [
                     {
                         "rank_name": "Colombia",
-                        "pts_awarded": 0
+                        "pts_awarded": 9
                     },
                     {
                         "rank_name": "Portugal",
-                        "pts_awarded": 0
+                        "pts_awarded": 9
                     },
                     {
                         "rank_name": "Congo",
-                        "pts_awarded": 0
+                        "pts_awarded": 9
                     },
                     {
                         "rank_name": "Uzbekistan",
-                        "pts_awarded": 0
+                        "pts_awarded": 9
                     }
                 ]
             },
             "GroupL": {
                 "player_ranking": [
                     {
-                        "rank_name": "England",
+                        "rank_name": "Ghana",
+                        "pts_awarded": 0
+                    },
+                    {
+                        "rank_name": "Panama",
                         "pts_awarded": 0
                     },
                     {
@@ -209725,11 +209729,7 @@
                         "pts_awarded": 0
                     },
                     {
-                        "rank_name": "Ghana",
-                        "pts_awarded": 0
-                    },
-                    {
-                        "rank_name": "Panama",
+                        "rank_name": "England",
                         "pts_awarded": 0
                     }
                 ],
@@ -209753,17 +209753,17 @@
                 ]
             }
         },
-        "total_points": 33
+        "total_points": 67
     },
     "Nuno2": {
         "matches": {
             "GroupA": [
                 {
                     "home_name": "Mexico",
-                    "home_score": null,
-                    "away_score": null,
+                    "home_score": 4,
+                    "away_score": 3,
                     "away_name": "South Africa",
-                    "pts_awarded": null,
+                    "pts_awarded": 1,
                     "act_home_name": "Mexico",
                     "act_home_score": 2,
                     "act_away_score": 1,
@@ -209771,10 +209771,10 @@
                 },
                 {
                     "home_name": "South Korea",
-                    "home_score": null,
-                    "away_score": null,
+                    "home_score": 1,
+                    "away_score": 0,
                     "away_name": "Czechia",
-                    "pts_awarded": null,
+                    "pts_awarded": 0,
                     "act_home_name": "South Korea",
                     "act_home_score": 1,
                     "act_away_score": 2,
@@ -209782,10 +209782,10 @@
                 },
                 {
                     "home_name": "Czechia",
-                    "home_score": null,
-                    "away_score": null,
+                    "home_score": 3,
+                    "away_score": 1,
                     "away_name": "South Africa",
-                    "pts_awarded": null,
+                    "pts_awarded": 0,
                     "act_home_name": "Czechia",
                     "act_home_score": 2,
                     "act_away_score": 2,
@@ -209793,10 +209793,10 @@
                 },
                 {
                     "home_name": "Mexico",
-                    "home_score": null,
-                    "away_score": null,
+                    "home_score": 0,
+                    "away_score": 2,
                     "away_name": "South Korea",
-                    "pts_awarded": null,
+                    "pts_awarded": 0,
                     "act_home_name": "Mexico",
                     "act_home_score": 1,
                     "act_away_score": 1,
@@ -209804,10 +209804,10 @@
                 },
                 {
                     "home_name": "Czechia",
-                    "home_score": null,
-                    "away_score": null,
+                    "home_score": 1,
+                    "away_score": 3,
                     "away_name": "Mexico",
-                    "pts_awarded": null,
+                    "pts_awarded": 1,
                     "act_home_name": "Czechia",
                     "act_home_score": 0,
                     "act_away_score": 2,
@@ -209815,10 +209815,10 @@
                 },
                 {
                     "home_name": "South Africa",
-                    "home_score": null,
-                    "away_score": null,
+                    "home_score": 3,
+                    "away_score": 0,
                     "away_name": "South Korea",
-                    "pts_awarded": null,
+                    "pts_awarded": 0,
                     "act_home_name": "South Africa",
                     "act_home_score": 0,
                     "act_away_score": 0,
@@ -209828,10 +209828,10 @@
             "GroupB": [
                 {
                     "home_name": "Canada",
-                    "home_score": null,
-                    "away_score": null,
+                    "home_score": 1,
+                    "away_score": 3,
                     "away_name": "Bosnia",
-                    "pts_awarded": null,
+                    "pts_awarded": 0,
                     "act_home_name": "Canada",
                     "act_home_score": 3,
                     "act_away_score": 2,
@@ -209839,10 +209839,10 @@
                 },
                 {
                     "home_name": "Qatar",
-                    "home_score": null,
-                    "away_score": null,
+                    "home_score": 0,
+                    "away_score": 1,
                     "away_name": "Switzerland",
-                    "pts_awarded": null,
+                    "pts_awarded": 0,
                     "act_home_name": "Qatar",
                     "act_home_score": 1,
                     "act_away_score": 1,
@@ -209850,10 +209850,10 @@
                 },
                 {
                     "home_name": "Switzerland",
-                    "home_score": null,
-                    "away_score": null,
+                    "home_score": 0,
+                    "away_score": 3,
                     "away_name": "Bosnia",
-                    "pts_awarded": null,
+                    "pts_awarded": 0,
                     "act_home_name": "Switzerland",
                     "act_home_score": 1,
                     "act_away_score": 0,
@@ -209861,10 +209861,10 @@
                 },
                 {
                     "home_name": "Canada",
-                    "home_score": null,
-                    "away_score": null,
+                    "home_score": 1,
+                    "away_score": 4,
                     "away_name": "Qatar",
-                    "pts_awarded": null,
+                    "pts_awarded": 0,
                     "act_home_name": "Canada",
                     "act_home_score": 2,
                     "act_away_score": 1,
@@ -209872,10 +209872,10 @@
                 },
                 {
                     "home_name": "Switzerland",
-                    "home_score": null,
-                    "away_score": null,
+                    "home_score": 2,
+                    "away_score": 0,
                     "away_name": "Canada",
-                    "pts_awarded": null,
+                    "pts_awarded": 0,
                     "act_home_name": "Switzerland",
                     "act_home_score": 0,
                     "act_away_score": 2,
@@ -209883,10 +209883,10 @@
                 },
                 {
                     "home_name": "Bosnia",
-                    "home_score": null,
-                    "away_score": null,
+                    "home_score": 1,
+                    "away_score": 3,
                     "away_name": "Qatar",
-                    "pts_awarded": null,
+                    "pts_awarded": 0,
                     "act_home_name": "Bosnia",
                     "act_home_score": 2,
                     "act_away_score": 1,
@@ -209896,10 +209896,10 @@
             "GroupC": [
                 {
                     "home_name": "Haiti",
-                    "home_score": null,
-                    "away_score": null,
+                    "home_score": 1,
+                    "away_score": 4,
                     "away_name": "Scotland",
-                    "pts_awarded": null,
+                    "pts_awarded": 0,
                     "act_home_name": "Haiti",
                     "act_home_score": 1,
                     "act_away_score": 1,
@@ -209907,10 +209907,10 @@
                 },
                 {
                     "home_name": "Brazil",
-                    "home_score": null,
-                    "away_score": null,
+                    "home_score": 4,
+                    "away_score": 1,
                     "away_name": "Morocco",
-                    "pts_awarded": null,
+                    "pts_awarded": 0,
                     "act_home_name": "Brazil",
                     "act_home_score": 1,
                     "act_away_score": 1,
@@ -209918,10 +209918,10 @@
                 },
                 {
                     "home_name": "Brazil",
-                    "home_score": null,
-                    "away_score": null,
+                    "home_score": 3,
+                    "away_score": 3,
                     "away_name": "Haiti",
-                    "pts_awarded": null,
+                    "pts_awarded": 0,
                     "act_home_name": "Brazil",
                     "act_home_score": 5,
                     "act_away_score": 2,
@@ -209929,10 +209929,10 @@
                 },
                 {
                     "home_name": "Scotland",
-                    "home_score": null,
-                    "away_score": null,
+                    "home_score": 3,
+                    "away_score": 0,
                     "away_name": "Morocco",
-                    "pts_awarded": null,
+                    "pts_awarded": 0,
                     "act_home_name": "Scotland",
                     "act_home_score": 0,
                     "act_away_score": 1,
@@ -209940,10 +209940,10 @@
                 },
                 {
                     "home_name": "Scotland",
-                    "home_score": null,
-                    "away_score": null,
+                    "home_score": 2,
+                    "away_score": 0,
                     "away_name": "Brazil",
-                    "pts_awarded": null,
+                    "pts_awarded": 1,
                     "act_home_name": "Scotland",
                     "act_home_score": 1,
                     "act_away_score": 0,
@@ -209951,10 +209951,10 @@
                 },
                 {
                     "home_name": "Morocco",
-                    "home_score": null,
-                    "away_score": null,
+                    "home_score": 0,
+                    "away_score": 0,
                     "away_name": "Haiti",
-                    "pts_awarded": null,
+                    "pts_awarded": 0,
                     "act_home_name": "Morocco",
                     "act_home_score": 2,
                     "act_away_score": 0,
@@ -209964,10 +209964,10 @@
             "GroupD": [
                 {
                     "home_name": "USA",
-                    "home_score": null,
-                    "away_score": null,
+                    "home_score": 2,
+                    "away_score": 2,
                     "away_name": "Paraguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0,
                     "act_home_name": "USA",
                     "act_home_score": 1,
                     "act_away_score": 2,
@@ -209975,10 +209975,10 @@
                 },
                 {
                     "home_name": "Australia",
-                    "home_score": null,
-                    "away_score": null,
+                    "home_score": 1,
+                    "away_score": 4,
                     "away_name": "Turkey",
-                    "pts_awarded": null,
+                    "pts_awarded": 1,
                     "act_home_name": "Australia",
                     "act_home_score": 1,
                     "act_away_score": 2,
@@ -209986,10 +209986,10 @@
                 },
                 {
                     "home_name": "Turkey",
-                    "home_score": null,
-                    "away_score": null,
+                    "home_score": 4,
+                    "away_score": 0,
                     "away_name": "Paraguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 1,
                     "act_home_name": "Turkey",
                     "act_home_score": 2,
                     "act_away_score": 0,
@@ -209997,10 +209997,10 @@
                 },
                 {
                     "home_name": "USA",
-                    "home_score": null,
-                    "away_score": null,
+                    "home_score": 3,
+                    "away_score": 2,
                     "away_name": "Australia",
-                    "pts_awarded": null,
+                    "pts_awarded": 0,
                     "act_home_name": "USA",
                     "act_home_score": 1,
                     "act_away_score": 2,
@@ -210008,10 +210008,10 @@
                 },
                 {
                     "home_name": "Turkey",
-                    "home_score": null,
-                    "away_score": null,
+                    "home_score": 4,
+                    "away_score": 0,
                     "away_name": "USA",
-                    "pts_awarded": null,
+                    "pts_awarded": 0,
                     "act_home_name": "Turkey",
                     "act_home_score": 0,
                     "act_away_score": 1,
@@ -210019,10 +210019,10 @@
                 },
                 {
                     "home_name": "Paraguay",
-                    "home_score": null,
-                    "away_score": null,
+                    "home_score": 2,
+                    "away_score": 0,
                     "away_name": "Australia",
-                    "pts_awarded": null,
+                    "pts_awarded": 0,
                     "act_home_name": "Paraguay",
                     "act_home_score": 2,
                     "act_away_score": 2,
@@ -210032,10 +210032,10 @@
             "GroupE": [
                 {
                     "home_name": "Ivory Coast",
-                    "home_score": null,
-                    "away_score": null,
+                    "home_score": 3,
+                    "away_score": 3,
                     "away_name": "Ecuador",
-                    "pts_awarded": null,
+                    "pts_awarded": 1,
                     "act_home_name": "Ivory Coast",
                     "act_home_score": 2,
                     "act_away_score": 2,
@@ -210043,10 +210043,10 @@
                 },
                 {
                     "home_name": "Germany",
-                    "home_score": null,
-                    "away_score": null,
+                    "home_score": 2,
+                    "away_score": 2,
                     "away_name": "Curacao",
-                    "pts_awarded": null,
+                    "pts_awarded": 0,
                     "act_home_name": "Germany",
                     "act_home_score": 1,
                     "act_away_score": 2,
@@ -210054,10 +210054,10 @@
                 },
                 {
                     "home_name": "Germany",
-                    "home_score": null,
-                    "away_score": null,
+                    "home_score": 2,
+                    "away_score": 3,
                     "away_name": "Ivory Coast",
-                    "pts_awarded": null,
+                    "pts_awarded": 1,
                     "act_home_name": "Germany",
                     "act_home_score": 1,
                     "act_away_score": 2,
@@ -210065,10 +210065,10 @@
                 },
                 {
                     "home_name": "Ecuador",
-                    "home_score": null,
-                    "away_score": null,
+                    "home_score": 0,
+                    "away_score": 0,
                     "away_name": "Curacao",
-                    "pts_awarded": null,
+                    "pts_awarded": 0,
                     "act_home_name": "Ecuador",
                     "act_home_score": 5,
                     "act_away_score": 1,
@@ -210076,10 +210076,10 @@
                 },
                 {
                     "home_name": "Curacao",
-                    "home_score": null,
-                    "away_score": null,
+                    "home_score": 3,
+                    "away_score": 2,
                     "away_name": "Ivory Coast",
-                    "pts_awarded": null,
+                    "pts_awarded": 1,
                     "act_home_name": "Curacao",
                     "act_home_score": 4,
                     "act_away_score": 0,
@@ -210087,10 +210087,10 @@
                 },
                 {
                     "home_name": "Ecuador",
-                    "home_score": null,
-                    "away_score": null,
+                    "home_score": 3,
+                    "away_score": 2,
                     "away_name": "Germany",
-                    "pts_awarded": null,
+                    "pts_awarded": 1,
                     "act_home_name": "Ecuador",
                     "act_home_score": 2,
                     "act_away_score": 0,
@@ -210100,10 +210100,10 @@
             "GroupF": [
                 {
                     "home_name": "Netherlands",
-                    "home_score": null,
-                    "away_score": null,
+                    "home_score": 4,
+                    "away_score": 0,
                     "away_name": "Japan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1,
                     "act_home_name": "Netherlands",
                     "act_home_score": 2,
                     "act_away_score": 1,
@@ -210111,10 +210111,10 @@
                 },
                 {
                     "home_name": "Sweden",
-                    "home_score": null,
-                    "away_score": null,
+                    "home_score": 4,
+                    "away_score": 3,
                     "away_name": "Tunisia",
-                    "pts_awarded": null,
+                    "pts_awarded": 0,
                     "act_home_name": "Sweden",
                     "act_home_score": 1,
                     "act_away_score": 2,
@@ -210122,10 +210122,10 @@
                 },
                 {
                     "home_name": "Netherlands",
-                    "home_score": null,
-                    "away_score": null,
+                    "home_score": 4,
+                    "away_score": 4,
                     "away_name": "Sweden",
-                    "pts_awarded": null,
+                    "pts_awarded": 0,
                     "act_home_name": "Netherlands",
                     "act_home_score": 2,
                     "act_away_score": 1,
@@ -210133,10 +210133,10 @@
                 },
                 {
                     "home_name": "Tunisia",
-                    "home_score": null,
-                    "away_score": null,
+                    "home_score": 0,
+                    "away_score": 4,
                     "away_name": "Japan",
-                    "pts_awarded": null,
+                    "pts_awarded": 0,
                     "act_home_name": "Tunisia",
                     "act_home_score": 1,
                     "act_away_score": 1,
@@ -210144,10 +210144,10 @@
                 },
                 {
                     "home_name": "Japan",
-                    "home_score": null,
-                    "away_score": null,
+                    "home_score": 0,
+                    "away_score": 2,
                     "away_name": "Sweden",
-                    "pts_awarded": null,
+                    "pts_awarded": 0,
                     "act_home_name": "Japan",
                     "act_home_score": 2,
                     "act_away_score": 2,
@@ -210155,10 +210155,10 @@
                 },
                 {
                     "home_name": "Tunisia",
-                    "home_score": null,
-                    "away_score": null,
+                    "home_score": 3,
+                    "away_score": 0,
                     "away_name": "Netherlands",
-                    "pts_awarded": null,
+                    "pts_awarded": 0,
                     "act_home_name": "Tunisia",
                     "act_home_score": 1,
                     "act_away_score": 2,
@@ -210168,10 +210168,10 @@
             "GroupG": [
                 {
                     "home_name": "Iran",
-                    "home_score": null,
-                    "away_score": null,
+                    "home_score": 0,
+                    "away_score": 0,
                     "away_name": "New Zealand",
-                    "pts_awarded": null,
+                    "pts_awarded": 2,
                     "act_home_name": "Iran",
                     "act_home_score": 0,
                     "act_away_score": 0,
@@ -210179,10 +210179,10 @@
                 },
                 {
                     "home_name": "Belgium",
-                    "home_score": null,
-                    "away_score": null,
+                    "home_score": 2,
+                    "away_score": 3,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 1,
                     "act_home_name": "Belgium",
                     "act_home_score": 1,
                     "act_away_score": 2,
@@ -210190,10 +210190,10 @@
                 },
                 {
                     "home_name": "Belgium",
-                    "home_score": null,
-                    "away_score": null,
+                    "home_score": 3,
+                    "away_score": 2,
                     "away_name": "Iran",
-                    "pts_awarded": null,
+                    "pts_awarded": 0,
                     "act_home_name": "Belgium",
                     "act_home_score": 1,
                     "act_away_score": 2,
@@ -210201,10 +210201,10 @@
                 },
                 {
                     "home_name": "New Zealand",
-                    "home_score": null,
-                    "away_score": null,
+                    "home_score": 2,
+                    "away_score": 1,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0,
                     "act_home_name": "New Zealand",
                     "act_home_score": 1,
                     "act_away_score": 1,
@@ -210212,10 +210212,10 @@
                 },
                 {
                     "home_name": "Egypt",
-                    "home_score": null,
-                    "away_score": null,
+                    "home_score": 3,
+                    "away_score": 4,
                     "away_name": "Iran",
-                    "pts_awarded": null,
+                    "pts_awarded": 0,
                     "act_home_name": "Egypt",
                     "act_home_score": 2,
                     "act_away_score": 1,
@@ -210223,10 +210223,10 @@
                 },
                 {
                     "home_name": "New Zealand",
-                    "home_score": null,
-                    "away_score": null,
+                    "home_score": 4,
+                    "away_score": 1,
                     "away_name": "Belgium",
-                    "pts_awarded": null,
+                    "pts_awarded": 0,
                     "act_home_name": "New Zealand",
                     "act_home_score": 0,
                     "act_away_score": 0,
@@ -210236,10 +210236,10 @@
             "GroupH": [
                 {
                     "home_name": "Saudi Arabia",
-                    "home_score": null,
-                    "away_score": null,
+                    "home_score": 4,
+                    "away_score": 3,
                     "away_name": "Uruguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0,
                     "act_home_name": "Saudi Arabia",
                     "act_home_score": 0,
                     "act_away_score": 0,
@@ -210247,10 +210247,10 @@
                 },
                 {
                     "home_name": "Spain",
-                    "home_score": null,
-                    "away_score": null,
+                    "home_score": 0,
+                    "away_score": 3,
                     "away_name": "Cabo Verde",
-                    "pts_awarded": null,
+                    "pts_awarded": 0,
                     "act_home_name": "Spain",
                     "act_home_score": 2,
                     "act_away_score": 1,
@@ -210258,10 +210258,10 @@
                 },
                 {
                     "home_name": "Uruguay",
-                    "home_score": null,
-                    "away_score": null,
+                    "home_score": 1,
+                    "away_score": 0,
                     "away_name": "Cabo Verde",
-                    "pts_awarded": null,
+                    "pts_awarded": 0,
                     "act_home_name": "Uruguay",
                     "act_home_score": 1,
                     "act_away_score": 2,
@@ -210269,10 +210269,10 @@
                 },
                 {
                     "home_name": "Spain",
-                    "home_score": null,
-                    "away_score": null,
+                    "home_score": 2,
+                    "away_score": 3,
                     "away_name": "Saudi Arabia",
-                    "pts_awarded": null,
+                    "pts_awarded": 0,
                     "act_home_name": "Spain",
                     "act_home_score": 1,
                     "act_away_score": 0,
@@ -210280,10 +210280,10 @@
                 },
                 {
                     "home_name": "Cabo Verde",
-                    "home_score": null,
-                    "away_score": null,
+                    "home_score": 1,
+                    "away_score": 2,
                     "away_name": "Saudi Arabia",
-                    "pts_awarded": null,
+                    "pts_awarded": 0,
                     "act_home_name": "Cabo Verde",
                     "act_home_score": 1,
                     "act_away_score": 1,
@@ -210291,10 +210291,10 @@
                 },
                 {
                     "home_name": "Uruguay",
-                    "home_score": null,
-                    "away_score": null,
+                    "home_score": 1,
+                    "away_score": 0,
                     "away_name": "Spain",
-                    "pts_awarded": null,
+                    "pts_awarded": 1,
                     "act_home_name": "Uruguay",
                     "act_home_score": 2,
                     "act_away_score": 0,
@@ -210304,10 +210304,10 @@
             "GroupI": [
                 {
                     "home_name": "France",
-                    "home_score": null,
-                    "away_score": null,
+                    "home_score": 3,
+                    "away_score": 0,
                     "away_name": "Senegal",
-                    "pts_awarded": null,
+                    "pts_awarded": 1,
                     "act_home_name": "France",
                     "act_home_score": 2,
                     "act_away_score": 1,
@@ -210315,10 +210315,10 @@
                 },
                 {
                     "home_name": "Iraq",
-                    "home_score": null,
-                    "away_score": null,
+                    "home_score": 3,
+                    "away_score": 3,
                     "away_name": "Norway",
-                    "pts_awarded": null,
+                    "pts_awarded": 0,
                     "act_home_name": "Iraq",
                     "act_home_score": 1,
                     "act_away_score": 2,
@@ -210326,10 +210326,10 @@
                 },
                 {
                     "home_name": "Norway",
-                    "home_score": null,
-                    "away_score": null,
+                    "home_score": 3,
+                    "away_score": 3,
                     "away_name": "Senegal",
-                    "pts_awarded": null,
+                    "pts_awarded": 0,
                     "act_home_name": "Norway",
                     "act_home_score": 2,
                     "act_away_score": 1,
@@ -210337,10 +210337,10 @@
                 },
                 {
                     "home_name": "France",
-                    "home_score": null,
-                    "away_score": null,
+                    "home_score": 0,
+                    "away_score": 3,
                     "away_name": "Iraq",
-                    "pts_awarded": null,
+                    "pts_awarded": 0,
                     "act_home_name": "France",
                     "act_home_score": 1,
                     "act_away_score": 1,
@@ -210348,10 +210348,10 @@
                 },
                 {
                     "home_name": "Norway",
-                    "home_score": null,
-                    "away_score": null,
+                    "home_score": 0,
+                    "away_score": 1,
                     "away_name": "France",
-                    "pts_awarded": null,
+                    "pts_awarded": 1,
                     "act_home_name": "Norway",
                     "act_home_score": 0,
                     "act_away_score": 2,
@@ -210359,10 +210359,10 @@
                 },
                 {
                     "home_name": "Senegal",
-                    "home_score": null,
-                    "away_score": null,
+                    "home_score": 0,
+                    "away_score": 2,
                     "away_name": "Iraq",
-                    "pts_awarded": null,
+                    "pts_awarded": 0,
                     "act_home_name": "Senegal",
                     "act_home_score": 0,
                     "act_away_score": 0,
@@ -210372,10 +210372,10 @@
             "GroupJ": [
                 {
                     "home_name": "Argentina",
-                    "home_score": null,
-                    "away_score": null,
+                    "home_score": 2,
+                    "away_score": 1,
                     "away_name": "Algeria",
-                    "pts_awarded": null,
+                    "pts_awarded": 0,
                     "act_home_name": "Argentina",
                     "act_home_score": 1,
                     "act_away_score": 1,
@@ -210383,10 +210383,10 @@
                 },
                 {
                     "home_name": "Austria",
-                    "home_score": null,
-                    "away_score": null,
+                    "home_score": 1,
+                    "away_score": 1,
                     "away_name": "Jordan",
-                    "pts_awarded": null,
+                    "pts_awarded": 0,
                     "act_home_name": "Austria",
                     "act_home_score": 1,
                     "act_away_score": 0,
@@ -210394,10 +210394,10 @@
                 },
                 {
                     "home_name": "Argentina",
-                    "home_score": null,
-                    "away_score": null,
+                    "home_score": 1,
+                    "away_score": 4,
                     "away_name": "Austria",
-                    "pts_awarded": null,
+                    "pts_awarded": 0,
                     "act_home_name": "Argentina",
                     "act_home_score": 1,
                     "act_away_score": 1,
@@ -210405,10 +210405,10 @@
                 },
                 {
                     "home_name": "Jordan",
-                    "home_score": null,
-                    "away_score": null,
+                    "home_score": 2,
+                    "away_score": 0,
                     "away_name": "Algeria",
-                    "pts_awarded": null,
+                    "pts_awarded": 0,
                     "act_home_name": "Jordan",
                     "act_home_score": 0,
                     "act_away_score": 1,
@@ -210416,10 +210416,10 @@
                 },
                 {
                     "home_name": "Algeria",
-                    "home_score": null,
-                    "away_score": null,
+                    "home_score": 2,
+                    "away_score": 2,
                     "away_name": "Austria",
-                    "pts_awarded": null,
+                    "pts_awarded": 0,
                     "act_home_name": "Algeria",
                     "act_home_score": 2,
                     "act_away_score": 1,
@@ -210427,10 +210427,10 @@
                 },
                 {
                     "home_name": "Jordan",
-                    "home_score": null,
-                    "away_score": null,
+                    "home_score": 3,
+                    "away_score": 0,
                     "away_name": "Argentina",
-                    "pts_awarded": null,
+                    "pts_awarded": 0,
                     "act_home_name": "Jordan",
                     "act_home_score": 2,
                     "act_away_score": 2,
@@ -210440,10 +210440,10 @@
             "GroupK": [
                 {
                     "home_name": "Portugal",
-                    "home_score": null,
-                    "away_score": null,
+                    "home_score": 3,
+                    "away_score": 0,
                     "away_name": "Congo",
-                    "pts_awarded": null,
+                    "pts_awarded": 0,
                     "act_home_name": "Portugal",
                     "act_home_score": 0,
                     "act_away_score": 0,
@@ -210451,10 +210451,10 @@
                 },
                 {
                     "home_name": "Uzbekistan",
-                    "home_score": null,
-                    "away_score": null,
+                    "home_score": 0,
+                    "away_score": 2,
                     "away_name": "Colombia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1,
                     "act_home_name": "Uzbekistan",
                     "act_home_score": 1,
                     "act_away_score": 2,
@@ -210462,10 +210462,10 @@
                 },
                 {
                     "home_name": "Portugal",
-                    "home_score": null,
-                    "away_score": null,
+                    "home_score": 1,
+                    "away_score": 2,
                     "away_name": "Uzbekistan",
-                    "pts_awarded": null,
+                    "pts_awarded": 0,
                     "act_home_name": "Portugal",
                     "act_home_score": 2,
                     "act_away_score": 1,
@@ -210473,10 +210473,10 @@
                 },
                 {
                     "home_name": "Colombia",
-                    "home_score": null,
-                    "away_score": null,
+                    "home_score": 4,
+                    "away_score": 4,
                     "away_name": "Congo",
-                    "pts_awarded": null,
+                    "pts_awarded": 0,
                     "act_home_name": "Colombia",
                     "act_home_score": 1,
                     "act_away_score": 2,
@@ -210484,10 +210484,10 @@
                 },
                 {
                     "home_name": "Colombia",
-                    "home_score": null,
-                    "away_score": null,
+                    "home_score": 1,
+                    "away_score": 2,
                     "away_name": "Portugal",
-                    "pts_awarded": null,
+                    "pts_awarded": 0,
                     "act_home_name": "Colombia",
                     "act_home_score": 1,
                     "act_away_score": 1,
@@ -210495,10 +210495,10 @@
                 },
                 {
                     "home_name": "Congo",
-                    "home_score": null,
-                    "away_score": null,
+                    "home_score": 0,
+                    "away_score": 2,
                     "away_name": "Uzbekistan",
-                    "pts_awarded": null,
+                    "pts_awarded": 0,
                     "act_home_name": "Congo",
                     "act_home_score": 0,
                     "act_away_score": 0,
@@ -210508,10 +210508,10 @@
             "GroupL": [
                 {
                     "home_name": "Ghana",
-                    "home_score": null,
-                    "away_score": null,
+                    "home_score": 1,
+                    "away_score": 1,
                     "away_name": "Panama",
-                    "pts_awarded": null,
+                    "pts_awarded": 0,
                     "act_home_name": "Ghana",
                     "act_home_score": 1,
                     "act_away_score": 2,
@@ -210519,10 +210519,10 @@
                 },
                 {
                     "home_name": "England",
-                    "home_score": null,
-                    "away_score": null,
+                    "home_score": 3,
+                    "away_score": 3,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 0,
                     "act_home_name": "England",
                     "act_home_score": 1,
                     "act_away_score": 2,
@@ -210530,10 +210530,10 @@
                 },
                 {
                     "home_name": "England",
-                    "home_score": null,
-                    "away_score": null,
+                    "home_score": 1,
+                    "away_score": 4,
                     "away_name": "Ghana",
-                    "pts_awarded": null,
+                    "pts_awarded": 0,
                     "act_home_name": "England",
                     "act_home_score": 2,
                     "act_away_score": 1,
@@ -210541,10 +210541,10 @@
                 },
                 {
                     "home_name": "Panama",
-                    "home_score": null,
-                    "away_score": null,
+                    "home_score": 3,
+                    "away_score": 3,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 0,
                     "act_home_name": "Panama",
                     "act_home_score": 1,
                     "act_away_score": 0,
@@ -210552,10 +210552,10 @@
                 },
                 {
                     "home_name": "Panama",
-                    "home_score": null,
-                    "away_score": null,
+                    "home_score": 4,
+                    "away_score": 0,
                     "away_name": "England",
-                    "pts_awarded": null,
+                    "pts_awarded": 0,
                     "act_home_name": "Panama",
                     "act_home_score": 1,
                     "act_away_score": 2,
@@ -210563,10 +210563,10 @@
                 },
                 {
                     "home_name": "Croatia",
-                    "home_score": null,
-                    "away_score": null,
+                    "home_score": 4,
+                    "away_score": 3,
                     "away_name": "Ghana",
-                    "pts_awarded": null,
+                    "pts_awarded": 0,
                     "act_home_name": "Croatia",
                     "act_home_score": 1,
                     "act_away_score": 2,
@@ -210582,11 +210582,11 @@
                         "pts_awarded": 0
                     },
                     {
-                        "rank_name": "South Africa",
+                        "rank_name": "South Korea",
                         "pts_awarded": 0
                     },
                     {
-                        "rank_name": "South Korea",
+                        "rank_name": "South Africa",
                         "pts_awarded": 0
                     },
                     {
@@ -210616,7 +210616,7 @@
             "GroupB": {
                 "player_ranking": [
                     {
-                        "rank_name": "Canada",
+                        "rank_name": "Qatar",
                         "pts_awarded": 0
                     },
                     {
@@ -210624,11 +210624,11 @@
                         "pts_awarded": 0
                     },
                     {
-                        "rank_name": "Qatar",
+                        "rank_name": "Switzerland",
                         "pts_awarded": 0
                     },
                     {
-                        "rank_name": "Switzerland",
+                        "rank_name": "Canada",
                         "pts_awarded": 0
                     }
                 ],
@@ -210654,11 +210654,11 @@
             "GroupC": {
                 "player_ranking": [
                     {
-                        "rank_name": "Brazil",
+                        "rank_name": "Scotland",
                         "pts_awarded": 0
                     },
                     {
-                        "rank_name": "Morocco",
+                        "rank_name": "Brazil",
                         "pts_awarded": 0
                     },
                     {
@@ -210666,7 +210666,7 @@
                         "pts_awarded": 0
                     },
                     {
-                        "rank_name": "Scotland",
+                        "rank_name": "Morocco",
                         "pts_awarded": 0
                     }
                 ],
@@ -210692,7 +210692,7 @@
             "GroupD": {
                 "player_ranking": [
                     {
-                        "rank_name": "USA",
+                        "rank_name": "Turkey",
                         "pts_awarded": 0
                     },
                     {
@@ -210700,11 +210700,11 @@
                         "pts_awarded": 0
                     },
                     {
-                        "rank_name": "Australia",
+                        "rank_name": "USA",
                         "pts_awarded": 0
                     },
                     {
-                        "rank_name": "Turkey",
+                        "rank_name": "Australia",
                         "pts_awarded": 0
                     }
                 ],
@@ -210730,201 +210730,197 @@
             "GroupE": {
                 "player_ranking": [
                     {
-                        "rank_name": "Germany",
-                        "pts_awarded": 9
+                        "rank_name": "Ecuador",
+                        "pts_awarded": 0
                     },
                     {
                         "rank_name": "Curacao",
-                        "pts_awarded": 9
+                        "pts_awarded": 0
                     },
                     {
                         "rank_name": "Ivory Coast",
-                        "pts_awarded": 9
+                        "pts_awarded": 0
                     },
                     {
-                        "rank_name": "Ecuador",
-                        "pts_awarded": 9
+                        "rank_name": "Germany",
+                        "pts_awarded": 0
                     }
                 ],
                 "actual_ranking": [
                     {
                         "rank_name": "Germany",
-                        "pts_awarded": 9
+                        "pts_awarded": 0
                     },
                     {
                         "rank_name": "Curacao",
-                        "pts_awarded": 9
+                        "pts_awarded": 0
                     },
                     {
                         "rank_name": "Ivory Coast",
-                        "pts_awarded": 9
+                        "pts_awarded": 0
                     },
                     {
                         "rank_name": "Ecuador",
-                        "pts_awarded": 9
+                        "pts_awarded": 0
                     }
                 ]
             },
             "GroupF": {
                 "player_ranking": [
                     {
-                        "rank_name": "Netherlands",
-                        "pts_awarded": 5
-                    },
-                    {
-                        "rank_name": "Japan",
-                        "pts_awarded": 5
-                    },
-                    {
                         "rank_name": "Sweden",
-                        "pts_awarded": 5
+                        "pts_awarded": 0
+                    },
+                    {
+                        "rank_name": "Netherlands",
+                        "pts_awarded": 0
                     },
                     {
                         "rank_name": "Tunisia",
-                        "pts_awarded": 5
+                        "pts_awarded": 0
+                    },
+                    {
+                        "rank_name": "Japan",
+                        "pts_awarded": 0
                     }
                 ],
                 "actual_ranking": [
                     {
                         "rank_name": "Netherlands",
-                        "pts_awarded": 5
+                        "pts_awarded": 0
                     },
                     {
                         "rank_name": "Sweden",
-                        "pts_awarded": 5
+                        "pts_awarded": 0
                     },
                     {
                         "rank_name": "Japan",
-                        "pts_awarded": 5
+                        "pts_awarded": 0
                     },
                     {
                         "rank_name": "Tunisia",
-                        "pts_awarded": 5
+                        "pts_awarded": 0
                     }
                 ]
             },
             "GroupG": {
                 "player_ranking": [
                     {
-                        "rank_name": "Belgium",
-                        "pts_awarded": 9
-                    },
-                    {
-                        "rank_name": "Egypt",
-                        "pts_awarded": 9
+                        "rank_name": "New Zealand",
+                        "pts_awarded": 0
                     },
                     {
                         "rank_name": "Iran",
-                        "pts_awarded": 9
+                        "pts_awarded": 0
                     },
                     {
-                        "rank_name": "New Zealand",
-                        "pts_awarded": 9
+                        "rank_name": "Egypt",
+                        "pts_awarded": 0
+                    },
+                    {
+                        "rank_name": "Belgium",
+                        "pts_awarded": 0
                     }
                 ],
                 "actual_ranking": [
                     {
                         "rank_name": "Belgium",
-                        "pts_awarded": 9
+                        "pts_awarded": 0
                     },
                     {
                         "rank_name": "Egypt",
-                        "pts_awarded": 9
+                        "pts_awarded": 0
                     },
                     {
                         "rank_name": "Iran",
-                        "pts_awarded": 9
+                        "pts_awarded": 0
                     },
                     {
                         "rank_name": "New Zealand",
-                        "pts_awarded": 9
+                        "pts_awarded": 0
                     }
                 ]
             },
             "GroupH": {
                 "player_ranking": [
                     {
-                        "rank_name": "Spain",
-                        "pts_awarded": 5
-                    },
-                    {
-                        "rank_name": "Cabo Verde",
-                        "pts_awarded": 5
-                    },
-                    {
                         "rank_name": "Saudi Arabia",
-                        "pts_awarded": 5
+                        "pts_awarded": 0
                     },
                     {
                         "rank_name": "Uruguay",
-                        "pts_awarded": 5
+                        "pts_awarded": 0
+                    },
+                    {
+                        "rank_name": "Cabo Verde",
+                        "pts_awarded": 0
+                    },
+                    {
+                        "rank_name": "Spain",
+                        "pts_awarded": 0
                     }
                 ],
                 "actual_ranking": [
                     {
                         "rank_name": "Spain",
-                        "pts_awarded": 5
+                        "pts_awarded": 0
                     },
                     {
                         "rank_name": "Uruguay",
-                        "pts_awarded": 5
+                        "pts_awarded": 0
                     },
                     {
                         "rank_name": "Saudi Arabia",
-                        "pts_awarded": 5
+                        "pts_awarded": 0
                     },
                     {
                         "rank_name": "Cabo Verde",
-                        "pts_awarded": 5
+                        "pts_awarded": 0
                     }
                 ]
             },
             "GroupI": {
                 "player_ranking": [
                     {
-                        "rank_name": "France",
-                        "pts_awarded": 5
-                    },
-                    {
-                        "rank_name": "Senegal",
-                        "pts_awarded": 5
-                    },
-                    {
                         "rank_name": "Iraq",
-                        "pts_awarded": 5
+                        "pts_awarded": 0
+                    },
+                    {
+                        "rank_name": "France",
+                        "pts_awarded": 0
                     },
                     {
                         "rank_name": "Norway",
-                        "pts_awarded": 5
+                        "pts_awarded": 0
+                    },
+                    {
+                        "rank_name": "Senegal",
+                        "pts_awarded": 0
                     }
                 ],
                 "actual_ranking": [
                     {
                         "rank_name": "France",
-                        "pts_awarded": 5
+                        "pts_awarded": 0
                     },
                     {
                         "rank_name": "Iraq",
-                        "pts_awarded": 5
+                        "pts_awarded": 0
                     },
                     {
                         "rank_name": "Senegal",
-                        "pts_awarded": 5
+                        "pts_awarded": 0
                     },
                     {
                         "rank_name": "Norway",
-                        "pts_awarded": 5
+                        "pts_awarded": 0
                     }
                 ]
             },
             "GroupJ": {
                 "player_ranking": [
                     {
-                        "rank_name": "Argentina",
-                        "pts_awarded": 0
-                    },
-                    {
-                        "rank_name": "Algeria",
+                        "rank_name": "Jordan",
                         "pts_awarded": 0
                     },
                     {
@@ -210932,7 +210928,11 @@
                         "pts_awarded": 0
                     },
                     {
-                        "rank_name": "Jordan",
+                        "rank_name": "Argentina",
+                        "pts_awarded": 0
+                    },
+                    {
+                        "rank_name": "Algeria",
                         "pts_awarded": 0
                     }
                 ],
@@ -210962,15 +210962,15 @@
                         "pts_awarded": 0
                     },
                     {
-                        "rank_name": "Congo",
-                        "pts_awarded": 0
-                    },
-                    {
                         "rank_name": "Uzbekistan",
                         "pts_awarded": 0
                     },
                     {
                         "rank_name": "Colombia",
+                        "pts_awarded": 0
+                    },
+                    {
+                        "rank_name": "Congo",
                         "pts_awarded": 0
                     }
                 ],
@@ -210996,7 +210996,7 @@
             "GroupL": {
                 "player_ranking": [
                     {
-                        "rank_name": "England",
+                        "rank_name": "Panama",
                         "pts_awarded": 0
                     },
                     {
@@ -211008,7 +211008,7 @@
                         "pts_awarded": 0
                     },
                     {
-                        "rank_name": "Panama",
+                        "rank_name": "England",
                         "pts_awarded": 0
                     }
                 ],
@@ -211032,7 +211032,7 @@
                 ]
             }
         },
-        "total_points": 33
+        "total_points": 17
     },
     "Pam": {
         "matches": {
