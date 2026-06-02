@@ -208,20 +208,20 @@
           "col2": "10"
         },
         {
-          "col1": "Nuno1",
-          "col2": "9"
-        },
-        {
-          "col1": "Nuno2",
-          "col2": "9"
-        },
-        {
           "col1": "ChristianL",
           "col2": "8"
         },
         {
           "col1": "Dora",
           "col2": "8"
+        },
+        {
+          "col1": "Mugwe",
+          "col2": "8"
+        },
+        {
+          "col1": "Aaron",
+          "col2": "7"
         }
       ]
     },
@@ -347,15 +347,15 @@
           "col2": "11"
         },
         {
+          "col1": "Nuno1",
+          "col2": "11"
+        },
+        {
           "col1": "Moncef",
           "col2": "10"
         },
         {
           "col1": "Sabrina",
-          "col2": "10"
-        },
-        {
-          "col1": "Stanley",
           "col2": "10"
         }
       ]
@@ -462,6 +462,10 @@
           "col2": "14"
         },
         {
+          "col1": "Nuno1",
+          "col2": "13"
+        },
+        {
           "col1": "Michele",
           "col2": "12"
         },
@@ -487,10 +491,6 @@
         },
         {
           "col1": "Atish",
-          "col2": "8"
-        },
-        {
-          "col1": "Cameron",
           "col2": "8"
         }
       ]

@@ -11,11 +11,11 @@
       },
       {
         "col1": "Spain v Ivory Coast",
-        "col2": "52"
+        "col2": "53"
       },
       {
         "col1": "Mexico v Ivory Coast",
-        "col2": "48"
+        "col2": "49"
       }
     ],
     [
@@ -29,21 +29,21 @@
       },
       {
         "col1": "France v Senegal",
-        "col2": "53"
+        "col2": "54"
       },
       {
         "col1": "Haiti v Senegal",
-        "col2": "49"
+        "col2": "50"
       }
     ],
     [
       {
         "col1": "England v Ecuador",
-        "col2": "63"
+        "col2": "64"
       },
       {
         "col1": "Argentina v Ecuador",
-        "col2": "54"
+        "col2": "55"
       },
       {
         "col1": "Argentina v South Africa",
@@ -57,11 +57,11 @@
     [
       {
         "col1": "Canada v South Korea",
-        "col2": "59"
+        "col2": "60"
       },
       {
         "col1": "Germany v South Korea",
-        "col2": "58"
+        "col2": "59"
       },
       {
         "col1": "Germany v USA",
@@ -74,6 +74,10 @@
     ],
     [
       {
+        "col1": "Morocco v Algeria",
+        "col2": "55"
+      },
+      {
         "col1": "Morocco v Colombia",
         "col2": "55"
       },
@@ -82,12 +86,8 @@
         "col2": "55"
       },
       {
-        "col1": "Morocco v Algeria",
-        "col2": "54"
-      },
-      {
         "col1": "Norway v Colombia",
-        "col2": "50"
+        "col2": "51"
       }
     ],
     [
@@ -97,11 +97,11 @@
       },
       {
         "col1": "Switzerland v Brazil",
-        "col2": "54"
+        "col2": "55"
       },
       {
         "col1": "Jordan v Scotland",
-        "col2": "51"
+        "col2": "52"
       },
       {
         "col1": "Switzerland v Scotland",
@@ -119,11 +119,11 @@
       },
       {
         "col1": "Paraguay v Iran",
-        "col2": "50"
+        "col2": "51"
       },
       {
         "col1": "Paraguay v Netherlands",
-        "col2": "49"
+        "col2": "50"
       }
     ],
     [
@@ -132,11 +132,11 @@
         "col2": "64"
       },
       {
-        "col1": "Japan v Australia",
-        "col2": "51"
+        "col1": "Japan v Belgium",
+        "col2": "53"
       },
       {
-        "col1": "Japan v Belgium",
+        "col1": "Japan v Australia",
         "col2": "51"
       },
       {
@@ -164,18 +164,18 @@
         "col2": "16"
       },
       {
-        "col1": "Portugal v Haiti",
+        "col1": "Ivory Coast v Haiti",
         "col2": "15"
       },
       {
-        "col1": "Ivory Coast v Haiti",
-        "col2": "14"
+        "col1": "Portugal v Haiti",
+        "col2": "15"
       }
     ],
     [
       {
         "col1": "Argentina v South Korea",
-        "col2": "20"
+        "col2": "21"
       },
       {
         "col1": "Argentina v Germany",
@@ -190,22 +190,22 @@
         "col2": "16"
       },
       {
-        "col1": "Ecuador v Canada",
-        "col2": "14"
+        "col1": "England v Canada",
+        "col2": "15"
       },
       {
-        "col1": "Ecuador v South Korea",
+        "col1": "Ecuador v Canada",
         "col2": "14"
       }
     ],
     [
       {
-        "col1": "Norway v Brazil",
+        "col1": "Algeria v Brazil",
         "col2": "18"
       },
       {
-        "col1": "Algeria v Brazil",
-        "col2": "17"
+        "col1": "Norway v Brazil",
+        "col2": "18"
       },
       {
         "col1": "Morocco v Switzerland",
@@ -316,6 +316,10 @@
         "col2": "7"
       },
       {
+        "col1": "Algeria v Belgium",
+        "col2": "6"
+      },
+      {
         "col1": "Brazil v Uruguay",
         "col2": "6"
       },
@@ -338,10 +342,6 @@
       {
         "col1": "Scotland v Uruguay",
         "col2": "6"
-      },
-      {
-        "col1": "Algeria v Belgium",
-        "col2": "5"
       }
     ]
   ],
@@ -403,6 +403,10 @@
       "col2": "3"
     },
     {
+      "col1": "ARGENTINA vs COLOMBIA",
+      "col2": "2"
+    },
+    {
       "col1": "ARGENTINA vs JORDAN",
       "col2": "2"
     },
@@ -424,10 +428,6 @@
     },
     {
       "col1": "CANADA vs JAPAN",
-      "col2": "2"
-    },
-    {
-      "col1": "CANADA vs MOROCCO",
       "col2": "2"
     }
   ]

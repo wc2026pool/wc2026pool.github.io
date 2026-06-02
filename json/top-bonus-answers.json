@@ -33,7 +33,7 @@
         "rows": [
             {
                 "col1": "Canada",
-                "col2": "9"
+                "col2": "10"
             },
             {
                 "col1": "Congo",
@@ -130,6 +130,10 @@
                 "col2": "7"
             },
             {
+                "col1": "Argelia",
+                "col2": "6"
+            },
+            {
                 "col1": "Ecuador",
                 "col2": "6"
             },
@@ -139,10 +143,6 @@
             },
             {
                 "col1": "Mexico",
-                "col2": "6"
-            },
-            {
-                "col1": "Morocco",
                 "col2": "6"
             }
         ]
@@ -196,6 +196,10 @@
                 "col2": "7"
             },
             {
+                "col1": "Iran",
+                "col2": "7"
+            },
+            {
                 "col1": "New Zealand",
                 "col2": "7"
             },
@@ -212,10 +216,6 @@
                 "col2": "7"
             },
             {
-                "col1": "Iran",
-                "col2": "6"
-            },
-            {
                 "col1": "Morocco",
                 "col2": "6"
             }
@@ -230,11 +230,11 @@
             },
             {
                 "col1": "France",
-                "col2": "8"
+                "col2": "9"
             },
             {
                 "col1": "Mexico",
-                "col2": "8"
+                "col2": "9"
             },
             {
                 "col1": "Ecuador",
@@ -290,7 +290,7 @@
                 "col2": "3"
             },
             {
-                "col1": "49 cards",
+                "col1": "35 cards",
                 "col2": "3"
             }
         ]
@@ -356,15 +356,15 @@
                 "col2": "6"
             },
             {
+                "col1": "Czechia",
+                "col2": "6"
+            },
+            {
                 "col1": "Japan",
                 "col2": "6"
             },
             {
                 "col1": "Netherlands",
-                "col2": "6"
-            },
-            {
-                "col1": "Saudi Arabia",
                 "col2": "6"
             }
         ]
@@ -407,7 +407,7 @@
             },
             {
                 "col1": "6 games",
-                "col2": "25"
+                "col2": "26"
             },
             {
                 "col1": "4 games",
@@ -415,7 +415,7 @@
             },
             {
                 "col1": "3 games",
-                "col2": "22"
+                "col2": "23"
             },
             {
                 "col1": "5 games",
@@ -436,7 +436,7 @@
             },
             {
                 "col1": "minute 49-60",
-                "col2": "24"
+                "col2": "25"
             },
             {
                 "col1": "minute 61-72",
@@ -451,11 +451,11 @@
                 "col2": "22"
             },
             {
-                "col1": "minute 109-120",
-                "col2": "21"
+                "col1": "minute 85-96",
+                "col2": "22"
             },
             {
-                "col1": "minute 85-96",
+                "col1": "minute 109-120",
                 "col2": "21"
             },
             {
@@ -497,7 +497,7 @@
             },
             {
                 "col1": "2 cards",
-                "col2": "17"
+                "col2": "18"
             }
         ]
     },
@@ -510,7 +510,7 @@
             },
             {
                 "col1": "3 cards",
-                "col2": "26"
+                "col2": "27"
             },
             {
                 "col1": "8 cards",
@@ -522,12 +522,12 @@
         "title": "Bonus #16\nWill the Final go to penalty shootout",
         "rows": [
             {
-                "col1": "Yes",
-                "col2": "106"
+                "col1": "No",
+                "col2": "107"
             },
             {
-                "col1": "No",
-                "col2": "105"
+                "col1": "Yes",
+                "col2": "106"
             }
         ]
     },
@@ -597,6 +597,10 @@
                 "col2": "14"
             },
             {
+                "col1": "Jordan vs Algeria",
+                "col2": "12"
+            },
+            {
                 "col1": "Uruguay vs Cabo Verde",
                 "col2": "12"
             },
@@ -611,10 +615,6 @@
             {
                 "col1": "Ivory Coast vs Ecuador",
                 "col2": "11"
-            },
-            {
-                "col1": "Jordan vs Algeria",
-                "col2": "11"
             }
         ]
     },
@@ -623,7 +623,7 @@
         "rows": [
             {
                 "col1": "New Zealand vs Egypt",
-                "col2": "15"
+                "col2": "16"
             },
             {
                 "col1": "Jordan vs Argentina",
