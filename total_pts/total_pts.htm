@@ -55,7 +55,7 @@
         .pts-2 { background-color: #C6EFCE; color: #006100; font-weight: bold; padding: 2px 16px; border-radius: 3px; display: inline-block; min-width: 24px; }
 
         /* Rank Specific Conditional Styles */
-        .pts-cell { grid-column: 2; display: flex; flex-direction: column; height: 100%; justify-content: center; }
+        .pts-cell { grid-column: 2; display: flex; flex-direction: column; align-items: center; height: 100%; justify-content: center; text-align: center; }
         .pts-val { font-size: 2em; font-weight: bold; }
         .pts-low { background-color: #FFC7CE; color: #EA002D; border-radius: 3px; }
         .pts-mid { background-color: #FFF49F; color: #CC7000; border-radius: 3px; }
@@ -79,7 +79,7 @@
         .team-row { display: flex; align-items: center; }
         .team-name { flex: 1; text-align: right; padding-right: 8px; }
         .team-score { width: 25px; text-align: left; font-weight: bold; }
-        .game-cell.actual .team-score { color: #1a6bbf; }
+        .game-cell.actual .team-score { color: #000; }
         .pts-span {
             display: flex; align-items: center; justify-content: center;
             font-size: 1.6em; font-weight: bold; border-radius: 3px;
@@ -301,7 +301,7 @@
                                 <span>${homeScore}</span>
                                 <span>${awayScore}</span>
                             </div>
-                            <div class="cell-act" style="font-weight:bold; color:#1a6bbf; text-align:center">
+                            <div class="cell-act" style="font-weight:bold; color:#000; text-align:center">
                                 <span>${actHome}</span>
                                 <span>${actAway}</span>
                             </div>
@@ -315,11 +315,25 @@
         html += '<h2>Group Rank</h2>';
         for (const group in gData.rankings) {
             const rankingData = gData.rankings[group];
-            const groupPoints = rankingData.player_ranking.length > 0
-                              ? (rankingData.player_ranking[0].pts_awarded || 0) : 0;
-            let rankClass = groupPoints === 0 ? "pts-none" : "pts-low";
-            if (groupPoints === 4 || groupPoints === 5) rankClass = "pts-mid";
-            else if (groupPoints === 9) rankClass = "pts-high";
+            const rawPts = rankingData.player_ranking.length > 0
+                              ? rankingData.player_ranking[0].pts_awarded : null;
+            const groupPoints = rawPts;
+
+            let rankClass = '';
+            let ptsDisplay = '';
+            if (rawPts === null || rawPts === undefined || rawPts === '') {
+                rankClass = '';
+                ptsDisplay = '';
+            } else if (rawPts === 0 || rawPts === '0') {
+                rankClass = 'pts-low';
+                ptsDisplay = 0;
+            } else if (rawPts === 4 || rawPts === 5 || rawPts === '4' || rawPts === '5') {
+                rankClass = 'pts-mid';
+                ptsDisplay = rawPts;
+            } else if (rawPts === 9 || rawPts === '9') {
+                rankClass = 'pts-high';
+                ptsDisplay = rawPts;
+            }
             const playerRows = rankingData.player_ranking.map(r =>
                 r.rank_name ? `<div class="rank-item">${r.rank_name}</div>` : placeholder('')
             ).join('');
@@ -333,7 +347,7 @@
                         <div class="rank-header">Actual Order</div>
                         <div class="rank-col">${playerRows}</div>
                         <div class="pts-cell ${rankClass}">
-                            <div class="pts-val">${groupPoints || ''}</div>
+                            <div class="pts-val">${ptsDisplay}</div>
                         </div>
                         <div class="rank-col">${actualRows}</div>
                      </div></div>`;

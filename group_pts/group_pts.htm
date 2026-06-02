@@ -203,7 +203,7 @@
                                     <span>${homeScore}</span>
                                     <span>${awayScore}</span>
                                 </div>
-                                <div class="cell-act" style="font-weight:bold; color:#1a6bbf; text-align:center">
+                                <div class="cell-act" style="font-weight:bold; text-align:center">
                                     <span>${actHome}</span>
                                     <span>${actAway}</span>
                                 </div>
@@ -216,12 +216,25 @@
             html += "<h2>Group Rank</h2>";
             for (const group in pData.rankings) {
                 const rankingData = pData.rankings[group];
-                const groupPoints = rankingData.player_ranking.length > 0
-                                  ? (rankingData.player_ranking[0].pts_awarded || 0) : 0;
+                const rawPts = rankingData.player_ranking.length > 0
+                                  ? rankingData.player_ranking[0].pts_awarded : null;
+                const groupPoints = rawPts;
 
-                let rankClass = groupPoints === 0 ? "pts-none" : "pts-low";
-                if (groupPoints === 4 || groupPoints === 5) rankClass = "pts-mid";
-                else if (groupPoints === 9) rankClass = "pts-high";
+                let rankClass = '';
+                let ptsDisplay = '';
+                if (rawPts === null || rawPts === undefined || rawPts === '') {
+                    rankClass = '';
+                    ptsDisplay = '';
+                } else if (rawPts === 0) {
+                    rankClass = 'pts-low';
+                    ptsDisplay = 0;
+                } else if (rawPts === 4 || rawPts === 5) {
+                    rankClass = 'pts-mid';
+                    ptsDisplay = rawPts;
+                } else if (rawPts === 9) {
+                    rankClass = 'pts-high';
+                    ptsDisplay = rawPts;
+                }
 
                 const playerRows = rankingData.player_ranking.map(r =>
                     r.rank_name ? `<div class="rank-item">${r.rank_name}</div>` : placeholder('')
@@ -237,7 +250,7 @@
                             <div class="rank-header">Actual Order</div>
                             <div class="rank-col">${playerRows}</div>
                             <div class="pts-cell ${rankClass}">
-                                <div class="pts-val">${groupPoints || ''}</div>
+                                <div class="pts-val">${ptsDisplay}</div>
                             </div>
                             <div class="rank-col">${actualRows}</div>
                          </div></div>`;

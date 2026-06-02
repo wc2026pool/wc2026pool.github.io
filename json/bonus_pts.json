@@ -3,8 +3,8 @@
         "total_points": 0,
         "question1": {
             "predicted": "Portugal",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Brazil"
         },
         "question2": {
             "predicted": "Mexico",
@@ -106,8 +106,8 @@
         "total_points": 0,
         "question1": {
             "predicted": "New Zealand",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Brazil"
         },
         "question2": {
             "predicted": "Ghana",
@@ -209,8 +209,8 @@
         "total_points": 0,
         "question1": {
             "predicted": "Saudi Arabia",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Brazil"
         },
         "question2": {
             "predicted": "Czechia",
@@ -312,8 +312,8 @@
         "total_points": 0,
         "question1": {
             "predicted": "Switzerland",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Brazil"
         },
         "question2": {
             "predicted": "Qatar",
@@ -415,8 +415,8 @@
         "total_points": 0,
         "question1": {
             "predicted": "Congo",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Brazil"
         },
         "question2": {
             "predicted": "Saudi Arabia",
@@ -518,8 +518,8 @@
         "total_points": 0,
         "question1": {
             "predicted": "Belgium",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Brazil"
         },
         "question2": {
             "predicted": "Iraq",
@@ -621,8 +621,8 @@
         "total_points": 0,
         "question1": {
             "predicted": "Argelia",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Brazil"
         },
         "question2": {
             "predicted": "Senegal",
@@ -724,8 +724,8 @@
         "total_points": 0,
         "question1": {
             "predicted": "Austria",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Brazil"
         },
         "question2": {
             "predicted": "Morocco",
@@ -827,8 +827,8 @@
         "total_points": 0,
         "question1": {
             "predicted": "Australia",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Brazil"
         },
         "question2": {
             "predicted": "NO TEAM",
@@ -930,8 +930,8 @@
         "total_points": 0,
         "question1": {
             "predicted": "South Africa",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Brazil"
         },
         "question2": {
             "predicted": "Colombia",
@@ -1033,8 +1033,8 @@
         "total_points": 0,
         "question1": {
             "predicted": "Netherlands",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Brazil"
         },
         "question2": {
             "predicted": "Haiti",
@@ -1136,8 +1136,8 @@
         "total_points": 0,
         "question1": {
             "predicted": "South Korea",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Brazil"
         },
         "question2": {
             "predicted": "New Zealand",
@@ -1239,8 +1239,8 @@
         "total_points": 0,
         "question1": {
             "predicted": "Jordan",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Brazil"
         },
         "question2": {
             "predicted": "Cabo Verde",
@@ -1342,8 +1342,8 @@
         "total_points": 0,
         "question1": {
             "predicted": "Belgium",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Brazil"
         },
         "question2": {
             "predicted": "Cabo Verde",
@@ -1445,8 +1445,8 @@
         "total_points": 0,
         "question1": {
             "predicted": "Switzerland",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Brazil"
         },
         "question2": {
             "predicted": "Colombia",
@@ -1548,8 +1548,8 @@
         "total_points": 0,
         "question1": {
             "predicted": "France",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Brazil"
         },
         "question2": {
             "predicted": "Norway",
@@ -1651,8 +1651,8 @@
         "total_points": 0,
         "question1": {
             "predicted": "Ecuador",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Brazil"
         },
         "question2": {
             "predicted": "Spain",
@@ -1754,8 +1754,8 @@
         "total_points": 0,
         "question1": {
             "predicted": "Germany",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Brazil"
         },
         "question2": {
             "predicted": "Bosnia",
@@ -1857,8 +1857,8 @@
         "total_points": 0,
         "question1": {
             "predicted": "Paraguay",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Brazil"
         },
         "question2": {
             "predicted": "Senegal",
@@ -1960,8 +1960,8 @@
         "total_points": 0,
         "question1": {
             "predicted": "Argelia",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Brazil"
         },
         "question2": {
             "predicted": "Paraguay",
@@ -2063,8 +2063,8 @@
         "total_points": 0,
         "question1": {
             "predicted": "Bosnia",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Brazil"
         },
         "question2": {
             "predicted": "Argelia",
@@ -2166,8 +2166,8 @@
         "total_points": 0,
         "question1": {
             "predicted": "Congo",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Brazil"
         },
         "question2": {
             "predicted": "Switzerland",
@@ -2269,8 +2269,8 @@
         "total_points": 0,
         "question1": {
             "predicted": "Australia",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Brazil"
         },
         "question2": {
             "predicted": "Argentina",
@@ -2372,8 +2372,8 @@
         "total_points": 0,
         "question1": {
             "predicted": "Ghana",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Brazil"
         },
         "question2": {
             "predicted": "Colombia",
@@ -2472,11 +2472,11 @@
         }
     },
     "Cameron": {
-        "total_points": 0,
+        "total_points": 1,
         "question1": {
             "predicted": "Uruguay",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Brazil"
         },
         "question2": {
             "predicted": "Japan",
@@ -2578,8 +2578,8 @@
         "total_points": 0,
         "question1": {
             "predicted": "Iraq",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Brazil"
         },
         "question2": {
             "predicted": "Switzerland",
@@ -2681,8 +2681,8 @@
         "total_points": 0,
         "question1": {
             "predicted": "Canada",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Brazil"
         },
         "question2": {
             "predicted": "Spain",
@@ -2784,8 +2784,8 @@
         "total_points": 0,
         "question1": {
             "predicted": "Tunisia",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Brazil"
         },
         "question2": {
             "predicted": "Scotland",
@@ -2887,8 +2887,8 @@
         "total_points": 0,
         "question1": {
             "predicted": "Saudi Arabia",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Brazil"
         },
         "question2": {
             "predicted": "USA",
@@ -2990,8 +2990,8 @@
         "total_points": 0,
         "question1": {
             "predicted": "USA",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Brazil"
         },
         "question2": {
             "predicted": "Germany",
@@ -3093,8 +3093,8 @@
         "total_points": 0,
         "question1": {
             "predicted": "Argelia",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Brazil"
         },
         "question2": {
             "predicted": "Sweden",
@@ -3196,8 +3196,8 @@
         "total_points": 0,
         "question1": {
             "predicted": "Switzerland",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Brazil"
         },
         "question2": {
             "predicted": "South Africa",
@@ -3299,8 +3299,8 @@
         "total_points": 0,
         "question1": {
             "predicted": "Morocco",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Brazil"
         },
         "question2": {
             "predicted": "Austria",
@@ -3402,8 +3402,8 @@
         "total_points": 0,
         "question1": {
             "predicted": "Norway",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Brazil"
         },
         "question2": {
             "predicted": "Egypt",
@@ -3505,8 +3505,8 @@
         "total_points": 0,
         "question1": {
             "predicted": "Ivory Coast",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Brazil"
         },
         "question2": {
             "predicted": "Panama",
@@ -3608,8 +3608,8 @@
         "total_points": 0,
         "question1": {
             "predicted": "Iran",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Brazil"
         },
         "question2": {
             "predicted": "Saudi Arabia",
@@ -3711,8 +3711,8 @@
         "total_points": 0,
         "question1": {
             "predicted": "Mexico",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Brazil"
         },
         "question2": {
             "predicted": "Uzbekistan",
@@ -3814,8 +3814,8 @@
         "total_points": 0,
         "question1": {
             "predicted": "Croatia",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Brazil"
         },
         "question2": {
             "predicted": "Japan",
@@ -3917,8 +3917,8 @@
         "total_points": 0,
         "question1": {
             "predicted": "Paraguay",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Brazil"
         },
         "question2": {
             "predicted": "Bosnia",
@@ -4020,8 +4020,8 @@
         "total_points": 0,
         "question1": {
             "predicted": "South Korea",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Brazil"
         },
         "question2": {
             "predicted": "Bosnia",
@@ -4123,8 +4123,8 @@
         "total_points": 0,
         "question1": {
             "predicted": "Panama",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Brazil"
         },
         "question2": {
             "predicted": "Japan",
@@ -4226,8 +4226,8 @@
         "total_points": 0,
         "question1": {
             "predicted": "Egypt",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Brazil"
         },
         "question2": {
             "predicted": "Argelia",
@@ -4329,8 +4329,8 @@
         "total_points": 0,
         "question1": {
             "predicted": "Argelia",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Brazil"
         },
         "question2": {
             "predicted": "Argentina",
@@ -4432,8 +4432,8 @@
         "total_points": 0,
         "question1": {
             "predicted": "Spain",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Brazil"
         },
         "question2": {
             "predicted": "Czechia",
@@ -4535,8 +4535,8 @@
         "total_points": 0,
         "question1": {
             "predicted": "Austria",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Brazil"
         },
         "question2": {
             "predicted": "Turkey",
@@ -4638,8 +4638,8 @@
         "total_points": 0,
         "question1": {
             "predicted": "South Korea",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Brazil"
         },
         "question2": {
             "predicted": "Qatar",
@@ -4741,8 +4741,8 @@
         "total_points": 0,
         "question1": {
             "predicted": "Croatia",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Brazil"
         },
         "question2": {
             "predicted": "Argentina",
@@ -4844,8 +4844,8 @@
         "total_points": 0,
         "question1": {
             "predicted": "Saudi Arabia",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Brazil"
         },
         "question2": {
             "predicted": "Egypt",
@@ -4947,8 +4947,8 @@
         "total_points": 0,
         "question1": {
             "predicted": "Australia",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Brazil"
         },
         "question2": {
             "predicted": "France",
@@ -5050,8 +5050,8 @@
         "total_points": 0,
         "question1": {
             "predicted": "Argelia",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Brazil"
         },
         "question2": {
             "predicted": "Jordan",
@@ -5153,8 +5153,8 @@
         "total_points": 0,
         "question1": {
             "predicted": "Argentina",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Brazil"
         },
         "question2": {
             "predicted": "England",
@@ -5256,8 +5256,8 @@
         "total_points": 0,
         "question1": {
             "predicted": "Qatar",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Brazil"
         },
         "question2": {
             "predicted": "Croatia",
@@ -5356,11 +5356,11 @@
         }
     },
     "Dino": {
-        "total_points": 0,
+        "total_points": 1,
         "question1": {
             "predicted": "Tunisia",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Brazil"
         },
         "question2": {
             "predicted": "New Zealand",
@@ -5459,11 +5459,11 @@
         }
     },
     "Dora": {
-        "total_points": 0,
+        "total_points": 1,
         "question1": {
             "predicted": "Turkey",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Brazil"
         },
         "question2": {
             "predicted": "Congo",
@@ -5565,8 +5565,8 @@
         "total_points": 0,
         "question1": {
             "predicted": "Mexico",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Brazil"
         },
         "question2": {
             "predicted": "Portugal",
@@ -5668,8 +5668,8 @@
         "total_points": 0,
         "question1": {
             "predicted": "Senegal",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Brazil"
         },
         "question2": {
             "predicted": "Australia",
@@ -5771,8 +5771,8 @@
         "total_points": 0,
         "question1": {
             "predicted": "Canada",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Brazil"
         },
         "question2": {
             "predicted": "Switzerland",
@@ -5874,8 +5874,8 @@
         "total_points": 0,
         "question1": {
             "predicted": "Ivory Coast",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Brazil"
         },
         "question2": {
             "predicted": "Paraguay",
@@ -5977,8 +5977,8 @@
         "total_points": 0,
         "question1": {
             "predicted": "Germany",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Brazil"
         },
         "question2": {
             "predicted": "Ecuador",
@@ -6080,8 +6080,8 @@
         "total_points": 0,
         "question1": {
             "predicted": "Austria",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Brazil"
         },
         "question2": {
             "predicted": "NO TEAM",
@@ -6183,8 +6183,8 @@
         "total_points": 0,
         "question1": {
             "predicted": "Senegal",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Brazil"
         },
         "question2": {
             "predicted": "Iran",
@@ -6286,8 +6286,8 @@
         "total_points": 0,
         "question1": {
             "predicted": "Czechia",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Brazil"
         },
         "question2": {
             "predicted": "Bosnia",
@@ -6386,11 +6386,11 @@
         }
     },
     "Ethan": {
-        "total_points": 0,
+        "total_points": 1,
         "question1": {
             "predicted": "Morocco",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Brazil"
         },
         "question2": {
             "predicted": "Curacao",
@@ -6492,8 +6492,8 @@
         "total_points": 0,
         "question1": {
             "predicted": "USA",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Brazil"
         },
         "question2": {
             "predicted": "Czechia",
@@ -6595,8 +6595,8 @@
         "total_points": 0,
         "question1": {
             "predicted": "Mexico",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Brazil"
         },
         "question2": {
             "predicted": "Congo",
@@ -6698,8 +6698,8 @@
         "total_points": 0,
         "question1": {
             "predicted": "Canada",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Brazil"
         },
         "question2": {
             "predicted": "Ivory Coast",
@@ -6801,8 +6801,8 @@
         "total_points": 0,
         "question1": {
             "predicted": "Saudi Arabia",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Brazil"
         },
         "question2": {
             "predicted": "Haiti",
@@ -6904,8 +6904,8 @@
         "total_points": 0,
         "question1": {
             "predicted": "Uruguay",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Brazil"
         },
         "question2": {
             "predicted": "France",
@@ -7007,8 +7007,8 @@
         "total_points": 0,
         "question1": {
             "predicted": "Congo",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Brazil"
         },
         "question2": {
             "predicted": "Bosnia",
@@ -7110,8 +7110,8 @@
         "total_points": 0,
         "question1": {
             "predicted": "Ecuador",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Brazil"
         },
         "question2": {
             "predicted": "Congo",
@@ -7213,8 +7213,8 @@
         "total_points": 0,
         "question1": {
             "predicted": "Ecuador",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Brazil"
         },
         "question2": {
             "predicted": "Morocco",
@@ -7316,8 +7316,8 @@
         "total_points": 0,
         "question1": {
             "predicted": "Uzbekistan",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Brazil"
         },
         "question2": {
             "predicted": "Ivory Coast",
@@ -7419,8 +7419,8 @@
         "total_points": 0,
         "question1": {
             "predicted": "Iran",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Brazil"
         },
         "question2": {
             "predicted": "Uruguay",
@@ -7522,8 +7522,8 @@
         "total_points": 0,
         "question1": {
             "predicted": "Uruguay",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Brazil"
         },
         "question2": {
             "predicted": "Panama",
@@ -7625,8 +7625,8 @@
         "total_points": 0,
         "question1": {
             "predicted": "Spain",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Brazil"
         },
         "question2": {
             "predicted": "Croatia",
@@ -7728,8 +7728,8 @@
         "total_points": 0,
         "question1": {
             "predicted": "Ivory Coast",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Brazil"
         },
         "question2": {
             "predicted": "South Africa",
@@ -7831,8 +7831,8 @@
         "total_points": 0,
         "question1": {
             "predicted": "Switzerland",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Brazil"
         },
         "question2": {
             "predicted": "Paraguay",
@@ -7934,8 +7934,8 @@
         "total_points": 0,
         "question1": {
             "predicted": "Qatar",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Brazil"
         },
         "question2": {
             "predicted": "France",
@@ -8037,8 +8037,8 @@
         "total_points": 0,
         "question1": {
             "predicted": "Ecuador",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Brazil"
         },
         "question2": {
             "predicted": "Iraq",
@@ -8140,8 +8140,8 @@
         "total_points": 0,
         "question1": {
             "predicted": "Morocco",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Brazil"
         },
         "question2": {
             "predicted": "Ivory Coast",
@@ -8243,8 +8243,8 @@
         "total_points": 0,
         "question1": {
             "predicted": "Mexico",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Brazil"
         },
         "question2": {
             "predicted": "Scotland",
@@ -8346,8 +8346,8 @@
         "total_points": 0,
         "question1": {
             "predicted": "Senegal",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Brazil"
         },
         "question2": {
             "predicted": "Croatia",
@@ -8449,8 +8449,8 @@
         "total_points": 0,
         "question1": {
             "predicted": "Tunisia",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Brazil"
         },
         "question2": {
             "predicted": "New Zealand",
@@ -8552,8 +8552,8 @@
         "total_points": 0,
         "question1": {
             "predicted": "Uruguay",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Brazil"
         },
         "question2": {
             "predicted": "Iran",
@@ -8655,8 +8655,8 @@
         "total_points": 0,
         "question1": {
             "predicted": "NO TEAM",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Brazil"
         },
         "question2": {
             "predicted": "Curacao",
@@ -8758,8 +8758,8 @@
         "total_points": 0,
         "question1": {
             "predicted": "Congo",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Brazil"
         },
         "question2": {
             "predicted": "Mexico",
@@ -8858,11 +8858,11 @@
         }
     },
     "Hugo": {
-        "total_points": 0,
+        "total_points": 1,
         "question1": {
             "predicted": "Uruguay",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Brazil"
         },
         "question2": {
             "predicted": "Argentina",
@@ -8961,11 +8961,11 @@
         }
     },
     "Ian": {
-        "total_points": 0,
+        "total_points": 2,
         "question1": {
             "predicted": "Austria",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Brazil"
         },
         "question2": {
             "predicted": "Switzerland",
@@ -9067,8 +9067,8 @@
         "total_points": 0,
         "question1": {
             "predicted": "South Africa",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Brazil"
         },
         "question2": {
             "predicted": "Australia",
@@ -9170,8 +9170,8 @@
         "total_points": 0,
         "question1": {
             "predicted": "Curacao",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Brazil"
         },
         "question2": {
             "predicted": "Germany",
@@ -9270,11 +9270,11 @@
         }
     },
     "Jackson": {
-        "total_points": 0,
+        "total_points": 2,
         "question1": {
             "predicted": "Australia",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Brazil"
         },
         "question2": {
             "predicted": "Sweden",
@@ -9376,8 +9376,8 @@
         "total_points": 0,
         "question1": {
             "predicted": "Tunisia",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Brazil"
         },
         "question2": {
             "predicted": "Australia",
@@ -9479,8 +9479,8 @@
         "total_points": 0,
         "question1": {
             "predicted": "Egypt",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Brazil"
         },
         "question2": {
             "predicted": "Japan",
@@ -9582,8 +9582,8 @@
         "total_points": 0,
         "question1": {
             "predicted": "Sweden",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Brazil"
         },
         "question2": {
             "predicted": "Qatar",
@@ -9682,11 +9682,11 @@
         }
     },
     "Janelle": {
-        "total_points": 0,
+        "total_points": 1,
         "question1": {
             "predicted": "Curacao",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Brazil"
         },
         "question2": {
             "predicted": "Germany",
@@ -9788,8 +9788,8 @@
         "total_points": 0,
         "question1": {
             "predicted": "Argentina",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Brazil"
         },
         "question2": {
             "predicted": "Ecuador",
@@ -9891,8 +9891,8 @@
         "total_points": 0,
         "question1": {
             "predicted": "Germany",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Brazil"
         },
         "question2": {
             "predicted": "Paraguay",
@@ -9991,11 +9991,11 @@
         }
     },
     "Jaxon": {
-        "total_points": 0,
+        "total_points": 1,
         "question1": {
             "predicted": "Switzerland",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Brazil"
         },
         "question2": {
             "predicted": "Senegal",
@@ -10097,8 +10097,8 @@
         "total_points": 0,
         "question1": {
             "predicted": "Australia",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Brazil"
         },
         "question2": {
             "predicted": "Morocco",
@@ -10200,8 +10200,8 @@
         "total_points": 0,
         "question1": {
             "predicted": "France",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Brazil"
         },
         "question2": {
             "predicted": "Uruguay",
@@ -10303,8 +10303,8 @@
         "total_points": 0,
         "question1": {
             "predicted": "South Korea",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Brazil"
         },
         "question2": {
             "predicted": "Qatar",
@@ -10406,8 +10406,8 @@
         "total_points": 0,
         "question1": {
             "predicted": "Haiti",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Brazil"
         },
         "question2": {
             "predicted": "Argelia",
@@ -10509,8 +10509,8 @@
         "total_points": 0,
         "question1": {
             "predicted": "France",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Brazil"
         },
         "question2": {
             "predicted": "Portugal",
@@ -10612,8 +10612,8 @@
         "total_points": 0,
         "question1": {
             "predicted": "Egypt",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Brazil"
         },
         "question2": {
             "predicted": "Morocco",
@@ -10715,8 +10715,8 @@
         "total_points": 0,
         "question1": {
             "predicted": "New Zealand",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Brazil"
         },
         "question2": {
             "predicted": "Saudi Arabia",
@@ -10818,8 +10818,8 @@
         "total_points": 0,
         "question1": {
             "predicted": "Norway",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Brazil"
         },
         "question2": {
             "predicted": "Sweden",
@@ -10921,8 +10921,8 @@
         "total_points": 0,
         "question1": {
             "predicted": "Saudi Arabia",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Brazil"
         },
         "question2": {
             "predicted": "USA",
@@ -11024,8 +11024,8 @@
         "total_points": 0,
         "question1": {
             "predicted": "Qatar",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Brazil"
         },
         "question2": {
             "predicted": "Czechia",
@@ -11127,8 +11127,8 @@
         "total_points": 0,
         "question1": {
             "predicted": "Argelia",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Brazil"
         },
         "question2": {
             "predicted": "Spain",
@@ -11230,8 +11230,8 @@
         "total_points": 0,
         "question1": {
             "predicted": "Croatia",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Brazil"
         },
         "question2": {
             "predicted": "France",
@@ -11333,8 +11333,8 @@
         "total_points": 0,
         "question1": {
             "predicted": "Sweden",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Brazil"
         },
         "question2": {
             "predicted": "Spain",
@@ -11436,8 +11436,8 @@
         "total_points": 0,
         "question1": {
             "predicted": "NO TEAM",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Brazil"
         },
         "question2": {
             "predicted": "Iran",
@@ -11539,8 +11539,8 @@
         "total_points": 0,
         "question1": {
             "predicted": "Portugal",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Brazil"
         },
         "question2": {
             "predicted": "Haiti",
@@ -11642,8 +11642,8 @@
         "total_points": 0,
         "question1": {
             "predicted": "Jordan",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Brazil"
         },
         "question2": {
             "predicted": "Argelia",
@@ -11745,8 +11745,8 @@
         "total_points": 0,
         "question1": {
             "predicted": "Japan",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Brazil"
         },
         "question2": {
             "predicted": "Belgium",
@@ -11848,8 +11848,8 @@
         "total_points": 0,
         "question1": {
             "predicted": "Switzerland",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Brazil"
         },
         "question2": {
             "predicted": "Czechia",
@@ -11951,8 +11951,8 @@
         "total_points": 0,
         "question1": {
             "predicted": "Scotland",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Brazil"
         },
         "question2": {
             "predicted": "Ecuador",
@@ -12051,11 +12051,11 @@
         }
     },
     "Joy": {
-        "total_points": 0,
+        "total_points": 1,
         "question1": {
             "predicted": "Brazil",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 1,
+            "actual": "Brazil"
         },
         "question2": {
             "predicted": "Czechia",
@@ -12157,8 +12157,8 @@
         "total_points": 0,
         "question1": {
             "predicted": "Germany",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Brazil"
         },
         "question2": {
             "predicted": "Saudi Arabia",
@@ -12257,11 +12257,11 @@
         }
     },
     "Julian": {
-        "total_points": 0,
+        "total_points": 1,
         "question1": {
             "predicted": "Morocco",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Brazil"
         },
         "question2": {
             "predicted": "Norway",
@@ -12363,8 +12363,8 @@
         "total_points": 0,
         "question1": {
             "predicted": "NO TEAM",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Brazil"
         },
         "question2": {
             "predicted": "Ivory Coast",
@@ -12466,8 +12466,8 @@
         "total_points": 0,
         "question1": {
             "predicted": "Senegal",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Brazil"
         },
         "question2": {
             "predicted": "Tunisia",
@@ -12569,8 +12569,8 @@
         "total_points": 0,
         "question1": {
             "predicted": "Bosnia",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Brazil"
         },
         "question2": {
             "predicted": "Paraguay",
@@ -12672,8 +12672,8 @@
         "total_points": 0,
         "question1": {
             "predicted": "South Africa",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Brazil"
         },
         "question2": {
             "predicted": "Uruguay",
@@ -12775,8 +12775,8 @@
         "total_points": 0,
         "question1": {
             "predicted": "Ivory Coast",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Brazil"
         },
         "question2": {
             "predicted": "Tunisia",
@@ -12878,8 +12878,8 @@
         "total_points": 0,
         "question1": {
             "predicted": "Tunisia",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Brazil"
         },
         "question2": {
             "predicted": "South Korea",
@@ -12981,8 +12981,8 @@
         "total_points": 0,
         "question1": {
             "predicted": "Sweden",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Brazil"
         },
         "question2": {
             "predicted": "Argentina",
@@ -13084,8 +13084,8 @@
         "total_points": 0,
         "question1": {
             "predicted": "Croatia",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Brazil"
         },
         "question2": {
             "predicted": "USA",
@@ -13187,8 +13187,8 @@
         "total_points": 0,
         "question1": {
             "predicted": "Ghana",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Brazil"
         },
         "question2": {
             "predicted": "Netherlands",
@@ -13290,8 +13290,8 @@
         "total_points": 0,
         "question1": {
             "predicted": "NO TEAM",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Brazil"
         },
         "question2": {
             "predicted": "Japan",
@@ -13393,8 +13393,8 @@
         "total_points": 0,
         "question1": {
             "predicted": "Ecuador",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Brazil"
         },
         "question2": {
             "predicted": "Argentina",
@@ -13496,8 +13496,8 @@
         "total_points": 0,
         "question1": {
             "predicted": "Switzerland",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Brazil"
         },
         "question2": {
             "predicted": "Argentina",
@@ -13599,8 +13599,8 @@
         "total_points": 0,
         "question1": {
             "predicted": "New Zealand",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Brazil"
         },
         "question2": {
             "predicted": "Canada",
@@ -13702,8 +13702,8 @@
         "total_points": 0,
         "question1": {
             "predicted": "Argelia",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Brazil"
         },
         "question2": {
             "predicted": "Scotland",
@@ -13805,8 +13805,8 @@
         "total_points": 0,
         "question1": {
             "predicted": "Curacao",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Brazil"
         },
         "question2": {
             "predicted": "Uruguay",
@@ -13908,8 +13908,8 @@
         "total_points": 0,
         "question1": {
             "predicted": "Curacao",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Brazil"
         },
         "question2": {
             "predicted": "Ivory Coast",
@@ -14011,8 +14011,8 @@
         "total_points": 0,
         "question1": {
             "predicted": "Panama",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Brazil"
         },
         "question2": {
             "predicted": "NO TEAM",
@@ -14114,8 +14114,8 @@
         "total_points": 0,
         "question1": {
             "predicted": "Iran",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Brazil"
         },
         "question2": {
             "predicted": "Ivory Coast",
@@ -14217,8 +14217,8 @@
         "total_points": 0,
         "question1": {
             "predicted": "Bosnia",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Brazil"
         },
         "question2": {
             "predicted": "England",
@@ -14320,8 +14320,8 @@
         "total_points": 0,
         "question1": {
             "predicted": "Uzbekistan",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Brazil"
         },
         "question2": {
             "predicted": "NO TEAM",
@@ -14423,8 +14423,8 @@
         "total_points": 0,
         "question1": {
             "predicted": "Canada",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Brazil"
         },
         "question2": {
             "predicted": "Qatar",
@@ -14526,8 +14526,8 @@
         "total_points": 0,
         "question1": {
             "predicted": "Iraq",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Brazil"
         },
         "question2": {
             "predicted": "Sweden",
@@ -14629,8 +14629,8 @@
         "total_points": 0,
         "question1": {
             "predicted": "Croatia",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Brazil"
         },
         "question2": {
             "predicted": "Japan",
@@ -14732,8 +14732,8 @@
         "total_points": 0,
         "question1": {
             "predicted": "Canada",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Brazil"
         },
         "question2": {
             "predicted": "Switzerland",
@@ -14835,8 +14835,8 @@
         "total_points": 0,
         "question1": {
             "predicted": "Scotland",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Brazil"
         },
         "question2": {
             "predicted": "Ecuador",
@@ -14938,8 +14938,8 @@
         "total_points": 0,
         "question1": {
             "predicted": "France",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Brazil"
         },
         "question2": {
             "predicted": "Congo",
@@ -15038,11 +15038,11 @@
         }
     },
     "Melissa": {
-        "total_points": 0,
+        "total_points": 1,
         "question1": {
             "predicted": "Norway",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Brazil"
         },
         "question2": {
             "predicted": "Saudi Arabia",
@@ -15144,8 +15144,8 @@
         "total_points": 0,
         "question1": {
             "predicted": "Uruguay",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Brazil"
         },
         "question2": {
             "predicted": "Iraq",
@@ -15247,8 +15247,8 @@
         "total_points": 0,
         "question1": {
             "predicted": "South Korea",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Brazil"
         },
         "question2": {
             "predicted": "Iraq",
@@ -15350,8 +15350,8 @@
         "total_points": 0,
         "question1": {
             "predicted": "Senegal",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Brazil"
         },
         "question2": {
             "predicted": "Curacao",
@@ -15453,8 +15453,8 @@
         "total_points": 0,
         "question1": {
             "predicted": "France",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Brazil"
         },
         "question2": {
             "predicted": "Senegal",
@@ -15556,8 +15556,8 @@
         "total_points": 0,
         "question1": {
             "predicted": "Spain",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Brazil"
         },
         "question2": {
             "predicted": "Mexico",
@@ -15659,8 +15659,8 @@
         "total_points": 0,
         "question1": {
             "predicted": "Qatar",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Brazil"
         },
         "question2": {
             "predicted": "Uzbekistan",
@@ -15762,8 +15762,8 @@
         "total_points": 0,
         "question1": {
             "predicted": "Canada",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Brazil"
         },
         "question2": {
             "predicted": "Curacao",
@@ -15865,8 +15865,8 @@
         "total_points": 0,
         "question1": {
             "predicted": "Norway",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Brazil"
         },
         "question2": {
             "predicted": "Germany",
@@ -15968,8 +15968,8 @@
         "total_points": 0,
         "question1": {
             "predicted": "Ghana",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Brazil"
         },
         "question2": {
             "predicted": "Belgium",
@@ -16071,8 +16071,8 @@
         "total_points": 0,
         "question1": {
             "predicted": "Mexico",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Brazil"
         },
         "question2": {
             "predicted": "NO TEAM",
@@ -16171,11 +16171,11 @@
         }
     },
     "Nas": {
-        "total_points": 0,
+        "total_points": 1,
         "question1": {
             "predicted": "Haiti",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Brazil"
         },
         "question2": {
             "predicted": "Norway",
@@ -16277,8 +16277,8 @@
         "total_points": 0,
         "question1": {
             "predicted": "France",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Brazil"
         },
         "question2": {
             "predicted": "Saudi Arabia",
@@ -16380,8 +16380,8 @@
         "total_points": 0,
         "question1": {
             "predicted": "Mexico",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Brazil"
         },
         "question2": {
             "predicted": "Canada",
@@ -16483,8 +16483,8 @@
         "total_points": 0,
         "question1": {
             "predicted": "Argelia",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Brazil"
         },
         "question2": {
             "predicted": "Ivory Coast",
@@ -16586,8 +16586,8 @@
         "total_points": 0,
         "question1": {
             "predicted": "France",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Brazil"
         },
         "question2": {
             "predicted": "Japan",
@@ -16689,8 +16689,8 @@
         "total_points": 0,
         "question1": {
             "predicted": "Saudi Arabia",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Brazil"
         },
         "question2": {
             "predicted": "Egypt",
@@ -16792,8 +16792,8 @@
         "total_points": 0,
         "question1": {
             "predicted": "Czechia",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Brazil"
         },
         "question2": {
             "predicted": "England",
@@ -16895,8 +16895,8 @@
         "total_points": 0,
         "question1": {
             "predicted": "Spain",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Brazil"
         },
         "question2": {
             "predicted": "NO TEAM",
@@ -16998,8 +16998,8 @@
         "total_points": 0,
         "question1": {
             "predicted": "Ivory Coast",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Brazil"
         },
         "question2": {
             "predicted": "France",
@@ -17101,8 +17101,8 @@
         "total_points": 0,
         "question1": {
             "predicted": "South Africa",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Brazil"
         },
         "question2": {
             "predicted": "Spain",
@@ -17204,8 +17204,8 @@
         "total_points": 0,
         "question1": {
             "predicted": "New Zealand",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Brazil"
         },
         "question2": {
             "predicted": "Saudi Arabia",
@@ -17307,8 +17307,8 @@
         "total_points": 0,
         "question1": {
             "predicted": "Curacao",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Brazil"
         },
         "question2": {
             "predicted": "Bosnia",
@@ -17407,11 +17407,11 @@
         }
     },
     "PaulA": {
-        "total_points": 0,
+        "total_points": 1,
         "question1": {
             "predicted": "Brazil",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 1,
+            "actual": "Brazil"
         },
         "question2": {
             "predicted": "Norway",
@@ -17513,8 +17513,8 @@
         "total_points": 0,
         "question1": {
             "predicted": "Netherlands",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Brazil"
         },
         "question2": {
             "predicted": "Spain",
@@ -17613,11 +17613,11 @@
         }
     },
     "Pouya": {
-        "total_points": 0,
+        "total_points": 1,
         "question1": {
             "predicted": "Egypt",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Brazil"
         },
         "question2": {
             "predicted": "Switzerland",
@@ -17719,8 +17719,8 @@
         "total_points": 0,
         "question1": {
             "predicted": "South Korea",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Brazil"
         },
         "question2": {
             "predicted": "Congo",
@@ -17822,8 +17822,8 @@
         "total_points": 0,
         "question1": {
             "predicted": "Mexico",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Brazil"
         },
         "question2": {
             "predicted": "Belgium",
@@ -17925,8 +17925,8 @@
         "total_points": 0,
         "question1": {
             "predicted": "Qatar",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Brazil"
         },
         "question2": {
             "predicted": "Czechia",
@@ -18028,8 +18028,8 @@
         "total_points": 0,
         "question1": {
             "predicted": "Netherlands",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Brazil"
         },
         "question2": {
             "predicted": "Qatar",
@@ -18128,11 +18128,11 @@
         }
     },
     "RichardMo": {
-        "total_points": 0,
+        "total_points": 1,
         "question1": {
             "predicted": "Morocco",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Brazil"
         },
         "question2": {
             "predicted": "Spain",
@@ -18234,8 +18234,8 @@
         "total_points": 0,
         "question1": {
             "predicted": "New Zealand",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Brazil"
         },
         "question2": {
             "predicted": "Saudi Arabia",
@@ -18337,8 +18337,8 @@
         "total_points": 0,
         "question1": {
             "predicted": "Japan",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Brazil"
         },
         "question2": {
             "predicted": "Senegal",
@@ -18440,8 +18440,8 @@
         "total_points": 0,
         "question1": {
             "predicted": "Congo",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Brazil"
         },
         "question2": {
             "predicted": "Sweden",
@@ -18543,8 +18543,8 @@
         "total_points": 0,
         "question1": {
             "predicted": "Portugal",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Brazil"
         },
         "question2": {
             "predicted": "Scotland",
@@ -18646,8 +18646,8 @@
         "total_points": 0,
         "question1": {
             "predicted": "France",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Brazil"
         },
         "question2": {
             "predicted": "Morocco",
@@ -18746,11 +18746,11 @@
         }
     },
     "RobTu": {
-        "total_points": 0,
+        "total_points": 2,
         "question1": {
             "predicted": "South Korea",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Brazil"
         },
         "question2": {
             "predicted": "Panama",
@@ -18852,8 +18852,8 @@
         "total_points": 0,
         "question1": {
             "predicted": "Cabo Verde",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Brazil"
         },
         "question2": {
             "predicted": "Bosnia",
@@ -18955,8 +18955,8 @@
         "total_points": 0,
         "question1": {
             "predicted": "Haiti",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Brazil"
         },
         "question2": {
             "predicted": "Senegal",
@@ -19058,8 +19058,8 @@
         "total_points": 0,
         "question1": {
             "predicted": "Spain",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Brazil"
         },
         "question2": {
             "predicted": "USA",
@@ -19161,8 +19161,8 @@
         "total_points": 0,
         "question1": {
             "predicted": "Cabo Verde",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Brazil"
         },
         "question2": {
             "predicted": "Netherlands",
@@ -19264,8 +19264,8 @@
         "total_points": 0,
         "question1": {
             "predicted": "Uruguay",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Brazil"
         },
         "question2": {
             "predicted": "Uzbekistan",
@@ -19367,8 +19367,8 @@
         "total_points": 0,
         "question1": {
             "predicted": "Colombia",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Brazil"
         },
         "question2": {
             "predicted": "Czechia",
@@ -19470,8 +19470,8 @@
         "total_points": 0,
         "question1": {
             "predicted": "Panama",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Brazil"
         },
         "question2": {
             "predicted": "Paraguay",
@@ -19573,8 +19573,8 @@
         "total_points": 0,
         "question1": {
             "predicted": "Iran",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Brazil"
         },
         "question2": {
             "predicted": "Senegal",
@@ -19676,8 +19676,8 @@
         "total_points": 0,
         "question1": {
             "predicted": "Iraq",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Brazil"
         },
         "question2": {
             "predicted": "USA",
@@ -19776,11 +19776,11 @@
         }
     },
     "Shawn2": {
-        "total_points": 0,
+        "total_points": 1,
         "question1": {
             "predicted": "Croatia",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Brazil"
         },
         "question2": {
             "predicted": "Canada",
@@ -19879,11 +19879,11 @@
         }
     },
     "Simon": {
-        "total_points": 0,
+        "total_points": 1,
         "question1": {
             "predicted": "Brazil",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 1,
+            "actual": "Brazil"
         },
         "question2": {
             "predicted": "Belgium",
@@ -19985,8 +19985,8 @@
         "total_points": 0,
         "question1": {
             "predicted": "Panama",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Brazil"
         },
         "question2": {
             "predicted": "Sweden",
@@ -20088,8 +20088,8 @@
         "total_points": 0,
         "question1": {
             "predicted": "Belgium",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Brazil"
         },
         "question2": {
             "predicted": "Ghana",
@@ -20191,8 +20191,8 @@
         "total_points": 0,
         "question1": {
             "predicted": "Curacao",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Brazil"
         },
         "question2": {
             "predicted": "Norway",
@@ -20294,8 +20294,8 @@
         "total_points": 0,
         "question1": {
             "predicted": "Uzbekistan",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Brazil"
         },
         "question2": {
             "predicted": "Portugal",
@@ -20397,8 +20397,8 @@
         "total_points": 0,
         "question1": {
             "predicted": "Qatar",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Brazil"
         },
         "question2": {
             "predicted": "Egypt",
@@ -20500,8 +20500,8 @@
         "total_points": 0,
         "question1": {
             "predicted": "Jordan",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Brazil"
         },
         "question2": {
             "predicted": "Germany",
@@ -20603,8 +20603,8 @@
         "total_points": 0,
         "question1": {
             "predicted": "Scotland",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Brazil"
         },
         "question2": {
             "predicted": "Sweden",
@@ -20706,8 +20706,8 @@
         "total_points": 0,
         "question1": {
             "predicted": "Ghana",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Brazil"
         },
         "question2": {
             "predicted": "Qatar",
@@ -20806,11 +20806,11 @@
         }
     },
     "TomI": {
-        "total_points": 0,
+        "total_points": 1,
         "question1": {
             "predicted": "Iran",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Brazil"
         },
         "question2": {
             "predicted": "Sweden",
@@ -20912,8 +20912,8 @@
         "total_points": 0,
         "question1": {
             "predicted": "Norway",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Brazil"
         },
         "question2": {
             "predicted": "Congo",
@@ -21015,8 +21015,8 @@
         "total_points": 0,
         "question1": {
             "predicted": "New Zealand",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Brazil"
         },
         "question2": {
             "predicted": "Ghana",
@@ -21118,8 +21118,8 @@
         "total_points": 0,
         "question1": {
             "predicted": "Curacao",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Brazil"
         },
         "question2": {
             "predicted": "Japan",
@@ -21221,8 +21221,8 @@
         "total_points": 0,
         "question1": {
             "predicted": "Turkey",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Brazil"
         },
         "question2": {
             "predicted": "Colombia",
@@ -21324,8 +21324,8 @@
         "total_points": 0,
         "question1": {
             "predicted": "Morocco",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Brazil"
         },
         "question2": {
             "predicted": "Egypt",
@@ -21427,8 +21427,8 @@
         "total_points": 0,
         "question1": {
             "predicted": "Japan",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Brazil"
         },
         "question2": {
             "predicted": "Norway",
@@ -21530,8 +21530,8 @@
         "total_points": 0,
         "question1": {
             "predicted": "Austria",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Brazil"
         },
         "question2": {
             "predicted": "Sweden",
@@ -21633,8 +21633,8 @@
         "total_points": 0,
         "question1": {
             "predicted": "Argelia",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Brazil"
         },
         "question2": {
             "predicted": "Tunisia",
@@ -21736,8 +21736,8 @@
         "total_points": 0,
         "question1": {
             "predicted": "Sweden",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Brazil"
         },
         "question2": {
             "predicted": "Ghana",
@@ -21836,11 +21836,11 @@
         }
     },
     "Vishal": {
-        "total_points": 0,
+        "total_points": 1,
         "question1": {
             "predicted": "Argelia",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Brazil"
         },
         "question2": {
             "predicted": "Jordan",
@@ -21942,8 +21942,8 @@
         "total_points": 0,
         "question1": {
             "predicted": "Portugal",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Brazil"
         },
         "question2": {
             "predicted": "Austria",
@@ -22045,8 +22045,8 @@
         "total_points": 0,
         "question1": {
             "predicted": "Bosnia",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Brazil"
         },
         "question2": {
             "predicted": "Austria",
@@ -22148,8 +22148,8 @@
         "total_points": 0,
         "question1": {
             "predicted": "Bosnia",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Brazil"
         },
         "question2": {
             "predicted": "Uzbekistan",
@@ -22251,8 +22251,8 @@
         "total_points": 0,
         "question1": {
             "predicted": "Egypt",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Brazil"
         },
         "question2": {
             "predicted": "Austria",
