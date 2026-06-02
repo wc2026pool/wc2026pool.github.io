@@ -300,8 +300,7 @@
 
             // Build and render underlying rows
             items.forEach((row, index) => {
-                const isTopFive = index < 5;
-                const mainRowClass = isTopFive ? 'bg-top-five' : 'bg-standard';
+                const mainRowClass = 'bg-standard';
                 
                 const getColorStyle = (hexColor) => hexColor ? `style="color: ${hexColor} !important;"` : '';
                 const renderLink = (val, url, hexColor) => {

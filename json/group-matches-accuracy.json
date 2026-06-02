@@ -3,1084 +3,1084 @@
         "title": "# of Group Stage matches where the outcome was correctly predicted",
         "rows": [
             {
-                "col1": "Jonathan",
-                "col2": "37 of 71",
-                "col3": "(52.1%)"
-            },
-            {
-                "col1": "Coco",
-                "col2": "33 of 71",
-                "col3": "(46.5%)"
-            },
-            {
-                "col1": "Andres",
-                "col2": "32 of 71",
-                "col3": "(45.1%)"
-            },
-            {
-                "col1": "Jerry",
-                "col2": "32 of 71",
-                "col3": "(45.1%)"
-            },
-            {
-                "col1": "Lena",
-                "col2": "32 of 71",
-                "col3": "(45.1%)"
-            },
-            {
-                "col1": "AnthonyA",
-                "col2": "31 of 71",
-                "col3": "(43.7%)"
-            },
-            {
-                "col1": "Bert",
-                "col2": "31 of 71",
-                "col3": "(43.7%)"
-            },
-            {
-                "col1": "Carmen",
-                "col2": "31 of 71",
-                "col3": "(43.7%)"
-            },
-            {
-                "col1": "Franco",
-                "col2": "31 of 71",
-                "col3": "(43.7%)"
-            },
-            {
-                "col1": "FrankI",
-                "col2": "31 of 71",
-                "col3": "(43.7%)"
-            },
-            {
-                "col1": "Moncef",
-                "col2": "31 of 71",
-                "col3": "(43.7%)"
-            },
-            {
-                "col1": "Vishal",
-                "col2": "31 of 71",
-                "col3": "(43.7%)"
-            },
-            {
-                "col1": "Augie",
-                "col2": "30 of 71",
-                "col3": "(42.3%)"
-            },
-            {
-                "col1": "Cameron",
-                "col2": "30 of 71",
-                "col3": "(42.3%)"
-            },
-            {
-                "col1": "Ida",
-                "col2": "30 of 71",
-                "col3": "(42.3%)"
-            },
-            {
-                "col1": "Jess",
-                "col2": "30 of 71",
-                "col3": "(42.3%)"
-            },
-            {
-                "col1": "LiamA",
-                "col2": "30 of 71",
-                "col3": "(42.3%)"
-            },
-            {
-                "col1": "Magno",
-                "col2": "30 of 71",
-                "col3": "(42.3%)"
-            },
-            {
-                "col1": "Adam",
-                "col2": "29 of 71",
-                "col3": "(40.8%)"
-            },
-            {
-                "col1": "Alex",
-                "col2": "29 of 71",
-                "col3": "(40.8%)"
-            },
-            {
-                "col1": "Darryll",
-                "col2": "29 of 71",
-                "col3": "(40.8%)"
-            },
-            {
-                "col1": "Hugo",
-                "col2": "29 of 71",
-                "col3": "(40.8%)"
-            },
-            {
-                "col1": "Igor",
-                "col2": "29 of 71",
-                "col3": "(40.8%)"
-            },
-            {
-                "col1": "JoseP",
-                "col2": "29 of 71",
-                "col3": "(40.8%)"
-            },
-            {
-                "col1": "MarcioD",
-                "col2": "29 of 71",
-                "col3": "(40.8%)"
-            },
-            {
-                "col1": "MarcioS",
-                "col2": "29 of 71",
-                "col3": "(40.8%)"
-            },
-            {
-                "col1": "Sean",
-                "col2": "29 of 71",
-                "col3": "(40.8%)"
-            },
-            {
-                "col1": "Elaine",
-                "col2": "28 of 71",
-                "col3": "(39.4%)"
-            },
-            {
-                "col1": "Frankie",
-                "col2": "28 of 71",
-                "col3": "(39.4%)"
-            },
-            {
-                "col1": "Gary",
-                "col2": "28 of 71",
-                "col3": "(39.4%)"
-            },
-            {
-                "col1": "Ian",
-                "col2": "28 of 71",
-                "col3": "(39.4%)"
-            },
-            {
-                "col1": "JoeD",
-                "col2": "28 of 71",
-                "col3": "(39.4%)"
-            },
-            {
-                "col1": "JoeP",
-                "col2": "28 of 71",
-                "col3": "(39.4%)"
-            },
-            {
-                "col1": "Joy",
-                "col2": "28 of 71",
-                "col3": "(39.4%)"
-            },
-            {
-                "col1": "Max",
-                "col2": "28 of 71",
-                "col3": "(39.4%)"
-            },
-            {
-                "col1": "Nuno2",
-                "col2": "28 of 71",
-                "col3": "(39.4%)"
-            },
-            {
-                "col1": "Roy",
-                "col2": "28 of 71",
-                "col3": "(39.4%)"
-            },
-            {
-                "col1": "Shawn1",
-                "col2": "28 of 71",
-                "col3": "(39.4%)"
-            },
-            {
-                "col1": "StevenT",
-                "col2": "28 of 71",
-                "col3": "(39.4%)"
-            },
-            {
-                "col1": "TonyS",
-                "col2": "28 of 71",
-                "col3": "(39.4%)"
-            },
-            {
-                "col1": "AI",
-                "col2": "27 of 71",
-                "col3": "(38%)"
-            },
-            {
-                "col1": "ChrisN",
-                "col2": "27 of 71",
-                "col3": "(38%)"
-            },
-            {
-                "col1": "JohnO",
-                "col2": "27 of 71",
-                "col3": "(38%)"
-            },
-            {
-                "col1": "KevinJ",
-                "col2": "27 of 71",
-                "col3": "(38%)"
-            },
-            {
-                "col1": "MichaelM",
-                "col2": "27 of 71",
-                "col3": "(38%)"
-            },
-            {
-                "col1": "Michiel",
-                "col2": "27 of 71",
-                "col3": "(38%)"
-            },
-            {
-                "col1": "TomP",
-                "col2": "27 of 71",
-                "col3": "(38%)"
-            },
-            {
-                "col1": "TonyMa",
-                "col2": "27 of 71",
-                "col3": "(38%)"
-            },
-            {
-                "col1": "Trevor",
-                "col2": "27 of 71",
-                "col3": "(38%)"
-            },
-            {
-                "col1": "Victor",
-                "col2": "27 of 71",
-                "col3": "(38%)"
-            },
-            {
-                "col1": "Arturo",
-                "col2": "26 of 71",
-                "col3": "(36.6%)"
-            },
-            {
-                "col1": "Ash",
-                "col2": "26 of 71",
-                "col3": "(36.6%)"
-            },
-            {
-                "col1": "BrianS",
-                "col2": "26 of 71",
-                "col3": "(36.6%)"
-            },
-            {
-                "col1": "CarlosG",
-                "col2": "26 of 71",
-                "col3": "(36.6%)"
-            },
-            {
-                "col1": "Caroline",
-                "col2": "26 of 71",
-                "col3": "(36.6%)"
-            },
-            {
-                "col1": "DanielM",
-                "col2": "26 of 71",
-                "col3": "(36.6%)"
-            },
-            {
-                "col1": "DanielR",
-                "col2": "26 of 71",
-                "col3": "(36.6%)"
-            },
-            {
-                "col1": "EdwardD",
-                "col2": "26 of 71",
-                "col3": "(36.6%)"
-            },
-            {
-                "col1": "EdwardT",
-                "col2": "26 of 71",
-                "col3": "(36.6%)"
-            },
-            {
-                "col1": "Ethan",
-                "col2": "26 of 71",
-                "col3": "(36.6%)"
-            },
-            {
-                "col1": "JeffS",
-                "col2": "26 of 71",
-                "col3": "(36.6%)"
-            },
-            {
-                "col1": "Joanna",
-                "col2": "26 of 71",
-                "col3": "(36.6%)"
-            },
-            {
-                "col1": "Kristian",
-                "col2": "26 of 71",
-                "col3": "(36.6%)"
-            },
-            {
-                "col1": "MichaelPi",
-                "col2": "26 of 71",
-                "col3": "(36.6%)"
-            },
-            {
-                "col1": "Michele",
-                "col2": "26 of 71",
-                "col3": "(36.6%)"
-            },
-            {
-                "col1": "Pardeep",
-                "col2": "26 of 71",
-                "col3": "(36.6%)"
-            },
-            {
-                "col1": "Rousse",
-                "col2": "26 of 71",
-                "col3": "(36.6%)"
-            },
-            {
-                "col1": "Simrun",
-                "col2": "26 of 71",
-                "col3": "(36.6%)"
-            },
-            {
-                "col1": "Stanley",
-                "col2": "26 of 71",
-                "col3": "(36.6%)"
-            },
-            {
-                "col1": "DarrylMFC",
-                "col2": "25 of 71",
-                "col3": "(35.2%)"
-            },
-            {
-                "col1": "Diane",
-                "col2": "25 of 71",
-                "col3": "(35.2%)"
-            },
-            {
-                "col1": "GavinW",
-                "col2": "25 of 71",
-                "col3": "(35.2%)"
-            },
-            {
-                "col1": "HelderA",
-                "col2": "25 of 71",
-                "col3": "(35.2%)"
-            },
-            {
-                "col1": "Joao",
-                "col2": "25 of 71",
-                "col3": "(35.2%)"
-            },
-            {
-                "col1": "Kayden",
-                "col2": "25 of 71",
-                "col3": "(35.2%)"
-            },
-            {
-                "col1": "Luka",
-                "col2": "25 of 71",
-                "col3": "(35.2%)"
-            },
-            {
-                "col1": "Major",
-                "col2": "25 of 71",
-                "col3": "(35.2%)"
-            },
-            {
-                "col1": "Melissa",
-                "col2": "25 of 71",
-                "col3": "(35.2%)"
-            },
-            {
-                "col1": "MikeD",
-                "col2": "25 of 71",
-                "col3": "(35.2%)"
-            },
-            {
-                "col1": "Mitchell",
-                "col2": "25 of 71",
-                "col3": "(35.2%)"
-            },
-            {
-                "col1": "Mugwe",
-                "col2": "25 of 71",
-                "col3": "(35.2%)"
-            },
-            {
-                "col1": "Neha",
-                "col2": "25 of 71",
-                "col3": "(35.2%)"
-            },
-            {
-                "col1": "Simon",
-                "col2": "25 of 71",
-                "col3": "(35.2%)"
-            },
-            {
-                "col1": "Stallone",
-                "col2": "25 of 71",
-                "col3": "(35.2%)"
-            },
-            {
-                "col1": "Tanya",
-                "col2": "25 of 71",
-                "col3": "(35.2%)"
-            },
-            {
-                "col1": "TonyH",
-                "col2": "25 of 71",
-                "col3": "(35.2%)"
-            },
-            {
-                "col1": "Yogi",
-                "col2": "25 of 71",
-                "col3": "(35.2%)"
-            },
-            {
-                "col1": "Albeiro",
-                "col2": "24 of 71",
-                "col3": "(33.8%)"
-            },
-            {
-                "col1": "Atish",
-                "col2": "24 of 71",
-                "col3": "(33.8%)"
-            },
-            {
-                "col1": "Brendan",
-                "col2": "24 of 71",
-                "col3": "(33.8%)"
-            },
-            {
-                "col1": "ChrisK",
-                "col2": "24 of 71",
-                "col3": "(33.8%)"
-            },
-            {
-                "col1": "CMD88",
-                "col2": "24 of 71",
-                "col3": "(33.8%)"
-            },
-            {
-                "col1": "Deylin",
-                "col2": "24 of 71",
-                "col3": "(33.8%)"
-            },
-            {
-                "col1": "Dora",
-                "col2": "24 of 71",
-                "col3": "(33.8%)"
-            },
-            {
-                "col1": "Edsel",
-                "col2": "24 of 71",
-                "col3": "(33.8%)"
-            },
-            {
-                "col1": "Fernanda",
-                "col2": "24 of 71",
-                "col3": "(33.8%)"
-            },
-            {
-                "col1": "FrankC",
-                "col2": "24 of 71",
-                "col3": "(33.8%)"
-            },
-            {
-                "col1": "FrankD",
-                "col2": "24 of 71",
-                "col3": "(33.8%)"
-            },
-            {
-                "col1": "Gabriela",
-                "col2": "24 of 71",
-                "col3": "(33.8%)"
-            },
-            {
-                "col1": "Grosso",
-                "col2": "24 of 71",
-                "col3": "(33.8%)"
-            },
-            {
-                "col1": "JamesP",
-                "col2": "24 of 71",
-                "col3": "(33.8%)"
-            },
-            {
-                "col1": "JasonF",
-                "col2": "24 of 71",
-                "col3": "(33.8%)"
-            },
-            {
-                "col1": "Juan",
-                "col2": "24 of 71",
-                "col3": "(33.8%)"
-            },
-            {
-                "col1": "Julian",
-                "col2": "24 of 71",
-                "col3": "(33.8%)"
-            },
-            {
-                "col1": "JustinL",
-                "col2": "24 of 71",
-                "col3": "(33.8%)"
-            },
-            {
-                "col1": "KyleW",
-                "col2": "24 of 71",
-                "col3": "(33.8%)"
-            },
-            {
-                "col1": "RichardMa",
-                "col2": "24 of 71",
-                "col3": "(33.8%)"
-            },
-            {
-                "col1": "RobW",
-                "col2": "24 of 71",
-                "col3": "(33.8%)"
-            },
-            {
-                "col1": "Vito",
-                "col2": "24 of 71",
-                "col3": "(33.8%)"
-            },
-            {
-                "col1": "Aaron",
-                "col2": "23 of 71",
-                "col3": "(32.4%)"
-            },
-            {
-                "col1": "Alice",
-                "col2": "23 of 71",
-                "col3": "(32.4%)"
-            },
-            {
-                "col1": "CarlosSal",
-                "col2": "23 of 71",
-                "col3": "(32.4%)"
-            },
-            {
-                "col1": "Corey",
-                "col2": "23 of 71",
-                "col3": "(32.4%)"
-            },
-            {
-                "col1": "Dino",
-                "col2": "23 of 71",
-                "col3": "(32.4%)"
-            },
-            {
-                "col1": "Elizabeth",
-                "col2": "23 of 71",
-                "col3": "(32.4%)"
-            },
-            {
-                "col1": "Fernando",
-                "col2": "23 of 71",
-                "col3": "(32.4%)"
-            },
-            {
-                "col1": "Janelle",
-                "col2": "23 of 71",
-                "col3": "(32.4%)"
-            },
-            {
-                "col1": "Jaxon",
-                "col2": "23 of 71",
-                "col3": "(32.4%)"
-            },
-            {
-                "col1": "JeanMichel",
-                "col2": "23 of 71",
-                "col3": "(32.4%)"
-            },
-            {
-                "col1": "JohnC",
-                "col2": "23 of 71",
-                "col3": "(32.4%)"
-            },
-            {
-                "col1": "LiamM",
-                "col2": "23 of 71",
-                "col3": "(32.4%)"
-            },
-            {
-                "col1": "Paolo",
-                "col2": "23 of 71",
-                "col3": "(32.4%)"
-            },
-            {
-                "col1": "Ricardo2",
-                "col2": "23 of 71",
-                "col3": "(32.4%)"
-            },
-            {
-                "col1": "RichardMo",
-                "col2": "23 of 71",
-                "col3": "(32.4%)"
-            },
-            {
-                "col1": "RickT",
-                "col2": "23 of 71",
-                "col3": "(32.4%)"
-            },
-            {
-                "col1": "Rita",
-                "col2": "23 of 71",
-                "col3": "(32.4%)"
-            },
-            {
-                "col1": "RobertS",
-                "col2": "23 of 71",
-                "col3": "(32.4%)"
-            },
-            {
-                "col1": "RobTu",
-                "col2": "23 of 71",
-                "col3": "(32.4%)"
-            },
-            {
-                "col1": "Rodrigo",
-                "col2": "23 of 71",
-                "col3": "(32.4%)"
-            },
-            {
-                "col1": "Sam",
-                "col2": "23 of 71",
-                "col3": "(32.4%)"
-            },
-            {
-                "col1": "Shawn2",
-                "col2": "23 of 71",
-                "col3": "(32.4%)"
-            },
-            {
-                "col1": "TonyV",
-                "col2": "23 of 71",
-                "col3": "(32.4%)"
-            },
-            {
-                "col1": "Tristan",
-                "col2": "23 of 71",
-                "col3": "(32.4%)"
-            },
-            {
-                "col1": "Wilson",
-                "col2": "23 of 71",
-                "col3": "(32.4%)"
-            },
-            {
-                "col1": "Aban",
-                "col2": "22 of 71",
-                "col3": "(31%)"
-            },
-            {
-                "col1": "Ali",
-                "col2": "22 of 71",
-                "col3": "(31%)"
-            },
-            {
-                "col1": "Angel",
-                "col2": "22 of 71",
-                "col3": "(31%)"
-            },
-            {
-                "col1": "CarlosD",
-                "col2": "22 of 71",
-                "col3": "(31%)"
-            },
-            {
-                "col1": "DannyL",
-                "col2": "22 of 71",
-                "col3": "(31%)"
-            },
-            {
-                "col1": "DavidD",
-                "col2": "22 of 71",
-                "col3": "(31%)"
-            },
-            {
-                "col1": "EricK",
-                "col2": "22 of 71",
-                "col3": "(31%)"
-            },
-            {
-                "col1": "Flavio",
-                "col2": "22 of 71",
-                "col3": "(31%)"
-            },
-            {
-                "col1": "Greg",
-                "col2": "22 of 71",
-                "col3": "(31%)"
-            },
-            {
-                "col1": "GustavoH",
-                "col2": "22 of 71",
-                "col3": "(31%)"
-            },
-            {
-                "col1": "HelderB",
-                "col2": "22 of 71",
-                "col3": "(31%)"
-            },
-            {
-                "col1": "Hernani",
-                "col2": "22 of 71",
-                "col3": "(31%)"
-            },
-            {
-                "col1": "KevinS",
-                "col2": "22 of 71",
-                "col3": "(31%)"
-            },
-            {
-                "col1": "Manley",
-                "col2": "22 of 71",
-                "col3": "(31%)"
-            },
-            {
-                "col1": "MarcoR",
-                "col2": "22 of 71",
-                "col3": "(31%)"
-            },
-            {
-                "col1": "RobSi",
-                "col2": "22 of 71",
-                "col3": "(31%)"
-            },
-            {
-                "col1": "Sabrina",
-                "col2": "22 of 71",
-                "col3": "(31%)"
-            },
-            {
-                "col1": "Salim",
-                "col2": "22 of 71",
-                "col3": "(31%)"
-            },
-            {
-                "col1": "Anicio",
-                "col2": "21 of 71",
-                "col3": "(29.6%)"
-            },
-            {
                 "col1": "Chrissy",
-                "col2": "21 of 71",
-                "col3": "(29.6%)"
-            },
-            {
-                "col1": "Damian",
-                "col2": "21 of 71",
-                "col3": "(29.6%)"
-            },
-            {
-                "col1": "DarylF",
-                "col2": "21 of 71",
-                "col3": "(29.6%)"
-            },
-            {
-                "col1": "GustavoL",
-                "col2": "21 of 71",
-                "col3": "(29.6%)"
-            },
-            {
-                "col1": "JeffB",
-                "col2": "21 of 71",
-                "col3": "(29.6%)"
-            },
-            {
-                "col1": "Jennifer",
-                "col2": "21 of 71",
-                "col3": "(29.6%)"
-            },
-            {
-                "col1": "Jessica",
-                "col2": "21 of 71",
-                "col3": "(29.6%)"
-            },
-            {
-                "col1": "JorgeT",
-                "col2": "21 of 71",
-                "col3": "(29.6%)"
-            },
-            {
-                "col1": "Marta",
-                "col2": "21 of 71",
-                "col3": "(29.6%)"
-            },
-            {
-                "col1": "MatthewG",
-                "col2": "21 of 71",
-                "col3": "(29.6%)"
-            },
-            {
-                "col1": "MatthewSa",
-                "col2": "21 of 71",
-                "col3": "(29.6%)"
+                "col2": "35 of 72",
+                "col3": "(48.6%)"
             },
             {
                 "col1": "MatthewSm",
-                "col2": "21 of 71",
-                "col3": "(29.6%)"
-            },
-            {
-                "col1": "Mauricio",
-                "col2": "21 of 71",
-                "col3": "(29.6%)"
-            },
-            {
-                "col1": "Nicole",
-                "col2": "21 of 71",
-                "col3": "(29.6%)"
-            },
-            {
-                "col1": "Nolan",
-                "col2": "21 of 71",
-                "col3": "(29.6%)"
-            },
-            {
-                "col1": "RD2026",
-                "col2": "21 of 71",
-                "col3": "(29.6%)"
-            },
-            {
-                "col1": "RobertP",
-                "col2": "21 of 71",
-                "col3": "(29.6%)"
-            },
-            {
-                "col1": "TonyMi",
-                "col2": "21 of 71",
-                "col3": "(29.6%)"
-            },
-            {
-                "col1": "Ana",
-                "col2": "20 of 71",
-                "col3": "(28.2%)"
-            },
-            {
-                "col1": "Bindu",
-                "col2": "20 of 71",
-                "col3": "(28.2%)"
-            },
-            {
-                "col1": "Brandon",
-                "col2": "20 of 71",
-                "col3": "(28.2%)"
-            },
-            {
-                "col1": "Chi",
-                "col2": "20 of 71",
-                "col3": "(28.2%)"
-            },
-            {
-                "col1": "ChristianL",
-                "col2": "20 of 71",
-                "col3": "(28.2%)"
-            },
-            {
-                "col1": "DannyRa",
-                "col2": "20 of 71",
-                "col3": "(28.2%)"
-            },
-            {
-                "col1": "Fawzi",
-                "col2": "20 of 71",
-                "col3": "(28.2%)"
-            },
-            {
-                "col1": "GavinH",
-                "col2": "20 of 71",
-                "col3": "(28.2%)"
-            },
-            {
-                "col1": "Gus",
-                "col2": "20 of 71",
-                "col3": "(28.2%)"
-            },
-            {
-                "col1": "Gwen",
-                "col2": "20 of 71",
-                "col3": "(28.2%)"
-            },
-            {
-                "col1": "JeffT",
-                "col2": "20 of 71",
-                "col3": "(28.2%)"
-            },
-            {
-                "col1": "JohnR",
-                "col2": "20 of 71",
-                "col3": "(28.2%)"
-            },
-            {
-                "col1": "MannyT",
-                "col2": "20 of 71",
-                "col3": "(28.2%)"
-            },
-            {
-                "col1": "Pascal",
-                "col2": "20 of 71",
-                "col3": "(28.2%)"
-            },
-            {
-                "col1": "PaulC",
-                "col2": "20 of 71",
-                "col3": "(28.2%)"
-            },
-            {
-                "col1": "StevenD",
-                "col2": "20 of 71",
-                "col3": "(28.2%)"
-            },
-            {
-                "col1": "William",
-                "col2": "20 of 71",
-                "col3": "(28.2%)"
-            },
-            {
-                "col1": "Alnashir",
-                "col2": "19 of 71",
-                "col3": "(26.8%)"
-            },
-            {
-                "col1": "Darren",
-                "col2": "19 of 71",
-                "col3": "(26.8%)"
-            },
-            {
-                "col1": "Duarte",
-                "col2": "19 of 71",
-                "col3": "(26.8%)"
-            },
-            {
-                "col1": "Jackson",
-                "col2": "19 of 71",
-                "col3": "(26.8%)"
-            },
-            {
-                "col1": "Jalen",
-                "col2": "19 of 71",
-                "col3": "(26.8%)"
-            },
-            {
-                "col1": "JamesC",
-                "col2": "19 of 71",
-                "col3": "(26.8%)"
-            },
-            {
-                "col1": "JorgeC",
-                "col2": "19 of 71",
-                "col3": "(26.8%)"
-            },
-            {
-                "col1": "Lindsey",
-                "col2": "19 of 71",
-                "col3": "(26.8%)"
-            },
-            {
-                "col1": "Maria",
-                "col2": "19 of 71",
-                "col3": "(26.8%)"
-            },
-            {
-                "col1": "MichaelL",
-                "col2": "19 of 71",
-                "col3": "(26.8%)"
-            },
-            {
-                "col1": "MichaelPa",
-                "col2": "19 of 71",
-                "col3": "(26.8%)"
-            },
-            {
-                "col1": "PaulA",
-                "col2": "19 of 71",
-                "col3": "(26.8%)"
-            },
-            {
-                "col1": "Ricardo1",
-                "col2": "19 of 71",
-                "col3": "(26.8%)"
-            },
-            {
-                "col1": "Heather",
-                "col2": "18 of 71",
-                "col3": "(25.4%)"
-            },
-            {
-                "col1": "Nas",
-                "col2": "18 of 71",
-                "col3": "(25.4%)"
-            },
-            {
-                "col1": "Niousha",
-                "col2": "18 of 71",
-                "col3": "(25.4%)"
-            },
-            {
-                "col1": "Nuno1",
-                "col2": "18 of 71",
-                "col3": "(25.4%)"
-            },
-            {
-                "col1": "ChrisP",
-                "col2": "17 of 71",
-                "col3": "(23.9%)"
-            },
-            {
-                "col1": "Dashiel",
-                "col2": "17 of 71",
-                "col3": "(23.9%)"
-            },
-            {
-                "col1": "Ed",
-                "col2": "17 of 71",
-                "col3": "(23.9%)"
-            },
-            {
-                "col1": "Kumar",
-                "col2": "17 of 71",
-                "col3": "(23.9%)"
-            },
-            {
-                "col1": "NickM",
-                "col2": "17 of 71",
-                "col3": "(23.9%)"
-            },
-            {
-                "col1": "Pouya",
-                "col2": "17 of 71",
-                "col3": "(23.9%)"
-            },
-            {
-                "col1": "TomI",
-                "col2": "17 of 71",
-                "col3": "(23.9%)"
-            },
-            {
-                "col1": "JasonB",
-                "col2": "15 of 71",
-                "col3": "(21.1%)"
-            },
-            {
-                "col1": "Tomas",
-                "col2": "15 of 71",
-                "col3": "(21.1%)"
-            },
-            {
-                "col1": "Pam",
-                "col2": "14 of 71",
-                "col3": "(19.7%)"
+                "col2": "35 of 72",
+                "col3": "(48.6%)"
             },
             {
                 "col1": "Stirling",
-                "col2": "13 of 71",
-                "col3": "(18.3%)"
+                "col2": "35 of 72",
+                "col3": "(48.6%)"
+            },
+            {
+                "col1": "Manley",
+                "col2": "34 of 72",
+                "col3": "(47.2%)"
+            },
+            {
+                "col1": "Fawzi",
+                "col2": "33 of 72",
+                "col3": "(45.8%)"
+            },
+            {
+                "col1": "FrankD",
+                "col2": "33 of 72",
+                "col3": "(45.8%)"
+            },
+            {
+                "col1": "Michiel",
+                "col2": "33 of 72",
+                "col3": "(45.8%)"
+            },
+            {
+                "col1": "Pouya",
+                "col2": "33 of 72",
+                "col3": "(45.8%)"
+            },
+            {
+                "col1": "Hernani",
+                "col2": "32 of 72",
+                "col3": "(44.4%)"
+            },
+            {
+                "col1": "RobertP",
+                "col2": "32 of 72",
+                "col3": "(44.4%)"
+            },
+            {
+                "col1": "RobW",
+                "col2": "32 of 72",
+                "col3": "(44.4%)"
+            },
+            {
+                "col1": "Atish",
+                "col2": "31 of 72",
+                "col3": "(43.1%)"
+            },
+            {
+                "col1": "ChrisN",
+                "col2": "31 of 72",
+                "col3": "(43.1%)"
+            },
+            {
+                "col1": "Jaxon",
+                "col2": "31 of 72",
+                "col3": "(43.1%)"
+            },
+            {
+                "col1": "LiamM",
+                "col2": "31 of 72",
+                "col3": "(43.1%)"
+            },
+            {
+                "col1": "Shawn2",
+                "col2": "31 of 72",
+                "col3": "(43.1%)"
+            },
+            {
+                "col1": "Tanya",
+                "col2": "31 of 72",
+                "col3": "(43.1%)"
+            },
+            {
+                "col1": "Ethan",
+                "col2": "30 of 72",
+                "col3": "(41.7%)"
+            },
+            {
+                "col1": "Gwen",
+                "col2": "30 of 72",
+                "col3": "(41.7%)"
+            },
+            {
+                "col1": "EdwardD",
+                "col2": "29 of 72",
+                "col3": "(40.3%)"
+            },
+            {
+                "col1": "GavinH",
+                "col2": "29 of 72",
+                "col3": "(40.3%)"
+            },
+            {
+                "col1": "JeanMichel",
+                "col2": "29 of 72",
+                "col3": "(40.3%)"
+            },
+            {
+                "col1": "Jonathan",
+                "col2": "29 of 72",
+                "col3": "(40.3%)"
+            },
+            {
+                "col1": "Mugwe",
+                "col2": "29 of 72",
+                "col3": "(40.3%)"
+            },
+            {
+                "col1": "PaulC",
+                "col2": "29 of 72",
+                "col3": "(40.3%)"
+            },
+            {
+                "col1": "RobertS",
+                "col2": "29 of 72",
+                "col3": "(40.3%)"
+            },
+            {
+                "col1": "TonyS",
+                "col2": "29 of 72",
+                "col3": "(40.3%)"
+            },
+            {
+                "col1": "Albeiro",
+                "col2": "28 of 72",
+                "col3": "(38.9%)"
+            },
+            {
+                "col1": "Ash",
+                "col2": "28 of 72",
+                "col3": "(38.9%)"
+            },
+            {
+                "col1": "BrianS",
+                "col2": "28 of 72",
+                "col3": "(38.9%)"
+            },
+            {
+                "col1": "ChrisP",
+                "col2": "28 of 72",
+                "col3": "(38.9%)"
+            },
+            {
+                "col1": "Damian",
+                "col2": "28 of 72",
+                "col3": "(38.9%)"
+            },
+            {
+                "col1": "Darren",
+                "col2": "28 of 72",
+                "col3": "(38.9%)"
+            },
+            {
+                "col1": "Grosso",
+                "col2": "28 of 72",
+                "col3": "(38.9%)"
+            },
+            {
+                "col1": "GustavoH",
+                "col2": "28 of 72",
+                "col3": "(38.9%)"
+            },
+            {
+                "col1": "JamesC",
+                "col2": "28 of 72",
+                "col3": "(38.9%)"
+            },
+            {
+                "col1": "JohnR",
+                "col2": "28 of 72",
+                "col3": "(38.9%)"
+            },
+            {
+                "col1": "JustinL",
+                "col2": "28 of 72",
+                "col3": "(38.9%)"
+            },
+            {
+                "col1": "Kayden",
+                "col2": "28 of 72",
+                "col3": "(38.9%)"
+            },
+            {
+                "col1": "Magno",
+                "col2": "28 of 72",
+                "col3": "(38.9%)"
+            },
+            {
+                "col1": "Maria",
+                "col2": "28 of 72",
+                "col3": "(38.9%)"
+            },
+            {
+                "col1": "MichaelM",
+                "col2": "28 of 72",
+                "col3": "(38.9%)"
+            },
+            {
+                "col1": "PaulA",
+                "col2": "28 of 72",
+                "col3": "(38.9%)"
+            },
+            {
+                "col1": "Sam",
+                "col2": "28 of 72",
+                "col3": "(38.9%)"
+            },
+            {
+                "col1": "Aban",
+                "col2": "27 of 72",
+                "col3": "(37.5%)"
+            },
+            {
+                "col1": "Angel",
+                "col2": "27 of 72",
+                "col3": "(37.5%)"
+            },
+            {
+                "col1": "Anicio",
+                "col2": "27 of 72",
+                "col3": "(37.5%)"
+            },
+            {
+                "col1": "ChristianL",
+                "col2": "27 of 72",
+                "col3": "(37.5%)"
+            },
+            {
+                "col1": "Corey",
+                "col2": "27 of 72",
+                "col3": "(37.5%)"
+            },
+            {
+                "col1": "Dashiel",
+                "col2": "27 of 72",
+                "col3": "(37.5%)"
+            },
+            {
+                "col1": "Deylin",
+                "col2": "27 of 72",
+                "col3": "(37.5%)"
+            },
+            {
+                "col1": "Diane",
+                "col2": "27 of 72",
+                "col3": "(37.5%)"
+            },
+            {
+                "col1": "FrankI",
+                "col2": "27 of 72",
+                "col3": "(37.5%)"
+            },
+            {
+                "col1": "Luka",
+                "col2": "27 of 72",
+                "col3": "(37.5%)"
+            },
+            {
+                "col1": "MatthewSa",
+                "col2": "27 of 72",
+                "col3": "(37.5%)"
+            },
+            {
+                "col1": "Rodrigo",
+                "col2": "27 of 72",
+                "col3": "(37.5%)"
+            },
+            {
+                "col1": "Sean",
+                "col2": "27 of 72",
+                "col3": "(37.5%)"
+            },
+            {
+                "col1": "Simon",
+                "col2": "27 of 72",
+                "col3": "(37.5%)"
+            },
+            {
+                "col1": "Chi",
+                "col2": "26 of 72",
+                "col3": "(36.1%)"
+            },
+            {
+                "col1": "CMD88",
+                "col2": "26 of 72",
+                "col3": "(36.1%)"
+            },
+            {
+                "col1": "Darryll",
+                "col2": "26 of 72",
+                "col3": "(36.1%)"
+            },
+            {
+                "col1": "Fernando",
+                "col2": "26 of 72",
+                "col3": "(36.1%)"
+            },
+            {
+                "col1": "Hugo",
+                "col2": "26 of 72",
+                "col3": "(36.1%)"
+            },
+            {
+                "col1": "Ida",
+                "col2": "26 of 72",
+                "col3": "(36.1%)"
+            },
+            {
+                "col1": "JasonB",
+                "col2": "26 of 72",
+                "col3": "(36.1%)"
+            },
+            {
+                "col1": "Jerry",
+                "col2": "26 of 72",
+                "col3": "(36.1%)"
+            },
+            {
+                "col1": "KevinS",
+                "col2": "26 of 72",
+                "col3": "(36.1%)"
+            },
+            {
+                "col1": "Marta",
+                "col2": "26 of 72",
+                "col3": "(36.1%)"
+            },
+            {
+                "col1": "MatthewG",
+                "col2": "26 of 72",
+                "col3": "(36.1%)"
+            },
+            {
+                "col1": "Max",
+                "col2": "26 of 72",
+                "col3": "(36.1%)"
+            },
+            {
+                "col1": "Nicole",
+                "col2": "26 of 72",
+                "col3": "(36.1%)"
+            },
+            {
+                "col1": "Niousha",
+                "col2": "26 of 72",
+                "col3": "(36.1%)"
+            },
+            {
+                "col1": "Pascal",
+                "col2": "26 of 72",
+                "col3": "(36.1%)"
+            },
+            {
+                "col1": "RichardMa",
+                "col2": "26 of 72",
+                "col3": "(36.1%)"
+            },
+            {
+                "col1": "RobSi",
+                "col2": "26 of 72",
+                "col3": "(36.1%)"
+            },
+            {
+                "col1": "TonyMi",
+                "col2": "26 of 72",
+                "col3": "(36.1%)"
+            },
+            {
+                "col1": "TonyV",
+                "col2": "26 of 72",
+                "col3": "(36.1%)"
+            },
+            {
+                "col1": "William",
+                "col2": "26 of 72",
+                "col3": "(36.1%)"
+            },
+            {
+                "col1": "Alnashir",
+                "col2": "25 of 72",
+                "col3": "(34.7%)"
+            },
+            {
+                "col1": "Arturo",
+                "col2": "25 of 72",
+                "col3": "(34.7%)"
+            },
+            {
+                "col1": "CarlosG",
+                "col2": "25 of 72",
+                "col3": "(34.7%)"
+            },
+            {
+                "col1": "Edsel",
+                "col2": "25 of 72",
+                "col3": "(34.7%)"
+            },
+            {
+                "col1": "Fernanda",
+                "col2": "25 of 72",
+                "col3": "(34.7%)"
+            },
+            {
+                "col1": "Gary",
+                "col2": "25 of 72",
+                "col3": "(34.7%)"
+            },
+            {
+                "col1": "Gus",
+                "col2": "25 of 72",
+                "col3": "(34.7%)"
+            },
+            {
+                "col1": "Jalen",
+                "col2": "25 of 72",
+                "col3": "(34.7%)"
+            },
+            {
+                "col1": "Mauricio",
+                "col2": "25 of 72",
+                "col3": "(34.7%)"
+            },
+            {
+                "col1": "MichaelPi",
+                "col2": "25 of 72",
+                "col3": "(34.7%)"
+            },
+            {
+                "col1": "MikeD",
+                "col2": "25 of 72",
+                "col3": "(34.7%)"
+            },
+            {
+                "col1": "Pardeep",
+                "col2": "25 of 72",
+                "col3": "(34.7%)"
+            },
+            {
+                "col1": "Rousse",
+                "col2": "25 of 72",
+                "col3": "(34.7%)"
+            },
+            {
+                "col1": "TomI",
+                "col2": "25 of 72",
+                "col3": "(34.7%)"
+            },
+            {
+                "col1": "Trevor",
+                "col2": "25 of 72",
+                "col3": "(34.7%)"
+            },
+            {
+                "col1": "Tristan",
+                "col2": "25 of 72",
+                "col3": "(34.7%)"
+            },
+            {
+                "col1": "Victor",
+                "col2": "25 of 72",
+                "col3": "(34.7%)"
+            },
+            {
+                "col1": "EdwardT",
+                "col2": "24 of 72",
+                "col3": "(33.3%)"
+            },
+            {
+                "col1": "Flavio",
+                "col2": "24 of 72",
+                "col3": "(33.3%)"
+            },
+            {
+                "col1": "FrankC",
+                "col2": "24 of 72",
+                "col3": "(33.3%)"
+            },
+            {
+                "col1": "Ian",
+                "col2": "24 of 72",
+                "col3": "(33.3%)"
+            },
+            {
+                "col1": "Igor",
+                "col2": "24 of 72",
+                "col3": "(33.3%)"
+            },
+            {
+                "col1": "JeffT",
+                "col2": "24 of 72",
+                "col3": "(33.3%)"
+            },
+            {
+                "col1": "Joanna",
+                "col2": "24 of 72",
+                "col3": "(33.3%)"
+            },
+            {
+                "col1": "JohnO",
+                "col2": "24 of 72",
+                "col3": "(33.3%)"
+            },
+            {
+                "col1": "Lena",
+                "col2": "24 of 72",
+                "col3": "(33.3%)"
+            },
+            {
+                "col1": "MannyT",
+                "col2": "24 of 72",
+                "col3": "(33.3%)"
+            },
+            {
+                "col1": "Shawn1",
+                "col2": "24 of 72",
+                "col3": "(33.3%)"
+            },
+            {
+                "col1": "StevenD",
+                "col2": "24 of 72",
+                "col3": "(33.3%)"
+            },
+            {
+                "col1": "Tomas",
+                "col2": "24 of 72",
+                "col3": "(33.3%)"
+            },
+            {
+                "col1": "Aaron",
+                "col2": "23 of 72",
+                "col3": "(31.9%)"
+            },
+            {
+                "col1": "Alex",
+                "col2": "23 of 72",
+                "col3": "(31.9%)"
+            },
+            {
+                "col1": "AnthonyA",
+                "col2": "23 of 72",
+                "col3": "(31.9%)"
+            },
+            {
+                "col1": "DanielR",
+                "col2": "23 of 72",
+                "col3": "(31.9%)"
+            },
+            {
+                "col1": "DannyL",
+                "col2": "23 of 72",
+                "col3": "(31.9%)"
+            },
+            {
+                "col1": "DarylF",
+                "col2": "23 of 72",
+                "col3": "(31.9%)"
+            },
+            {
+                "col1": "Elizabeth",
+                "col2": "23 of 72",
+                "col3": "(31.9%)"
+            },
+            {
+                "col1": "EricK",
+                "col2": "23 of 72",
+                "col3": "(31.9%)"
+            },
+            {
+                "col1": "Franco",
+                "col2": "23 of 72",
+                "col3": "(31.9%)"
+            },
+            {
+                "col1": "Gabriela",
+                "col2": "23 of 72",
+                "col3": "(31.9%)"
+            },
+            {
+                "col1": "GustavoL",
+                "col2": "23 of 72",
+                "col3": "(31.9%)"
+            },
+            {
+                "col1": "HelderB",
+                "col2": "23 of 72",
+                "col3": "(31.9%)"
+            },
+            {
+                "col1": "Jackson",
+                "col2": "23 of 72",
+                "col3": "(31.9%)"
+            },
+            {
+                "col1": "JeffS",
+                "col2": "23 of 72",
+                "col3": "(31.9%)"
+            },
+            {
+                "col1": "Jess",
+                "col2": "23 of 72",
+                "col3": "(31.9%)"
+            },
+            {
+                "col1": "JoeP",
+                "col2": "23 of 72",
+                "col3": "(31.9%)"
+            },
+            {
+                "col1": "JorgeC",
+                "col2": "23 of 72",
+                "col3": "(31.9%)"
+            },
+            {
+                "col1": "JoseP",
+                "col2": "23 of 72",
+                "col3": "(31.9%)"
+            },
+            {
+                "col1": "Mitchell",
+                "col2": "23 of 72",
+                "col3": "(31.9%)"
+            },
+            {
+                "col1": "RickT",
+                "col2": "23 of 72",
+                "col3": "(31.9%)"
+            },
+            {
+                "col1": "RobTu",
+                "col2": "23 of 72",
+                "col3": "(31.9%)"
+            },
+            {
+                "col1": "Sabrina",
+                "col2": "23 of 72",
+                "col3": "(31.9%)"
+            },
+            {
+                "col1": "Salim",
+                "col2": "23 of 72",
+                "col3": "(31.9%)"
+            },
+            {
+                "col1": "Stanley",
+                "col2": "23 of 72",
+                "col3": "(31.9%)"
+            },
+            {
+                "col1": "TonyMa",
+                "col2": "23 of 72",
+                "col3": "(31.9%)"
+            },
+            {
+                "col1": "Yogi",
+                "col2": "23 of 72",
+                "col3": "(31.9%)"
+            },
+            {
+                "col1": "Adam",
+                "col2": "22 of 72",
+                "col3": "(30.6%)"
+            },
+            {
+                "col1": "AI",
+                "col2": "22 of 72",
+                "col3": "(30.6%)"
+            },
+            {
+                "col1": "Alice",
+                "col2": "22 of 72",
+                "col3": "(30.6%)"
+            },
+            {
+                "col1": "Andres",
+                "col2": "22 of 72",
+                "col3": "(30.6%)"
+            },
+            {
+                "col1": "Augie",
+                "col2": "22 of 72",
+                "col3": "(30.6%)"
+            },
+            {
+                "col1": "Bindu",
+                "col2": "22 of 72",
+                "col3": "(30.6%)"
+            },
+            {
+                "col1": "Brandon",
+                "col2": "22 of 72",
+                "col3": "(30.6%)"
+            },
+            {
+                "col1": "Cameron",
+                "col2": "22 of 72",
+                "col3": "(30.6%)"
+            },
+            {
+                "col1": "Coco",
+                "col2": "22 of 72",
+                "col3": "(30.6%)"
+            },
+            {
+                "col1": "DanielM",
+                "col2": "22 of 72",
+                "col3": "(30.6%)"
+            },
+            {
+                "col1": "HelderA",
+                "col2": "22 of 72",
+                "col3": "(30.6%)"
+            },
+            {
+                "col1": "JamesP",
+                "col2": "22 of 72",
+                "col3": "(30.6%)"
+            },
+            {
+                "col1": "Janelle",
+                "col2": "22 of 72",
+                "col3": "(30.6%)"
+            },
+            {
+                "col1": "JasonF",
+                "col2": "22 of 72",
+                "col3": "(30.6%)"
+            },
+            {
+                "col1": "JoeD",
+                "col2": "22 of 72",
+                "col3": "(30.6%)"
+            },
+            {
+                "col1": "Joy",
+                "col2": "22 of 72",
+                "col3": "(30.6%)"
+            },
+            {
+                "col1": "Julian",
+                "col2": "22 of 72",
+                "col3": "(30.6%)"
+            },
+            {
+                "col1": "Kristian",
+                "col2": "22 of 72",
+                "col3": "(30.6%)"
+            },
+            {
+                "col1": "Lindsey",
+                "col2": "22 of 72",
+                "col3": "(30.6%)"
+            },
+            {
+                "col1": "MarcoR",
+                "col2": "22 of 72",
+                "col3": "(30.6%)"
+            },
+            {
+                "col1": "Nolan",
+                "col2": "22 of 72",
+                "col3": "(30.6%)"
+            },
+            {
+                "col1": "Ali",
+                "col2": "21 of 72",
+                "col3": "(29.2%)"
+            },
+            {
+                "col1": "Ana",
+                "col2": "21 of 72",
+                "col3": "(29.2%)"
+            },
+            {
+                "col1": "Bert",
+                "col2": "21 of 72",
+                "col3": "(29.2%)"
+            },
+            {
+                "col1": "Caroline",
+                "col2": "21 of 72",
+                "col3": "(29.2%)"
+            },
+            {
+                "col1": "DarrylMFC",
+                "col2": "21 of 72",
+                "col3": "(29.2%)"
+            },
+            {
+                "col1": "Dora",
+                "col2": "21 of 72",
+                "col3": "(29.2%)"
+            },
+            {
+                "col1": "Duarte",
+                "col2": "21 of 72",
+                "col3": "(29.2%)"
+            },
+            {
+                "col1": "JeffB",
+                "col2": "21 of 72",
+                "col3": "(29.2%)"
+            },
+            {
+                "col1": "Jessica",
+                "col2": "21 of 72",
+                "col3": "(29.2%)"
+            },
+            {
+                "col1": "KevinJ",
+                "col2": "21 of 72",
+                "col3": "(29.2%)"
+            },
+            {
+                "col1": "KyleW",
+                "col2": "21 of 72",
+                "col3": "(29.2%)"
+            },
+            {
+                "col1": "Major",
+                "col2": "21 of 72",
+                "col3": "(29.2%)"
+            },
+            {
+                "col1": "MarcioS",
+                "col2": "21 of 72",
+                "col3": "(29.2%)"
+            },
+            {
+                "col1": "Melissa",
+                "col2": "21 of 72",
+                "col3": "(29.2%)"
+            },
+            {
+                "col1": "Moncef",
+                "col2": "21 of 72",
+                "col3": "(29.2%)"
+            },
+            {
+                "col1": "NickM",
+                "col2": "21 of 72",
+                "col3": "(29.2%)"
+            },
+            {
+                "col1": "RD2026",
+                "col2": "21 of 72",
+                "col3": "(29.2%)"
+            },
+            {
+                "col1": "Roy",
+                "col2": "21 of 72",
+                "col3": "(29.2%)"
+            },
+            {
+                "col1": "Simrun",
+                "col2": "21 of 72",
+                "col3": "(29.2%)"
+            },
+            {
+                "col1": "TonyH",
+                "col2": "21 of 72",
+                "col3": "(29.2%)"
+            },
+            {
+                "col1": "Brendan",
+                "col2": "20 of 72",
+                "col3": "(27.8%)"
+            },
+            {
+                "col1": "Carmen",
+                "col2": "20 of 72",
+                "col3": "(27.8%)"
+            },
+            {
+                "col1": "ChrisK",
+                "col2": "20 of 72",
+                "col3": "(27.8%)"
+            },
+            {
+                "col1": "Ed",
+                "col2": "20 of 72",
+                "col3": "(27.8%)"
+            },
+            {
+                "col1": "Elaine",
+                "col2": "20 of 72",
+                "col3": "(27.8%)"
+            },
+            {
+                "col1": "Joao",
+                "col2": "20 of 72",
+                "col3": "(27.8%)"
+            },
+            {
+                "col1": "Kumar",
+                "col2": "20 of 72",
+                "col3": "(27.8%)"
+            },
+            {
+                "col1": "MichaelL",
+                "col2": "20 of 72",
+                "col3": "(27.8%)"
+            },
+            {
+                "col1": "Pam",
+                "col2": "20 of 72",
+                "col3": "(27.8%)"
+            },
+            {
+                "col1": "Paolo",
+                "col2": "20 of 72",
+                "col3": "(27.8%)"
+            },
+            {
+                "col1": "Ricardo2",
+                "col2": "20 of 72",
+                "col3": "(27.8%)"
+            },
+            {
+                "col1": "Stallone",
+                "col2": "20 of 72",
+                "col3": "(27.8%)"
+            },
+            {
+                "col1": "Vito",
+                "col2": "20 of 72",
+                "col3": "(27.8%)"
+            },
+            {
+                "col1": "Heather",
+                "col2": "19 of 72",
+                "col3": "(26.4%)"
+            },
+            {
+                "col1": "Jennifer",
+                "col2": "19 of 72",
+                "col3": "(26.4%)"
+            },
+            {
+                "col1": "JorgeT",
+                "col2": "19 of 72",
+                "col3": "(26.4%)"
+            },
+            {
+                "col1": "MarcioD",
+                "col2": "19 of 72",
+                "col3": "(26.4%)"
+            },
+            {
+                "col1": "Michele",
+                "col2": "19 of 72",
+                "col3": "(26.4%)"
+            },
+            {
+                "col1": "Nas",
+                "col2": "19 of 72",
+                "col3": "(26.4%)"
+            },
+            {
+                "col1": "Ricardo1",
+                "col2": "19 of 72",
+                "col3": "(26.4%)"
+            },
+            {
+                "col1": "Vishal",
+                "col2": "19 of 72",
+                "col3": "(26.4%)"
+            },
+            {
+                "col1": "DannyRa",
+                "col2": "18 of 72",
+                "col3": "(25%)"
+            },
+            {
+                "col1": "DavidD",
+                "col2": "18 of 72",
+                "col3": "(25%)"
+            },
+            {
+                "col1": "Dino",
+                "col2": "18 of 72",
+                "col3": "(25%)"
+            },
+            {
+                "col1": "Frankie",
+                "col2": "18 of 72",
+                "col3": "(25%)"
+            },
+            {
+                "col1": "JohnC",
+                "col2": "18 of 72",
+                "col3": "(25%)"
+            },
+            {
+                "col1": "LiamA",
+                "col2": "18 of 72",
+                "col3": "(25%)"
+            },
+            {
+                "col1": "MichaelPa",
+                "col2": "18 of 72",
+                "col3": "(25%)"
+            },
+            {
+                "col1": "Neha",
+                "col2": "18 of 72",
+                "col3": "(25%)"
+            },
+            {
+                "col1": "StevenT",
+                "col2": "18 of 72",
+                "col3": "(25%)"
+            },
+            {
+                "col1": "TomP",
+                "col2": "18 of 72",
+                "col3": "(25%)"
+            },
+            {
+                "col1": "CarlosSal",
+                "col2": "17 of 72",
+                "col3": "(23.6%)"
+            },
+            {
+                "col1": "GavinW",
+                "col2": "17 of 72",
+                "col3": "(23.6%)"
+            },
+            {
+                "col1": "Juan",
+                "col2": "17 of 72",
+                "col3": "(23.6%)"
+            },
+            {
+                "col1": "Greg",
+                "col2": "16 of 72",
+                "col3": "(22.2%)"
+            },
+            {
+                "col1": "RichardMo",
+                "col2": "16 of 72",
+                "col3": "(22.2%)"
+            },
+            {
+                "col1": "Wilson",
+                "col2": "16 of 72",
+                "col3": "(22.2%)"
+            },
+            {
+                "col1": "CarlosD",
+                "col2": "15 of 72",
+                "col3": "(20.8%)"
+            },
+            {
+                "col1": "Rita",
+                "col2": "15 of 72",
+                "col3": "(20.8%)"
+            },
+            {
+                "col1": "Nuno1",
+                "col2": "0 of 0",
+                "col3": "(0%)"
+            },
+            {
+                "col1": "Nuno2",
+                "col2": "0 of 0",
+                "col3": "(0%)"
             }
         ]
     },
@@ -1088,1083 +1088,1083 @@
         "title": "# of Group Stage matches where the exact score was correctly predicted",
         "rows": [
             {
-                "col1": "Adam",
-                "col2": "7 of 71",
-                "col3": "(9.9%)"
+                "col1": "Luka",
+                "col2": "7 of 72",
+                "col3": "(9.7%)"
             },
             {
-                "col1": "Coco",
-                "col2": "7 of 71",
-                "col3": "(9.9%)"
+                "col1": "Nicole",
+                "col2": "7 of 72",
+                "col3": "(9.7%)"
             },
             {
-                "col1": "FrankI",
-                "col2": "7 of 71",
-                "col3": "(9.9%)"
+                "col1": "Nolan",
+                "col2": "7 of 72",
+                "col3": "(9.7%)"
             },
             {
-                "col1": "Hugo",
-                "col2": "7 of 71",
-                "col3": "(9.9%)"
+                "col1": "RobertP",
+                "col2": "7 of 72",
+                "col3": "(9.7%)"
             },
             {
-                "col1": "Simrun",
-                "col2": "7 of 71",
-                "col3": "(9.9%)"
+                "col1": "Elizabeth",
+                "col2": "6 of 72",
+                "col3": "(8.3%)"
             },
             {
-                "col1": "AI",
-                "col2": "6 of 71",
-                "col3": "(8.5%)"
-            },
-            {
-                "col1": "Ali",
-                "col2": "6 of 71",
-                "col3": "(8.5%)"
-            },
-            {
-                "col1": "Darryll",
-                "col2": "6 of 71",
-                "col3": "(8.5%)"
-            },
-            {
-                "col1": "Dora",
-                "col2": "6 of 71",
-                "col3": "(8.5%)"
-            },
-            {
-                "col1": "Igor",
-                "col2": "6 of 71",
-                "col3": "(8.5%)"
-            },
-            {
-                "col1": "Mugwe",
-                "col2": "6 of 71",
-                "col3": "(8.5%)"
-            },
-            {
-                "col1": "TonyV",
-                "col2": "6 of 71",
-                "col3": "(8.5%)"
-            },
-            {
-                "col1": "Bert",
-                "col2": "5 of 71",
-                "col3": "(7%)"
-            },
-            {
-                "col1": "Cameron",
-                "col2": "5 of 71",
-                "col3": "(7%)"
-            },
-            {
-                "col1": "ChrisK",
-                "col2": "5 of 71",
-                "col3": "(7%)"
-            },
-            {
-                "col1": "DannyRa",
-                "col2": "5 of 71",
-                "col3": "(7%)"
-            },
-            {
-                "col1": "Deylin",
-                "col2": "5 of 71",
-                "col3": "(7%)"
-            },
-            {
-                "col1": "Diane",
-                "col2": "5 of 71",
-                "col3": "(7%)"
-            },
-            {
-                "col1": "EricK",
-                "col2": "5 of 71",
-                "col3": "(7%)"
-            },
-            {
-                "col1": "Fernanda",
-                "col2": "5 of 71",
-                "col3": "(7%)"
-            },
-            {
-                "col1": "FrankC",
-                "col2": "5 of 71",
-                "col3": "(7%)"
-            },
-            {
-                "col1": "FrankD",
-                "col2": "5 of 71",
-                "col3": "(7%)"
-            },
-            {
-                "col1": "JeffS",
-                "col2": "5 of 71",
-                "col3": "(7%)"
-            },
-            {
-                "col1": "JoseP",
-                "col2": "5 of 71",
-                "col3": "(7%)"
-            },
-            {
-                "col1": "KevinJ",
-                "col2": "5 of 71",
-                "col3": "(7%)"
-            },
-            {
-                "col1": "KyleW",
-                "col2": "5 of 71",
-                "col3": "(7%)"
+                "col1": "GustavoH",
+                "col2": "6 of 72",
+                "col3": "(8.3%)"
             },
             {
                 "col1": "MannyT",
-                "col2": "5 of 71",
-                "col3": "(7%)"
+                "col2": "6 of 72",
+                "col3": "(8.3%)"
             },
             {
-                "col1": "MarcioD",
-                "col2": "5 of 71",
-                "col3": "(7%)"
+                "col1": "Michiel",
+                "col2": "6 of 72",
+                "col3": "(8.3%)"
             },
             {
-                "col1": "MarcioS",
-                "col2": "5 of 71",
-                "col3": "(7%)"
+                "col1": "Paolo",
+                "col2": "6 of 72",
+                "col3": "(8.3%)"
             },
             {
-                "col1": "MichaelM",
-                "col2": "5 of 71",
-                "col3": "(7%)"
-            },
-            {
-                "col1": "Nuno2",
-                "col2": "5 of 71",
-                "col3": "(7%)"
-            },
-            {
-                "col1": "RobSi",
-                "col2": "5 of 71",
-                "col3": "(7%)"
-            },
-            {
-                "col1": "Sabrina",
-                "col2": "5 of 71",
-                "col3": "(7%)"
-            },
-            {
-                "col1": "Sean",
-                "col2": "5 of 71",
-                "col3": "(7%)"
-            },
-            {
-                "col1": "Simon",
-                "col2": "5 of 71",
-                "col3": "(7%)"
-            },
-            {
-                "col1": "TonyMi",
-                "col2": "5 of 71",
-                "col3": "(7%)"
-            },
-            {
-                "col1": "Vishal",
-                "col2": "5 of 71",
-                "col3": "(7%)"
-            },
-            {
-                "col1": "Wilson",
-                "col2": "5 of 71",
-                "col3": "(7%)"
+                "col1": "RichardMo",
+                "col2": "6 of 72",
+                "col3": "(8.3%)"
             },
             {
                 "col1": "Alex",
-                "col2": "4 of 71",
+                "col2": "5 of 72",
+                "col3": "(6.9%)"
+            },
+            {
+                "col1": "ChrisP",
+                "col2": "5 of 72",
+                "col3": "(6.9%)"
+            },
+            {
+                "col1": "Deylin",
+                "col2": "5 of 72",
+                "col3": "(6.9%)"
+            },
+            {
+                "col1": "Diane",
+                "col2": "5 of 72",
+                "col3": "(6.9%)"
+            },
+            {
+                "col1": "Ed",
+                "col2": "5 of 72",
+                "col3": "(6.9%)"
+            },
+            {
+                "col1": "Edsel",
+                "col2": "5 of 72",
+                "col3": "(6.9%)"
+            },
+            {
+                "col1": "FrankD",
+                "col2": "5 of 72",
+                "col3": "(6.9%)"
+            },
+            {
+                "col1": "Gwen",
+                "col2": "5 of 72",
+                "col3": "(6.9%)"
+            },
+            {
+                "col1": "Hugo",
+                "col2": "5 of 72",
+                "col3": "(6.9%)"
+            },
+            {
+                "col1": "JasonB",
+                "col2": "5 of 72",
+                "col3": "(6.9%)"
+            },
+            {
+                "col1": "Jerry",
+                "col2": "5 of 72",
+                "col3": "(6.9%)"
+            },
+            {
+                "col1": "Joanna",
+                "col2": "5 of 72",
+                "col3": "(6.9%)"
+            },
+            {
+                "col1": "JorgeT",
+                "col2": "5 of 72",
+                "col3": "(6.9%)"
+            },
+            {
+                "col1": "LiamA",
+                "col2": "5 of 72",
+                "col3": "(6.9%)"
+            },
+            {
+                "col1": "MatthewSa",
+                "col2": "5 of 72",
+                "col3": "(6.9%)"
+            },
+            {
+                "col1": "MatthewSm",
+                "col2": "5 of 72",
+                "col3": "(6.9%)"
+            },
+            {
+                "col1": "MichaelM",
+                "col2": "5 of 72",
+                "col3": "(6.9%)"
+            },
+            {
+                "col1": "Mugwe",
+                "col2": "5 of 72",
+                "col3": "(6.9%)"
+            },
+            {
+                "col1": "PaulC",
+                "col2": "5 of 72",
+                "col3": "(6.9%)"
+            },
+            {
+                "col1": "Pouya",
+                "col2": "5 of 72",
+                "col3": "(6.9%)"
+            },
+            {
+                "col1": "RobTu",
+                "col2": "5 of 72",
+                "col3": "(6.9%)"
+            },
+            {
+                "col1": "Roy",
+                "col2": "5 of 72",
+                "col3": "(6.9%)"
+            },
+            {
+                "col1": "StevenD",
+                "col2": "5 of 72",
+                "col3": "(6.9%)"
+            },
+            {
+                "col1": "Tristan",
+                "col2": "5 of 72",
+                "col3": "(6.9%)"
+            },
+            {
+                "col1": "Alnashir",
+                "col2": "4 of 72",
                 "col3": "(5.6%)"
             },
             {
-                "col1": "Andres",
-                "col2": "4 of 71",
+                "col1": "Anicio",
+                "col2": "4 of 72",
                 "col3": "(5.6%)"
             },
             {
-                "col1": "Carmen",
-                "col2": "4 of 71",
+                "col1": "Ash",
+                "col2": "4 of 72",
                 "col3": "(5.6%)"
             },
             {
-                "col1": "Chi",
-                "col2": "4 of 71",
+                "col1": "BrianS",
+                "col2": "4 of 72",
                 "col3": "(5.6%)"
             },
             {
-                "col1": "DanielR",
-                "col2": "4 of 71",
+                "col1": "ChrisN",
+                "col2": "4 of 72",
                 "col3": "(5.6%)"
             },
             {
-                "col1": "Dino",
-                "col2": "4 of 71",
+                "col1": "Chrissy",
+                "col2": "4 of 72",
                 "col3": "(5.6%)"
             },
             {
-                "col1": "EdwardT",
-                "col2": "4 of 71",
+                "col1": "CMD88",
+                "col2": "4 of 72",
                 "col3": "(5.6%)"
             },
             {
-                "col1": "Fernando",
-                "col2": "4 of 71",
+                "col1": "Corey",
+                "col2": "4 of 72",
                 "col3": "(5.6%)"
             },
             {
-                "col1": "Franco",
-                "col2": "4 of 71",
+                "col1": "DarrylMFC",
+                "col2": "4 of 72",
                 "col3": "(5.6%)"
             },
             {
-                "col1": "Heather",
-                "col2": "4 of 71",
+                "col1": "DarylF",
+                "col2": "4 of 72",
                 "col3": "(5.6%)"
             },
             {
-                "col1": "Ian",
-                "col2": "4 of 71",
+                "col1": "EricK",
+                "col2": "4 of 72",
+                "col3": "(5.6%)"
+            },
+            {
+                "col1": "Fernanda",
+                "col2": "4 of 72",
+                "col3": "(5.6%)"
+            },
+            {
+                "col1": "Flavio",
+                "col2": "4 of 72",
+                "col3": "(5.6%)"
+            },
+            {
+                "col1": "Gary",
+                "col2": "4 of 72",
+                "col3": "(5.6%)"
+            },
+            {
+                "col1": "Grosso",
+                "col2": "4 of 72",
+                "col3": "(5.6%)"
+            },
+            {
+                "col1": "Ida",
+                "col2": "4 of 72",
                 "col3": "(5.6%)"
             },
             {
                 "col1": "JamesP",
-                "col2": "4 of 71",
+                "col2": "4 of 72",
                 "col3": "(5.6%)"
             },
             {
                 "col1": "JasonF",
-                "col2": "4 of 71",
+                "col2": "4 of 72",
                 "col3": "(5.6%)"
             },
             {
-                "col1": "Joanna",
-                "col2": "4 of 71",
+                "col1": "JorgeC",
+                "col2": "4 of 72",
                 "col3": "(5.6%)"
             },
             {
-                "col1": "JohnO",
-                "col2": "4 of 71",
+                "col1": "Julian",
+                "col2": "4 of 72",
                 "col3": "(5.6%)"
             },
             {
-                "col1": "Jonathan",
-                "col2": "4 of 71",
+                "col1": "KevinS",
+                "col2": "4 of 72",
                 "col3": "(5.6%)"
             },
             {
-                "col1": "Kayden",
-                "col2": "4 of 71",
+                "col1": "LiamM",
+                "col2": "4 of 72",
                 "col3": "(5.6%)"
             },
             {
-                "col1": "Lena",
-                "col2": "4 of 71",
+                "col1": "Michele",
+                "col2": "4 of 72",
                 "col3": "(5.6%)"
             },
             {
-                "col1": "Maria",
-                "col2": "4 of 71",
-                "col3": "(5.6%)"
-            },
-            {
-                "col1": "MichaelL",
-                "col2": "4 of 71",
-                "col3": "(5.6%)"
-            },
-            {
-                "col1": "Moncef",
-                "col2": "4 of 71",
-                "col3": "(5.6%)"
-            },
-            {
-                "col1": "Nicole",
-                "col2": "4 of 71",
-                "col3": "(5.6%)"
-            },
-            {
-                "col1": "Paolo",
-                "col2": "4 of 71",
-                "col3": "(5.6%)"
-            },
-            {
-                "col1": "Pardeep",
-                "col2": "4 of 71",
-                "col3": "(5.6%)"
-            },
-            {
-                "col1": "RichardMo",
-                "col2": "4 of 71",
-                "col3": "(5.6%)"
-            },
-            {
-                "col1": "RobTu",
-                "col2": "4 of 71",
+                "col1": "RobertS",
+                "col2": "4 of 72",
                 "col3": "(5.6%)"
             },
             {
                 "col1": "Salim",
-                "col2": "4 of 71",
+                "col2": "4 of 72",
+                "col3": "(5.6%)"
+            },
+            {
+                "col1": "Sean",
+                "col2": "4 of 72",
                 "col3": "(5.6%)"
             },
             {
                 "col1": "Shawn2",
-                "col2": "4 of 71",
+                "col2": "4 of 72",
                 "col3": "(5.6%)"
             },
             {
-                "col1": "Stanley",
-                "col2": "4 of 71",
+                "col1": "Simon",
+                "col2": "4 of 72",
                 "col3": "(5.6%)"
             },
             {
-                "col1": "StevenT",
-                "col2": "4 of 71",
+                "col1": "Stirling",
+                "col2": "4 of 72",
                 "col3": "(5.6%)"
             },
             {
-                "col1": "Tanya",
-                "col2": "4 of 71",
+                "col1": "TomI",
+                "col2": "4 of 72",
                 "col3": "(5.6%)"
-            },
-            {
-                "col1": "Victor",
-                "col2": "4 of 71",
-                "col3": "(5.6%)"
-            },
-            {
-                "col1": "Aaron",
-                "col2": "3 of 71",
-                "col3": "(4.2%)"
             },
             {
                 "col1": "Aban",
-                "col2": "3 of 71",
+                "col2": "3 of 72",
                 "col3": "(4.2%)"
             },
             {
-                "col1": "Anicio",
-                "col2": "3 of 71",
+                "col1": "Ali",
+                "col2": "3 of 72",
                 "col3": "(4.2%)"
             },
             {
-                "col1": "Arturo",
-                "col2": "3 of 71",
+                "col1": "Ana",
+                "col2": "3 of 72",
                 "col3": "(4.2%)"
             },
             {
-                "col1": "Ash",
-                "col2": "3 of 71",
+                "col1": "Angel",
+                "col2": "3 of 72",
                 "col3": "(4.2%)"
             },
             {
-                "col1": "BrianS",
-                "col2": "3 of 71",
+                "col1": "Bert",
+                "col2": "3 of 72",
                 "col3": "(4.2%)"
             },
             {
-                "col1": "CarlosD",
-                "col2": "3 of 71",
+                "col1": "Brandon",
+                "col2": "3 of 72",
                 "col3": "(4.2%)"
             },
             {
-                "col1": "CarlosG",
-                "col2": "3 of 71",
+                "col1": "Brendan",
+                "col2": "3 of 72",
                 "col3": "(4.2%)"
             },
             {
-                "col1": "ChrisP",
-                "col2": "3 of 71",
+                "col1": "Carmen",
+                "col2": "3 of 72",
                 "col3": "(4.2%)"
             },
             {
-                "col1": "Chrissy",
-                "col2": "3 of 71",
+                "col1": "Coco",
+                "col2": "3 of 72",
                 "col3": "(4.2%)"
             },
             {
-                "col1": "ChristianL",
-                "col2": "3 of 71",
+                "col1": "Darryll",
+                "col2": "3 of 72",
                 "col3": "(4.2%)"
             },
             {
-                "col1": "CMD88",
-                "col2": "3 of 71",
+                "col1": "Duarte",
+                "col2": "3 of 72",
                 "col3": "(4.2%)"
             },
             {
-                "col1": "DanielM",
-                "col2": "3 of 71",
+                "col1": "EdwardT",
+                "col2": "3 of 72",
                 "col3": "(4.2%)"
             },
             {
-                "col1": "Edsel",
-                "col2": "3 of 71",
-                "col3": "(4.2%)"
-            },
-            {
-                "col1": "Ethan",
-                "col2": "3 of 71",
+                "col1": "Fawzi",
+                "col2": "3 of 72",
                 "col3": "(4.2%)"
             },
             {
                 "col1": "Frankie",
-                "col2": "3 of 71",
+                "col2": "3 of 72",
                 "col3": "(4.2%)"
             },
             {
-                "col1": "Gary",
-                "col2": "3 of 71",
+                "col1": "Greg",
+                "col2": "3 of 72",
                 "col3": "(4.2%)"
             },
             {
                 "col1": "Gus",
-                "col2": "3 of 71",
+                "col2": "3 of 72",
                 "col3": "(4.2%)"
             },
             {
-                "col1": "Gwen",
-                "col2": "3 of 71",
+                "col1": "GustavoL",
+                "col2": "3 of 72",
                 "col3": "(4.2%)"
             },
             {
-                "col1": "Ida",
-                "col2": "3 of 71",
+                "col1": "HelderA",
+                "col2": "3 of 72",
                 "col3": "(4.2%)"
             },
             {
-                "col1": "Janelle",
-                "col2": "3 of 71",
+                "col1": "HelderB",
+                "col2": "3 of 72",
                 "col3": "(4.2%)"
             },
             {
-                "col1": "Joao",
-                "col2": "3 of 71",
+                "col1": "Ian",
+                "col2": "3 of 72",
                 "col3": "(4.2%)"
             },
             {
-                "col1": "JohnR",
-                "col2": "3 of 71",
+                "col1": "Igor",
+                "col2": "3 of 72",
                 "col3": "(4.2%)"
             },
             {
-                "col1": "KevinS",
-                "col2": "3 of 71",
+                "col1": "Jackson",
+                "col2": "3 of 72",
                 "col3": "(4.2%)"
             },
             {
-                "col1": "LiamA",
-                "col2": "3 of 71",
+                "col1": "JamesC",
+                "col2": "3 of 72",
+                "col3": "(4.2%)"
+            },
+            {
+                "col1": "Jaxon",
+                "col2": "3 of 72",
+                "col3": "(4.2%)"
+            },
+            {
+                "col1": "JeanMichel",
+                "col2": "3 of 72",
+                "col3": "(4.2%)"
+            },
+            {
+                "col1": "JeffS",
+                "col2": "3 of 72",
+                "col3": "(4.2%)"
+            },
+            {
+                "col1": "JeffT",
+                "col2": "3 of 72",
+                "col3": "(4.2%)"
+            },
+            {
+                "col1": "Jennifer",
+                "col2": "3 of 72",
+                "col3": "(4.2%)"
+            },
+            {
+                "col1": "Jessica",
+                "col2": "3 of 72",
+                "col3": "(4.2%)"
+            },
+            {
+                "col1": "Jonathan",
+                "col2": "3 of 72",
+                "col3": "(4.2%)"
+            },
+            {
+                "col1": "Kristian",
+                "col2": "3 of 72",
+                "col3": "(4.2%)"
+            },
+            {
+                "col1": "Kumar",
+                "col2": "3 of 72",
+                "col3": "(4.2%)"
+            },
+            {
+                "col1": "Lindsey",
+                "col2": "3 of 72",
+                "col3": "(4.2%)"
+            },
+            {
+                "col1": "Major",
+                "col2": "3 of 72",
+                "col3": "(4.2%)"
+            },
+            {
+                "col1": "Manley",
+                "col2": "3 of 72",
+                "col3": "(4.2%)"
+            },
+            {
+                "col1": "MarcioD",
+                "col2": "3 of 72",
+                "col3": "(4.2%)"
+            },
+            {
+                "col1": "MarcioS",
+                "col2": "3 of 72",
                 "col3": "(4.2%)"
             },
             {
                 "col1": "MarcoR",
-                "col2": "3 of 71",
+                "col2": "3 of 72",
                 "col3": "(4.2%)"
             },
             {
-                "col1": "Marta",
-                "col2": "3 of 71",
-                "col3": "(4.2%)"
-            },
-            {
-                "col1": "MatthewSm",
-                "col2": "3 of 71",
-                "col3": "(4.2%)"
-            },
-            {
-                "col1": "Mauricio",
-                "col2": "3 of 71",
+                "col1": "Max",
+                "col2": "3 of 72",
                 "col3": "(4.2%)"
             },
             {
                 "col1": "Melissa",
-                "col2": "3 of 71",
+                "col2": "3 of 72",
+                "col3": "(4.2%)"
+            },
+            {
+                "col1": "MichaelL",
+                "col2": "3 of 72",
                 "col3": "(4.2%)"
             },
             {
                 "col1": "MichaelPi",
-                "col2": "3 of 71",
+                "col2": "3 of 72",
+                "col3": "(4.2%)"
+            },
+            {
+                "col1": "MikeD",
+                "col2": "3 of 72",
+                "col3": "(4.2%)"
+            },
+            {
+                "col1": "Pardeep",
+                "col2": "3 of 72",
                 "col3": "(4.2%)"
             },
             {
                 "col1": "PaulA",
-                "col2": "3 of 71",
+                "col2": "3 of 72",
                 "col3": "(4.2%)"
             },
             {
-                "col1": "PaulC",
-                "col2": "3 of 71",
+                "col1": "Ricardo2",
+                "col2": "3 of 72",
                 "col3": "(4.2%)"
             },
             {
-                "col1": "Pouya",
-                "col2": "3 of 71",
+                "col1": "RichardMa",
+                "col2": "3 of 72",
                 "col3": "(4.2%)"
             },
             {
-                "col1": "RD2026",
-                "col2": "3 of 71",
+                "col1": "RobSi",
+                "col2": "3 of 72",
                 "col3": "(4.2%)"
             },
             {
-                "col1": "RobertP",
-                "col2": "3 of 71",
+                "col1": "Rousse",
+                "col2": "3 of 72",
                 "col3": "(4.2%)"
             },
             {
-                "col1": "Roy",
-                "col2": "3 of 71",
+                "col1": "Sabrina",
+                "col2": "3 of 72",
                 "col3": "(4.2%)"
             },
             {
-                "col1": "Sam",
-                "col2": "3 of 71",
+                "col1": "Simrun",
+                "col2": "3 of 72",
                 "col3": "(4.2%)"
             },
             {
-                "col1": "Shawn1",
-                "col2": "3 of 71",
-                "col3": "(4.2%)"
-            },
-            {
-                "col1": "Stirling",
-                "col2": "3 of 71",
-                "col3": "(4.2%)"
-            },
-            {
-                "col1": "TomI",
-                "col2": "3 of 71",
+                "col1": "Tomas",
+                "col2": "3 of 72",
                 "col3": "(4.2%)"
             },
             {
                 "col1": "Trevor",
-                "col2": "3 of 71",
+                "col2": "3 of 72",
                 "col3": "(4.2%)"
             },
             {
-                "col1": "Albeiro",
-                "col2": "2 of 71",
+                "col1": "Adam",
+                "col2": "2 of 72",
+                "col3": "(2.8%)"
+            },
+            {
+                "col1": "AI",
+                "col2": "2 of 72",
                 "col3": "(2.8%)"
             },
             {
                 "col1": "Alice",
-                "col2": "2 of 71",
+                "col2": "2 of 72",
                 "col3": "(2.8%)"
             },
             {
-                "col1": "Alnashir",
-                "col2": "2 of 71",
-                "col3": "(2.8%)"
-            },
-            {
-                "col1": "Ana",
-                "col2": "2 of 71",
+                "col1": "Andres",
+                "col2": "2 of 72",
                 "col3": "(2.8%)"
             },
             {
                 "col1": "AnthonyA",
-                "col2": "2 of 71",
+                "col2": "2 of 72",
                 "col3": "(2.8%)"
             },
             {
-                "col1": "Brendan",
-                "col2": "2 of 71",
+                "col1": "Augie",
+                "col2": "2 of 72",
+                "col3": "(2.8%)"
+            },
+            {
+                "col1": "CarlosD",
+                "col2": "2 of 72",
+                "col3": "(2.8%)"
+            },
+            {
+                "col1": "CarlosG",
+                "col2": "2 of 72",
                 "col3": "(2.8%)"
             },
             {
                 "col1": "CarlosSal",
-                "col2": "2 of 71",
+                "col2": "2 of 72",
                 "col3": "(2.8%)"
             },
             {
                 "col1": "Caroline",
-                "col2": "2 of 71",
+                "col2": "2 of 72",
                 "col3": "(2.8%)"
             },
             {
-                "col1": "ChrisN",
-                "col2": "2 of 71",
+                "col1": "ChrisK",
+                "col2": "2 of 72",
                 "col3": "(2.8%)"
             },
             {
-                "col1": "DannyL",
-                "col2": "2 of 71",
+                "col1": "ChristianL",
+                "col2": "2 of 72",
                 "col3": "(2.8%)"
             },
             {
-                "col1": "Darren",
-                "col2": "2 of 71",
+                "col1": "Damian",
+                "col2": "2 of 72",
                 "col3": "(2.8%)"
             },
             {
-                "col1": "DarylF",
-                "col2": "2 of 71",
+                "col1": "DanielR",
+                "col2": "2 of 72",
                 "col3": "(2.8%)"
             },
             {
-                "col1": "Duarte",
-                "col2": "2 of 71",
-                "col3": "(2.8%)"
-            },
-            {
-                "col1": "Ed",
-                "col2": "2 of 71",
+                "col1": "Dashiel",
+                "col2": "2 of 72",
                 "col3": "(2.8%)"
             },
             {
                 "col1": "Elaine",
-                "col2": "2 of 71",
+                "col2": "2 of 72",
                 "col3": "(2.8%)"
             },
             {
-                "col1": "Fawzi",
-                "col2": "2 of 71",
-                "col3": "(2.8%)"
-            },
-            {
-                "col1": "Gabriela",
-                "col2": "2 of 71",
-                "col3": "(2.8%)"
-            },
-            {
-                "col1": "GavinH",
-                "col2": "2 of 71",
-                "col3": "(2.8%)"
-            },
-            {
-                "col1": "GavinW",
-                "col2": "2 of 71",
-                "col3": "(2.8%)"
-            },
-            {
-                "col1": "Greg",
-                "col2": "2 of 71",
-                "col3": "(2.8%)"
-            },
-            {
-                "col1": "Grosso",
-                "col2": "2 of 71",
-                "col3": "(2.8%)"
-            },
-            {
-                "col1": "GustavoH",
-                "col2": "2 of 71",
-                "col3": "(2.8%)"
-            },
-            {
-                "col1": "GustavoL",
-                "col2": "2 of 71",
-                "col3": "(2.8%)"
-            },
-            {
-                "col1": "HelderB",
-                "col2": "2 of 71",
-                "col3": "(2.8%)"
-            },
-            {
-                "col1": "Jalen",
-                "col2": "2 of 71",
-                "col3": "(2.8%)"
-            },
-            {
-                "col1": "JeffB",
-                "col2": "2 of 71",
-                "col3": "(2.8%)"
-            },
-            {
-                "col1": "Jerry",
-                "col2": "2 of 71",
-                "col3": "(2.8%)"
-            },
-            {
-                "col1": "Jess",
-                "col2": "2 of 71",
-                "col3": "(2.8%)"
-            },
-            {
-                "col1": "Jessica",
-                "col2": "2 of 71",
-                "col3": "(2.8%)"
-            },
-            {
-                "col1": "JoeD",
-                "col2": "2 of 71",
-                "col3": "(2.8%)"
-            },
-            {
-                "col1": "JohnC",
-                "col2": "2 of 71",
-                "col3": "(2.8%)"
-            },
-            {
-                "col1": "JorgeC",
-                "col2": "2 of 71",
-                "col3": "(2.8%)"
-            },
-            {
-                "col1": "Joy",
-                "col2": "2 of 71",
-                "col3": "(2.8%)"
-            },
-            {
-                "col1": "Julian",
-                "col2": "2 of 71",
-                "col3": "(2.8%)"
-            },
-            {
-                "col1": "JustinL",
-                "col2": "2 of 71",
-                "col3": "(2.8%)"
-            },
-            {
-                "col1": "Kristian",
-                "col2": "2 of 71",
-                "col3": "(2.8%)"
-            },
-            {
-                "col1": "LiamM",
-                "col2": "2 of 71",
-                "col3": "(2.8%)"
-            },
-            {
-                "col1": "Lindsey",
-                "col2": "2 of 71",
-                "col3": "(2.8%)"
-            },
-            {
-                "col1": "Major",
-                "col2": "2 of 71",
-                "col3": "(2.8%)"
-            },
-            {
-                "col1": "Manley",
-                "col2": "2 of 71",
-                "col3": "(2.8%)"
-            },
-            {
-                "col1": "MatthewSa",
-                "col2": "2 of 71",
-                "col3": "(2.8%)"
-            },
-            {
-                "col1": "MikeD",
-                "col2": "2 of 71",
-                "col3": "(2.8%)"
-            },
-            {
-                "col1": "Mitchell",
-                "col2": "2 of 71",
-                "col3": "(2.8%)"
-            },
-            {
-                "col1": "Neha",
-                "col2": "2 of 71",
-                "col3": "(2.8%)"
-            },
-            {
-                "col1": "Nuno1",
-                "col2": "2 of 71",
-                "col3": "(2.8%)"
-            },
-            {
-                "col1": "Pascal",
-                "col2": "2 of 71",
-                "col3": "(2.8%)"
-            },
-            {
-                "col1": "Ricardo1",
-                "col2": "2 of 71",
-                "col3": "(2.8%)"
-            },
-            {
-                "col1": "Ricardo2",
-                "col2": "2 of 71",
-                "col3": "(2.8%)"
-            },
-            {
-                "col1": "RichardMa",
-                "col2": "2 of 71",
-                "col3": "(2.8%)"
-            },
-            {
-                "col1": "RickT",
-                "col2": "2 of 71",
-                "col3": "(2.8%)"
-            },
-            {
-                "col1": "RobertS",
-                "col2": "2 of 71",
-                "col3": "(2.8%)"
-            },
-            {
-                "col1": "RobW",
-                "col2": "2 of 71",
-                "col3": "(2.8%)"
-            },
-            {
-                "col1": "Rodrigo",
-                "col2": "2 of 71",
-                "col3": "(2.8%)"
-            },
-            {
-                "col1": "Rousse",
-                "col2": "2 of 71",
-                "col3": "(2.8%)"
-            },
-            {
-                "col1": "Stallone",
-                "col2": "2 of 71",
-                "col3": "(2.8%)"
-            },
-            {
-                "col1": "Tomas",
-                "col2": "2 of 71",
-                "col3": "(2.8%)"
-            },
-            {
-                "col1": "TonyMa",
-                "col2": "2 of 71",
-                "col3": "(2.8%)"
-            },
-            {
-                "col1": "TonyS",
-                "col2": "2 of 71",
-                "col3": "(2.8%)"
-            },
-            {
-                "col1": "Tristan",
-                "col2": "2 of 71",
-                "col3": "(2.8%)"
-            },
-            {
-                "col1": "Vito",
-                "col2": "2 of 71",
+                "col1": "Fernando",
+                "col2": "2 of 72",
                 "col3": "(2.8%)"
             },
             {
                 "col1": "Hernani",
-                "col2": "8 of 71",
-                "col3": "(11.3%)"
+                "col2": "2 of 72",
+                "col3": "(2.8%)"
+            },
+            {
+                "col1": "Jalen",
+                "col2": "2 of 72",
+                "col3": "(2.8%)"
+            },
+            {
+                "col1": "Janelle",
+                "col2": "2 of 72",
+                "col3": "(2.8%)"
+            },
+            {
+                "col1": "JeffB",
+                "col2": "2 of 72",
+                "col3": "(2.8%)"
+            },
+            {
+                "col1": "Jess",
+                "col2": "2 of 72",
+                "col3": "(2.8%)"
+            },
+            {
+                "col1": "JoeD",
+                "col2": "2 of 72",
+                "col3": "(2.8%)"
+            },
+            {
+                "col1": "JohnC",
+                "col2": "2 of 72",
+                "col3": "(2.8%)"
+            },
+            {
+                "col1": "JohnO",
+                "col2": "2 of 72",
+                "col3": "(2.8%)"
+            },
+            {
+                "col1": "JustinL",
+                "col2": "2 of 72",
+                "col3": "(2.8%)"
+            },
+            {
+                "col1": "Kayden",
+                "col2": "2 of 72",
+                "col3": "(2.8%)"
+            },
+            {
+                "col1": "Lena",
+                "col2": "2 of 72",
+                "col3": "(2.8%)"
+            },
+            {
+                "col1": "Maria",
+                "col2": "2 of 72",
+                "col3": "(2.8%)"
+            },
+            {
+                "col1": "MatthewG",
+                "col2": "2 of 72",
+                "col3": "(2.8%)"
+            },
+            {
+                "col1": "Mauricio",
+                "col2": "2 of 72",
+                "col3": "(2.8%)"
+            },
+            {
+                "col1": "Nas",
+                "col2": "2 of 72",
+                "col3": "(2.8%)"
+            },
+            {
+                "col1": "Neha",
+                "col2": "2 of 72",
+                "col3": "(2.8%)"
+            },
+            {
+                "col1": "NickM",
+                "col2": "2 of 72",
+                "col3": "(2.8%)"
+            },
+            {
+                "col1": "RD2026",
+                "col2": "2 of 72",
+                "col3": "(2.8%)"
+            },
+            {
+                "col1": "RickT",
+                "col2": "2 of 72",
+                "col3": "(2.8%)"
+            },
+            {
+                "col1": "Stallone",
+                "col2": "2 of 72",
+                "col3": "(2.8%)"
+            },
+            {
+                "col1": "Stanley",
+                "col2": "2 of 72",
+                "col3": "(2.8%)"
+            },
+            {
+                "col1": "Tanya",
+                "col2": "2 of 72",
+                "col3": "(2.8%)"
+            },
+            {
+                "col1": "TonyMi",
+                "col2": "2 of 72",
+                "col3": "(2.8%)"
+            },
+            {
+                "col1": "TonyV",
+                "col2": "2 of 72",
+                "col3": "(2.8%)"
+            },
+            {
+                "col1": "Victor",
+                "col2": "2 of 72",
+                "col3": "(2.8%)"
+            },
+            {
+                "col1": "Wilson",
+                "col2": "2 of 72",
+                "col3": "(2.8%)"
+            },
+            {
+                "col1": "Chi",
+                "col2": "8 of 72",
+                "col3": "(11.1%)"
+            },
+            {
+                "col1": "Aaron",
+                "col2": "1 of 72",
+                "col3": "(1.4%)"
+            },
+            {
+                "col1": "Arturo",
+                "col2": "1 of 72",
+                "col3": "(1.4%)"
             },
             {
                 "col1": "Atish",
-                "col2": "1 of 71",
+                "col2": "1 of 72",
                 "col3": "(1.4%)"
             },
             {
-                "col1": "Augie",
-                "col2": "1 of 71",
+                "col1": "Cameron",
+                "col2": "1 of 72",
                 "col3": "(1.4%)"
             },
             {
-                "col1": "Bindu",
-                "col2": "1 of 71",
+                "col1": "DanielM",
+                "col2": "1 of 72",
                 "col3": "(1.4%)"
             },
             {
-                "col1": "Brandon",
-                "col2": "1 of 71",
+                "col1": "Darren",
+                "col2": "1 of 72",
                 "col3": "(1.4%)"
             },
             {
-                "col1": "Corey",
-                "col2": "1 of 71",
-                "col3": "(1.4%)"
-            },
-            {
-                "col1": "DarrylMFC",
-                "col2": "1 of 71",
-                "col3": "(1.4%)"
-            },
-            {
-                "col1": "Dashiel",
-                "col2": "1 of 71",
+                "col1": "Dino",
+                "col2": "1 of 72",
                 "col3": "(1.4%)"
             },
             {
                 "col1": "EdwardD",
-                "col2": "1 of 71",
+                "col2": "1 of 72",
                 "col3": "(1.4%)"
             },
             {
-                "col1": "Elizabeth",
-                "col2": "1 of 71",
+                "col1": "FrankC",
+                "col2": "1 of 72",
                 "col3": "(1.4%)"
             },
             {
-                "col1": "Flavio",
-                "col2": "1 of 71",
+                "col1": "GavinH",
+                "col2": "1 of 72",
                 "col3": "(1.4%)"
             },
             {
-                "col1": "HelderA",
-                "col2": "1 of 71",
-                "col3": "(1.4%)"
-            },
-            {
-                "col1": "Jackson",
-                "col2": "1 of 71",
-                "col3": "(1.4%)"
-            },
-            {
-                "col1": "JamesC",
-                "col2": "1 of 71",
-                "col3": "(1.4%)"
-            },
-            {
-                "col1": "JasonB",
-                "col2": "1 of 71",
-                "col3": "(1.4%)"
-            },
-            {
-                "col1": "JeanMichel",
-                "col2": "1 of 71",
-                "col3": "(1.4%)"
-            },
-            {
-                "col1": "JeffT",
-                "col2": "1 of 71",
-                "col3": "(1.4%)"
-            },
-            {
-                "col1": "Jennifer",
-                "col2": "1 of 71",
+                "col1": "GavinW",
+                "col2": "1 of 72",
                 "col3": "(1.4%)"
             },
             {
                 "col1": "JoeP",
-                "col2": "1 of 71",
+                "col2": "1 of 72",
+                "col3": "(1.4%)"
+            },
+            {
+                "col1": "JohnR",
+                "col2": "1 of 72",
+                "col3": "(1.4%)"
+            },
+            {
+                "col1": "JoseP",
+                "col2": "1 of 72",
+                "col3": "(1.4%)"
+            },
+            {
+                "col1": "Joy",
+                "col2": "1 of 72",
                 "col3": "(1.4%)"
             },
             {
                 "col1": "Juan",
-                "col2": "1 of 71",
+                "col2": "1 of 72",
                 "col3": "(1.4%)"
             },
             {
-                "col1": "Kumar",
-                "col2": "1 of 71",
+                "col1": "KevinJ",
+                "col2": "1 of 72",
                 "col3": "(1.4%)"
             },
             {
-                "col1": "Luka",
-                "col2": "1 of 71",
-                "col3": "(1.4%)"
-            },
-            {
-                "col1": "MatthewG",
-                "col2": "1 of 71",
-                "col3": "(1.4%)"
-            },
-            {
-                "col1": "Max",
-                "col2": "1 of 71",
+                "col1": "KyleW",
+                "col2": "1 of 72",
                 "col3": "(1.4%)"
             },
             {
                 "col1": "MichaelPa",
-                "col2": "1 of 71",
+                "col2": "1 of 72",
                 "col3": "(1.4%)"
             },
             {
-                "col1": "Michiel",
-                "col2": "1 of 71",
+                "col1": "Mitchell",
+                "col2": "1 of 72",
                 "col3": "(1.4%)"
             },
             {
-                "col1": "Nas",
-                "col2": "1 of 71",
+                "col1": "Moncef",
+                "col2": "1 of 72",
                 "col3": "(1.4%)"
             },
             {
                 "col1": "Niousha",
-                "col2": "1 of 71",
+                "col2": "1 of 72",
                 "col3": "(1.4%)"
             },
             {
-                "col1": "Nolan",
-                "col2": "1 of 71",
-                "col3": "(1.4%)"
-            },
-            {
-                "col1": "Pam",
-                "col2": "1 of 71",
+                "col1": "Pascal",
+                "col2": "1 of 72",
                 "col3": "(1.4%)"
             },
             {
                 "col1": "Rita",
-                "col2": "1 of 71",
+                "col2": "1 of 72",
+                "col3": "(1.4%)"
+            },
+            {
+                "col1": "RobW",
+                "col2": "1 of 72",
+                "col3": "(1.4%)"
+            },
+            {
+                "col1": "StevenT",
+                "col2": "1 of 72",
                 "col3": "(1.4%)"
             },
             {
                 "col1": "TomP",
-                "col2": "1 of 71",
+                "col2": "1 of 72",
                 "col3": "(1.4%)"
             },
             {
                 "col1": "TonyH",
-                "col2": "1 of 71",
+                "col2": "1 of 72",
+                "col3": "(1.4%)"
+            },
+            {
+                "col1": "Vito",
+                "col2": "1 of 72",
+                "col3": "(1.4%)"
+            },
+            {
+                "col1": "William",
+                "col2": "1 of 72",
                 "col3": "(1.4%)"
             },
             {
                 "col1": "Yogi",
-                "col2": "1 of 71",
+                "col2": "1 of 72",
                 "col3": "(1.4%)"
             },
             {
-                "col1": "Angel",
-                "col2": "0 of 71",
+                "col1": "Albeiro",
+                "col2": "0 of 72",
                 "col3": "(0%)"
             },
             {
-                "col1": "Damian",
-                "col2": "0 of 71",
+                "col1": "Bindu",
+                "col2": "0 of 72",
+                "col3": "(0%)"
+            },
+            {
+                "col1": "DannyL",
+                "col2": "0 of 72",
+                "col3": "(0%)"
+            },
+            {
+                "col1": "DannyRa",
+                "col2": "0 of 72",
                 "col3": "(0%)"
             },
             {
                 "col1": "DavidD",
-                "col2": "0 of 71",
+                "col2": "0 of 72",
                 "col3": "(0%)"
             },
             {
-                "col1": "Jaxon",
-                "col2": "0 of 71",
+                "col1": "Dora",
+                "col2": "0 of 72",
                 "col3": "(0%)"
             },
             {
-                "col1": "JorgeT",
-                "col2": "0 of 71",
+                "col1": "Ethan",
+                "col2": "0 of 72",
+                "col3": "(0%)"
+            },
+            {
+                "col1": "Franco",
+                "col2": "0 of 72",
+                "col3": "(0%)"
+            },
+            {
+                "col1": "FrankI",
+                "col2": "0 of 72",
+                "col3": "(0%)"
+            },
+            {
+                "col1": "Gabriela",
+                "col2": "0 of 72",
+                "col3": "(0%)"
+            },
+            {
+                "col1": "Heather",
+                "col2": "0 of 72",
+                "col3": "(0%)"
+            },
+            {
+                "col1": "Joao",
+                "col2": "0 of 72",
                 "col3": "(0%)"
             },
             {
                 "col1": "Magno",
-                "col2": "0 of 71",
+                "col2": "0 of 72",
                 "col3": "(0%)"
             },
             {
-                "col1": "Michele",
-                "col2": "0 of 71",
+                "col1": "Marta",
+                "col2": "0 of 72",
                 "col3": "(0%)"
             },
             {
-                "col1": "NickM",
-                "col2": "0 of 71",
+                "col1": "Nuno1",
+                "col2": "0 of 0",
                 "col3": "(0%)"
             },
             {
-                "col1": "StevenD",
-                "col2": "0 of 71",
+                "col1": "Nuno2",
+                "col2": "0 of 0",
                 "col3": "(0%)"
             },
             {
-                "col1": "William",
-                "col2": "0 of 71",
+                "col1": "Pam",
+                "col2": "0 of 72",
+                "col3": "(0%)"
+            },
+            {
+                "col1": "Ricardo1",
+                "col2": "0 of 72",
+                "col3": "(0%)"
+            },
+            {
+                "col1": "Rodrigo",
+                "col2": "0 of 72",
+                "col3": "(0%)"
+            },
+            {
+                "col1": "Sam",
+                "col2": "0 of 72",
+                "col3": "(0%)"
+            },
+            {
+                "col1": "Shawn1",
+                "col2": "0 of 72",
+                "col3": "(0%)"
+            },
+            {
+                "col1": "TonyMa",
+                "col2": "0 of 72",
+                "col3": "(0%)"
+            },
+            {
+                "col1": "TonyS",
+                "col2": "0 of 72",
+                "col3": "(0%)"
+            },
+            {
+                "col1": "Vishal",
+                "col2": "0 of 72",
                 "col3": "(0%)"
             }
         ]

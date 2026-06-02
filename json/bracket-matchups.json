@@ -1,23 +1,434 @@
 {
   "r16": [
-    [],
-    [],
-    [],
-    [],
-    [],
-    [],
-    [],
-    []
+    [
+      {
+        "col1": "Spain v Portugal",
+        "col2": "59"
+      },
+      {
+        "col1": "Mexico v Portugal",
+        "col2": "55"
+      },
+      {
+        "col1": "Spain v Ivory Coast",
+        "col2": "52"
+      },
+      {
+        "col1": "Mexico v Ivory Coast",
+        "col2": "48"
+      }
+    ],
+    [
+      {
+        "col1": "France v Croatia",
+        "col2": "56"
+      },
+      {
+        "col1": "Haiti v Croatia",
+        "col2": "56"
+      },
+      {
+        "col1": "France v Senegal",
+        "col2": "53"
+      },
+      {
+        "col1": "Haiti v Senegal",
+        "col2": "49"
+      }
+    ],
+    [
+      {
+        "col1": "England v Ecuador",
+        "col2": "63"
+      },
+      {
+        "col1": "Argentina v Ecuador",
+        "col2": "54"
+      },
+      {
+        "col1": "Argentina v South Africa",
+        "col2": "54"
+      },
+      {
+        "col1": "England v South Africa",
+        "col2": "43"
+      }
+    ],
+    [
+      {
+        "col1": "Canada v South Korea",
+        "col2": "59"
+      },
+      {
+        "col1": "Germany v South Korea",
+        "col2": "58"
+      },
+      {
+        "col1": "Germany v USA",
+        "col2": "56"
+      },
+      {
+        "col1": "Canada v USA",
+        "col2": "41"
+      }
+    ],
+    [
+      {
+        "col1": "Morocco v Colombia",
+        "col2": "55"
+      },
+      {
+        "col1": "Norway v Algeria",
+        "col2": "55"
+      },
+      {
+        "col1": "Morocco v Algeria",
+        "col2": "54"
+      },
+      {
+        "col1": "Norway v Colombia",
+        "col2": "50"
+      }
+    ],
+    [
+      {
+        "col1": "Jordan v Brazil",
+        "col2": "62"
+      },
+      {
+        "col1": "Switzerland v Brazil",
+        "col2": "54"
+      },
+      {
+        "col1": "Jordan v Scotland",
+        "col2": "51"
+      },
+      {
+        "col1": "Switzerland v Scotland",
+        "col2": "47"
+      }
+    ],
+    [
+      {
+        "col1": "Ghana v Iran",
+        "col2": "61"
+      },
+      {
+        "col1": "Ghana v Netherlands",
+        "col2": "54"
+      },
+      {
+        "col1": "Paraguay v Iran",
+        "col2": "50"
+      },
+      {
+        "col1": "Paraguay v Netherlands",
+        "col2": "49"
+      }
+    ],
+    [
+      {
+        "col1": "Uruguay v Australia",
+        "col2": "64"
+      },
+      {
+        "col1": "Japan v Australia",
+        "col2": "51"
+      },
+      {
+        "col1": "Japan v Belgium",
+        "col2": "51"
+      },
+      {
+        "col1": "Uruguay v Belgium",
+        "col2": "48"
+      }
+    ]
   ],
   "quarters": [
-    [],
-    [],
-    [],
-    []
+    [
+      {
+        "col1": "Portugal v France",
+        "col2": "19"
+      },
+      {
+        "col1": "Mexico v France",
+        "col2": "18"
+      },
+      {
+        "col1": "Ivory Coast v France",
+        "col2": "16"
+      },
+      {
+        "col1": "Spain v Croatia",
+        "col2": "16"
+      },
+      {
+        "col1": "Portugal v Haiti",
+        "col2": "15"
+      },
+      {
+        "col1": "Ivory Coast v Haiti",
+        "col2": "14"
+      }
+    ],
+    [
+      {
+        "col1": "Argentina v South Korea",
+        "col2": "20"
+      },
+      {
+        "col1": "Argentina v Germany",
+        "col2": "17"
+      },
+      {
+        "col1": "Argentina v USA",
+        "col2": "16"
+      },
+      {
+        "col1": "South Africa v Canada",
+        "col2": "16"
+      },
+      {
+        "col1": "Ecuador v Canada",
+        "col2": "14"
+      },
+      {
+        "col1": "Ecuador v South Korea",
+        "col2": "14"
+      }
+    ],
+    [
+      {
+        "col1": "Norway v Brazil",
+        "col2": "18"
+      },
+      {
+        "col1": "Algeria v Brazil",
+        "col2": "17"
+      },
+      {
+        "col1": "Morocco v Switzerland",
+        "col2": "17"
+      },
+      {
+        "col1": "Morocco v Jordan",
+        "col2": "16"
+      },
+      {
+        "col1": "Norway v Switzerland",
+        "col2": "16"
+      },
+      {
+        "col1": "Morocco v Scotland",
+        "col2": "15"
+      }
+    ],
+    [
+      {
+        "col1": "Ghana v Australia",
+        "col2": "19"
+      },
+      {
+        "col1": "Netherlands v Uruguay",
+        "col2": "18"
+      },
+      {
+        "col1": "Iran v Uruguay",
+        "col2": "17"
+      },
+      {
+        "col1": "Netherlands v Belgium",
+        "col2": "16"
+      },
+      {
+        "col1": "Ghana v Japan",
+        "col2": "15"
+      },
+      {
+        "col1": "Ghana v Uruguay",
+        "col2": "14"
+      }
+    ]
   ],
   "semis": [
-    [],
-    []
+    [
+      {
+        "col1": "Croatia v Ecuador",
+        "col2": "7"
+      },
+      {
+        "col1": "Portugal v Canada",
+        "col2": "7"
+      },
+      {
+        "col1": "Croatia v South Korea",
+        "col2": "6"
+      },
+      {
+        "col1": "France v USA",
+        "col2": "6"
+      },
+      {
+        "col1": "Haiti v South Africa",
+        "col2": "6"
+      },
+      {
+        "col1": "Ivory Coast v Argentina",
+        "col2": "6"
+      },
+      {
+        "col1": "Mexico v Canada",
+        "col2": "6"
+      },
+      {
+        "col1": "Portugal v England",
+        "col2": "6"
+      },
+      {
+        "col1": "Senegal v Germany",
+        "col2": "6"
+      },
+      {
+        "col1": "Spain v England",
+        "col2": "6"
+      },
+      {
+        "col1": "France v Canada",
+        "col2": "5"
+      }
+    ],
+    [
+      {
+        "col1": "Norway v Ghana",
+        "col2": "8"
+      },
+      {
+        "col1": "Switzerland v Ghana",
+        "col2": "7"
+      },
+      {
+        "col1": "Switzerland v Netherlands",
+        "col2": "7"
+      },
+      {
+        "col1": "Switzerland v Uruguay",
+        "col2": "7"
+      },
+      {
+        "col1": "Brazil v Uruguay",
+        "col2": "6"
+      },
+      {
+        "col1": "Jordan v Uruguay",
+        "col2": "6"
+      },
+      {
+        "col1": "Norway v Iran",
+        "col2": "6"
+      },
+      {
+        "col1": "Norway v Japan",
+        "col2": "6"
+      },
+      {
+        "col1": "Norway v Netherlands",
+        "col2": "6"
+      },
+      {
+        "col1": "Scotland v Uruguay",
+        "col2": "6"
+      },
+      {
+        "col1": "Algeria v Belgium",
+        "col2": "5"
+      }
+    ]
   ],
-  "finals": []
+  "finals": [
+    {
+      "col1": "ARGENTINA vs GHANA",
+      "col2": "5"
+    },
+    {
+      "col1": "CROATIA vs COLOMBIA",
+      "col2": "4"
+    },
+    {
+      "col1": "CROATIA vs URUGUAY",
+      "col2": "4"
+    },
+    {
+      "col1": "FRANCE vs JAPAN",
+      "col2": "4"
+    },
+    {
+      "col1": "HAITI vs SWITZERLAND",
+      "col2": "4"
+    },
+    {
+      "col1": "IVORY COAST vs ALGERIA",
+      "col2": "4"
+    },
+    {
+      "col1": "IVORY COAST vs JORDAN",
+      "col2": "4"
+    },
+    {
+      "col1": "ENGLAND vs NORWAY",
+      "col2": "3"
+    },
+    {
+      "col1": "FRANCE vs NORWAY",
+      "col2": "3"
+    },
+    {
+      "col1": "GERMANY vs AUSTRALIA",
+      "col2": "3"
+    },
+    {
+      "col1": "IVORY COAST vs NORWAY",
+      "col2": "3"
+    },
+    {
+      "col1": "PORTUGAL vs JORDAN",
+      "col2": "3"
+    },
+    {
+      "col1": "SOUTH AFRICA vs NETHERLANDS",
+      "col2": "3"
+    },
+    {
+      "col1": "SOUTH AFRICA vs NORWAY",
+      "col2": "3"
+    },
+    {
+      "col1": "ARGENTINA vs JORDAN",
+      "col2": "2"
+    },
+    {
+      "col1": "ARGENTINA vs MOROCCO",
+      "col2": "2"
+    },
+    {
+      "col1": "ARGENTINA vs SCOTLAND",
+      "col2": "2"
+    },
+    {
+      "col1": "ARGENTINA vs SWITZERLAND",
+      "col2": "2"
+    },
+    {
+      "col1": "CANADA vs BELGIUM",
+      "col2": "2"
+    },
+    {
+      "col1": "CANADA vs JAPAN",
+      "col2": "2"
+    },
+    {
+      "col1": "CANADA vs MOROCCO",
+      "col2": "2"
+    }
+  ]
 }
