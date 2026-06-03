@@ -1,6 +1,6 @@
 {
     "metadata": {
-        "last_updated": "2026-06-03T03:33:35",
+        "last_updated": "2026-06-03T11:30:08",
         "header_stacks": [
             {
                 "top": "M",
@@ -3549,8 +3549,8 @@
             "participant": "Jhon",
             "participant_url": "/predictions/Jhon.html",
             "participant_color": null,
-            "spacer_val": "",
-            "spacer_color": null,
+            "spacer_val": "$",
+            "spacer_color": "#00B050",
             "total_points": 0.0,
             "total_points_color": null,
             "group_points": 0.0,
