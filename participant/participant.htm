@@ -231,8 +231,8 @@
             const matches = (pData.matches && pData.matches[group]) || [];
             html += `<div class="card"><h3>${formatGroup(group)}</h3>`;
             matches.forEach(m => {
-                const hs = m.home_score != null ? m.home_score : '?';
-                const as = m.away_score != null ? m.away_score : '?';
+                const hs = m.home_score != null ? m.home_score : '';
+                const as = m.away_score != null ? m.away_score : '';
                 html += `<div class="match-row">
                     <span class="match-home">${m.home_name || '—'}</span>
                     <span class="match-score">${hs} - ${as}</span>
