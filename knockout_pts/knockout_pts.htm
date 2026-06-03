@@ -10,7 +10,7 @@
         html { width: 100%; }
         *, *::before, *::after { box-sizing: border-box; }
         body { 
-            font-family: Verdana, Geneva, sans-serif; 
+            font-family: Verdana, Geneva, sans-serif; \
             margin: 0; padding: 0; width: 100%;
             background: linear-gradient(rgba(0,0,0,0.45), rgba(0,0,0,0.45)), url('/images/grass.png') center center fixed;
             background-size: cover;
@@ -53,7 +53,9 @@
         .team-name { flex: 1; text-align: right; padding-right: 8px; }
         .team-score { width: 25px; text-align: left; font-weight: bold; }
         
-        .game-cell.actual .team-score { color: #1a6bbf; }
+        /* Font color changes aligned with total_pts.htm */
+        .game-cell.predicted .team-score { color: #004cff; }
+        .game-cell.actual .team-score { color: #000000; }
         
         .pts-span {
             display: flex; align-items: center; justify-content: center;
@@ -62,45 +64,46 @@
         }
         .pts-zero  { background-color: #FFC7CE; color: #EA002D; }
         .pts-pos   { background-color: #C6EFCE; color: #006100; }
+        .pts-empty { background-color: #e9ecef; color: #6c757d; }
 
         .game-divider { grid-column: 1 / -1; border: none; margin: 10px 0; }
         .sticky-header { position: sticky; top: 0; z-index: 999; background-color: #e3e7e8; }
         .sticky-header .container { max-width: 100%; width: 100%; padding-left: 10px; padding-right: 10px; padding-top: 4px; padding-bottom: 4px; }
         .sticky-divider { border: none; border-top: 2px solid #dee2e6; margin: 0; }
 
-		.champion-pts {
-			min-height: 96px;
-			font-size: 1.8em;
-		}
-		
-		.champion-row {
-			display: flex;
-			align-items: center;      /* vertical centering */
-			justify-content: center;  /* horizontal centering */
-			padding-left: 0 !important;
-			padding-right: 0 !important;
-		}
+        .champion-pts {
+            min-height: 96px;
+            font-size: 1.8em;
+        }
+        
+        .champion-row {
+            display: flex;
+            align-items: center;      /* vertical centering */
+            justify-content: center;  /* horizontal centering */
+            padding-left: 0 !important;
+            padding-right: 0 !important;
+        }
 
-		.champion-row .team-row {
-			width: 100%;
-			justify-content: center;
-			align-items: center;
-		}
+        .champion-row .team-row {
+            width: 100%;
+            justify-content: center;
+            align-items: center;
+        }
 
-		.champion-row .team-name {
-			flex: 0 0 auto;
-			text-align: center;
-			padding-right: 0;
-			text-transform: uppercase;
-			font-size: 1.6em;
-			font-weight: bold;
-			white-space: normal; word-break: break-word;
-			color: #004cff;
-		}
+        .champion-row .team-name {
+            flex: 0 0 auto;
+            text-align: center;
+            padding-right: 0;
+            text-transform: uppercase;
+            font-size: 1.6em;
+            font-weight: bold;
+            white-space: normal; word-break: break-word;
+            color: #004cff;
+        }
 
-		.champion-row .team-score {
-			display: none;
-		}
+        .champion-row .team-score {
+            display: none;
+        }
 
         @media (max-width: 700px) {
             .container { width: 100%; max-width: 100%; padding: 4px 6px; box-sizing: border-box; }
@@ -116,20 +119,20 @@
             .total-box .total-val { font-size: 2.2em; }
         }
     </style>
-	<script>
-	  function fitTitle() {
-		const h1 = document.getElementById('participantTitle');
-		if (window.innerWidth > 700) return;
-		let size = 28;
-		h1.style.fontSize = size + 'px';
-		while (h1.scrollWidth > h1.offsetWidth && size > 10) {
-		  size--;
-		  h1.style.fontSize = size + 'px';
-		}
-	  }
-	  window.addEventListener('load', fitTitle);
-	  window.addEventListener('resize', fitTitle);
-	</script>	
+    <script>
+      function fitTitle() {
+        const h1 = document.getElementById('participantTitle');
+        if (window.innerWidth > 700) return;
+        let size = 28;
+        h1.style.fontSize = size + 'px';
+        while (h1.scrollWidth > h1.offsetWidth && size > 10) {
+          size--;
+          h1.style.fontSize = size + 'px';
+        }
+      }
+      window.addEventListener('load', fitTitle);
+      window.addEventListener('resize', fitTitle);
+    </script>    
     <script>
         fetch('../navbar.html')
             .then(r => r.text())
@@ -155,8 +158,8 @@
 
 <script>
     const params = new URLSearchParams(window.location.search);
-	const rawName = params.get('name') || "Participant";
-	const displayName = rawName;
+    const rawName = params.get('name') || "Participant";
+    const displayName = rawName;
     document.getElementById('participantTitle').innerText = `${displayName}'s KNOCKOUT STAGE Points`;
 
     function renderTeam(name, score) {
@@ -179,10 +182,17 @@
 
         games.forEach((g, i) => {
             const hasPred = g.pred_home_name != null && String(g.pred_home_name).trim() !== '';
-            const ptsClass = g.pts_awarded === 0 ? 'pts-zero' : 'pts-pos';
-            const ptsCell = hasPred
-                ? `<div class="pts-span ${ptsClass}" style="grid-row: span 2">${g.pts_awarded ?? ''}</div>`
-                : `<div style="grid-row: span 2"></div>`;
+            
+            let ptsCell = `<div class="pts-span pts-empty" style="grid-row: span 2"></div>`;
+            if (hasPred) {
+                if (g.pts_awarded === null || g.pts_awarded === undefined || g.pts_awarded === '') {
+                    ptsCell = `<div class="pts-span pts-empty" style="grid-row: span 2"></div>`;
+                } else {
+                    const ptsClass = g.pts_awarded === 0 ? 'pts-zero' : 'pts-pos';
+                    ptsCell = `<div class="pts-span ${ptsClass}" style="grid-row: span 2">${g.pts_awarded}</div>`;
+                }
+            }
+
             html += `
                 <div class="game-cell predicted">${renderTeam(g.pred_home_name, g.pred_home_score)}</div>
                 ${ptsCell}
@@ -199,40 +209,46 @@
         return html;
     }
 
-	function buildChampionCard(title, game) {
-		const hasPred = game.pred_home_name != null && String(game.pred_home_name).trim() !== '';
-		const ptsClass = game.pts_awarded === 0 ? 'pts-zero' : 'pts-pos';
-		const ptsCell = hasPred
-			? `<div class="pts-span ${ptsClass} champion-pts" style="min-height:64px;">${game.pts_awarded ?? ''}</div>`
-			: `<div style="min-height:64px;"></div>`;
+    function buildChampionCard(title, game) {
+        const hasPred = game.pred_home_name != null && String(game.pred_home_name).trim() !== '';
+        
+        let ptsCell = `<div class="pts-span pts-empty champion-pts" style="min-height:64px;"></div>`;
+        if (hasPred) {
+            if (game.pts_awarded === null || game.pts_awarded === undefined || game.pts_awarded === '') {
+                ptsCell = `<div class="pts-span pts-empty champion-pts" style="min-height:64px;"></div>`;
+            } else {
+                const ptsClass = game.pts_awarded === 0 ? 'pts-zero' : 'pts-pos';
+                ptsCell = `<div class="pts-span ${ptsClass} champion-pts" style="min-height:64px;">${game.pts_awarded}</div>`;
+            }
+        }
 
-		return `
-			<div class="card">
-				<h3>${title}</h3>
+        return `
+            <div class="card">
+                <h3>${title}</h3>
 
-				<div class="bracket-grid">
-					<div class="bracket-header">Predicted</div>
-					<div class="bracket-header">Pts</div>
-					<div class="bracket-header">Actual</div>
+                <div class="bracket-grid">
+                    <div class="bracket-header">Predicted</div>
+                    <div class="bracket-header">Pts</div>
+                    <div class="bracket-header">Actual</div>
 
-					<div style="height:10px"></div>
-					<div style="height:10px"></div>
-					<div style="height:10px"></div>
+                    <div style="height:10px"></div>
+                    <div style="height:10px"></div>
+                    <div style="height:10px"></div>
 
-					<div class="game-cell predicted champion-row"
-						 style="min-height:64px;">
-						${renderTeam(game.pred_home_name, '')}
-					</div>
+                    <div class="game-cell predicted champion-row"
+                         style="min-height:64px;">
+                        ${renderTeam(game.pred_home_name, '')}
+                    </div>
 
-					${ptsCell}
+                    ${ptsCell}
 
-					<div class="game-cell actual champion-row"
-						 style="min-height:64px;">
-						${renderTeam(game.act_home_name, '')}
-					</div>
-				</div>
-			</div>`;
-	}
+                    <div class="game-cell actual champion-row"
+                         style="min-height:64px;">
+                        ${renderTeam(game.act_home_name, '')}
+                    </div>
+                </div>
+            </div>`;
+    }
 
     fetch('/json/knockout_pts.json')
         .then(response => response.json())
