@@ -67,8 +67,10 @@
             white-space: nowrap;
             overflow: hidden;
         }
-        .ans-cell.predicted { text-align: center; }
-        .ans-cell.actual    { color: #1a6bbf; font-weight: bold; text-align: center; }
+        /* Color change for Predicted values */
+        .ans-cell.predicted { color: #004cff; text-align: center; }
+        /* Color change for Actual values (changed from #1a6bbf to black) */
+        .ans-cell.actual    { color: #000000; font-weight: bold; text-align: center; }
 
         .pts-span {
             display: flex; align-items: center; justify-content: center;

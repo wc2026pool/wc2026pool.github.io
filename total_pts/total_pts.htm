@@ -39,6 +39,9 @@
         .match-grid .cell-matchup span,
         .match-grid .cell-pred span,
         .match-grid .cell-act span { display: inline; }
+        
+        /* Font color change for Group Matches Predicted values */
+        .match-grid .cell-pred { color: #004cff; }
 
         /* RANKINGS GRID */
         .rank-grid {
@@ -48,6 +51,9 @@
         .rank-header { font-weight: bold; background: #e9ecef; padding: 4px; border-radius: 4px; }
         .rank-col { text-align: center; }
         .rank-item { padding: 3px; border-bottom: 1px solid #eee; font-size: 0.9em; }
+        
+        /* Font color change for Group Rank Predicted column entries */
+        .rank-col-pred .rank-item { color: #004cff; }
 
         /* Conditional Point Styles - Group */
         .pts-0 { background-color: #FFC7CE; color: #EA002D; font-weight: bold; padding: 2px 16px; border-radius: 3px; display: inline-block; min-width: 24px; }
@@ -79,6 +85,10 @@
         .team-row { display: flex; align-items: center; }
         .team-name { flex: 1; text-align: right; padding-right: 8px; }
         .team-score { width: 25px; text-align: left; font-weight: bold; }
+        
+        /* Font color change for Knockout Stage Predicted score column */
+        .game-cell.predicted .team-score { color: #004cff; }
+        
         .game-cell.actual .team-score { color: #000; }
         .pts-span {
             display: flex; align-items: center; justify-content: center;
@@ -86,6 +96,7 @@
         }
         .pts-zero { background-color: #FFC7CE; color: #EA002D; }
         .pts-pos  { background-color: #C6EFCE; color: #006100; }
+        .pts-blank-cell { background: transparent; border: none; box-shadow: none; color: transparent; }
         .game-divider { grid-column: 1 / -1; border: none; margin: 10px 0; }
 
         /* Champion card */
@@ -217,10 +228,17 @@
                 <div style="height:10px"></div><div style="height:10px"></div><div style="height:10px"></div>`;
         games.forEach((g, i) => {
             const hasPred = g.pred_home_name != null && g.pred_home_name !== '';
-            const ptsClass = g.pts_awarded === 0 ? 'pts-zero' : 'pts-pos';
-            const ptsCell = hasPred
-                ? `<div class="pts-span ${ptsClass}" style="grid-row: span 2">${g.pts_awarded ?? ''}</div>`
-                : `<div style="grid-row: span 2"></div>`;
+            
+            let ptsCell = `<div style="grid-row: span 2"></div>`;
+            if (hasPred) {
+                if (g.pts_awarded === null || g.pts_awarded === undefined || g.pts_awarded === '') {
+                    ptsCell = `<div class="pts-span pts-blank-cell" style="grid-row: span 2"></div>`;
+                } else {
+                    const ptsClass = g.pts_awarded === 0 ? 'pts-zero' : 'pts-pos';
+                    ptsCell = `<div class="pts-span ${ptsClass}" style="grid-row: span 2">${g.pts_awarded}</div>`;
+                }
+            }
+            
             html += `
                 <div class="game-cell predicted">${renderTeam(g.pred_home_name, g.pred_home_score)}</div>
                 ${ptsCell}
@@ -235,10 +253,17 @@
 
     function buildChampionCard(title, game) {
         const hasPred = game.pred_home_name != null && String(game.pred_home_name).trim() !== '';
-        const ptsClass = game.pts_awarded === 0 ? 'pts-zero' : 'pts-pos';
-        const ptsCell = hasPred
-            ? `<div class="pts-span ${ptsClass} champion-pts" style="min-height:64px;">${game.pts_awarded ?? ''}</div>`
-            : `<div style="min-height:64px;"></div>`;
+        
+        let ptsCell = `<div style="min-height:64px;"></div>`;
+        if (hasPred) {
+            if (game.pts_awarded === null || game.pts_awarded === undefined || game.pts_awarded === '') {
+                ptsCell = `<div class="pts-span pts-blank-cell champion-pts" style="min-height:64px;"></div>`;
+            } else {
+                const ptsClass = game.pts_awarded === 0 ? 'pts-zero' : 'pts-pos';
+                ptsCell = `<div class="pts-span ${ptsClass} champion-pts" style="min-height:64px;">${game.pts_awarded}</div>`;
+            }
+        }
+        
         return `<div class="card">
             <h3>${title}</h3>
             <div class="bracket-grid">
@@ -345,7 +370,7 @@
                         <div class="rank-header">Predicted</div>
                         <div class="rank-header">Pts</div>
                         <div class="rank-header">Actual Order</div>
-                        <div class="rank-col">${playerRows}</div>
+                        <div class="rank-col rank-col-pred">${playerRows}</div>
                         <div class="pts-cell ${rankClass}">
                             <div class="pts-val">${ptsDisplay}</div>
                         </div>
