@@ -293,7 +293,7 @@
                 const renderLink = (val, hexColor, name) => {
                     if (val === "" || val == null) return "";
                     const styleAttr = hexColor ? `style="color: ${hexColor} !important; font-weight: bold;"` : 'style="font-weight: bold;"';
-                    return `<a href="possible_pts.htm?name=${encodeURIComponent(name)}" ${styleAttr}>${val}</a>`;
+                    return `<a href="/possible_pts/possible_pts.htm?name=${encodeURIComponent(name)}" ${styleAttr}>${val}</a>`;
                 };
 
                 // --- Generate Standard Desktop Rows ---
