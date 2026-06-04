@@ -326,7 +326,15 @@
   fetch('/chatbot.html')
     .then(r => r.text())
     .then(html => {
-      document.getElementById('chatbot-placeholder').innerHTML = html;
+      const placeholder = document.getElementById('chatbot-placeholder');
+      // Inject the non-script HTML
+      placeholder.innerHTML = html;
+      // Re-execute any scripts manually
+      placeholder.querySelectorAll('script').forEach(oldScript => {
+        const newScript = document.createElement('script');
+        newScript.textContent = oldScript.textContent;
+        document.body.appendChild(newScript);
+      });
     });
 </script>
 </body>
