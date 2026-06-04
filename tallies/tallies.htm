@@ -430,5 +430,14 @@
   window.addEventListener('resize', calculateStickyOffsets);
 </script>
 
+
+<div id="chatbot-placeholder"></div>
+<script>
+  fetch('/chatbot.html')
+    .then(r => r.text())
+    .then(html => {
+      document.getElementById('chatbot-placeholder').innerHTML = html;
+    });
+</script>
 </body>
 </html>

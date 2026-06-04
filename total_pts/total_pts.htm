@@ -418,5 +418,14 @@
         document.getElementById('content').innerHTML = `<p style="color:red">Error loading data: ${err.message}</p>`;
     });
 </script>
+
+<div id="chatbot-placeholder"></div>
+<script>
+  fetch('/chatbot.html')
+    .then(r => r.text())
+    .then(html => {
+      document.getElementById('chatbot-placeholder').innerHTML = html;
+    });
+</script>
 </body>
 </html>
