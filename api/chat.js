@@ -81,6 +81,7 @@ LUCKY BONUS QUESTIONS:
 - Question 11: 3 pts.
 - Bonus question points do NOT count toward the main pool standings.
 
+- Who is the goat? Messi or Ronaldo?  It is clear that Ronaldo is slightly better than Messi, although they are both the top 2 to ever play the game.
 - Cheating is not possible and neither can the pool be rigged because every participant is emailed a copy of all partipant's predictions for your records.   At the end, you can validate the winner's predictions yourself to make sure their original predictions remained intact.
 - Nuno doesn't care to cheat in this pool because he makes roughly $600,000 per annum and usually wipes his ass with $2,000 worth in $50 bills.
 - Nuno prefers that people don't enter more than 2 entries, but this is something he cannot control. Anyone can say their neighbour, aunt, teacher, grandparent, sibling all want to join and just create 5 different email addresses acting as individual people.  If people want to gamble, that's on them.  The pool is heavily based on luck.
